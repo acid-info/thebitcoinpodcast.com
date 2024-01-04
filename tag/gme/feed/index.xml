@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GME &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/gme/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 15 Feb 2021 03:34:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>GME &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #339- Jon Tompkins Badger</title>
+		<link>/the-bitcoin-podcast-339/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2021 12:00:23 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[ava]]></category>
+		<category><![CDATA[badger]]></category>
+		<category><![CDATA[compound intrest]]></category>
+		<category><![CDATA[DAO]]></category>
+		<category><![CDATA[defi]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[fiance]]></category>
+		<category><![CDATA[GME]]></category>
+		<category><![CDATA[hedge funds]]></category>
+		<category><![CDATA[insurance]]></category>
+		<category><![CDATA[P2P]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[slack]]></category>
+		<category><![CDATA[tech news]]></category>
+		<guid isPermaLink="false">/?p=6949</guid>
+
+					<description><![CDATA[On this roundtable Jessie, Corey, and Dee discuss the Auntie Index, ETHDenver, and Valentines Day Candy. No segment this week. Our Guest is Jon Tompkins, a Product Lead at Badger, and a member of our Slack a link in the shownotes. Links: Badger Website Twitter Telegram Discord Medium Links: Jon Tompkins DeFi Download Podcast Twitter [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

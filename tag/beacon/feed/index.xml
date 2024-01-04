@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>beacon &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/beacon/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 14 Dec 2020 19:52:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>beacon &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #98-ETH 2.0 Panel After The Launch</title>
+		<link>/hashing-it-out-98/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 12:00:59 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[32 ETH]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[beacon]]></category>
+		<category><![CDATA[beacon chain]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[eth 2.0]]></category>
+		<category><![CDATA[ETH One]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[malicious]]></category>
+		<category><![CDATA[network]]></category>
+		<category><![CDATA[nodes]]></category>
+		<category><![CDATA[optimization]]></category>
+		<category><![CDATA[Proof of Work]]></category>
+		<category><![CDATA[Proof-Of-Stake]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+		<category><![CDATA[slashing]]></category>
+		<category><![CDATA[validator]]></category>
+		<guid isPermaLink="false">/?p=6906</guid>
+
+					<description><![CDATA[Jaye and Corey lead a panel discussion about the Aftermath of The Beacon Chain Launch for ETH 2.0. Panel members are Ben Edington (ConsenSys) and Gregory Markou(ChainSafe). Links: ETH 2.0 Panel Jaye Harrill Website Twitter Ben Edington Website Twitter Gregory Markou Website Twitter Sponsor Links Avalanche The Hashing It Out Social Media Slack Donate to [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Bitcoin Podcast #330- Rachel Siegel CryptoFinally</title>
+		<link>/the-bitcoin-podcast-330/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2020 12:00:22 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Bagels]]></category>
+		<category><![CDATA[beacon]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[control room]]></category>
+		<category><![CDATA[crypto twitters]]></category>
+		<category><![CDATA[doge]]></category>
+		<category><![CDATA[drama]]></category>
+		<category><![CDATA[eth 2.0]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[high]]></category>
+		<category><![CDATA[Influences]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[price]]></category>
+		<category><![CDATA[shorting]]></category>
+		<category><![CDATA[snap chat]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[softbank]]></category>
+		<category><![CDATA[teaching]]></category>
+		<category><![CDATA[twitch]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<guid isPermaLink="false">/?p=6880</guid>
+
+					<description><![CDATA[Corey will be back next week. Meanwhile, Jesse and Dee hold it down on this roundtable talk about price,the launch of ETH 2.0, and Social Media Drama. Our Guest is Rachel Siegel CryptoFinally. Links:CryptoFinally Website Twitter YouTube Sponsor Links Avalanche The Bitcoin Podcast Social Media Join-Slack Bitcoin Store Patreon Donate!]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

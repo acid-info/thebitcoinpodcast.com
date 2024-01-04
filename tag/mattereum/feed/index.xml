@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mattereum &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/mattereum/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 16 Aug 2019 17:22:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>mattereum &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #56 &#8211; Mattereum &#8211; Vinay Gupta</title>
+		<link>/hashing-it-out-56-mattereum-vinay-gupta/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Fri, 16 Aug 2019 13:46:01 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Hashing It Out]]></category>
+		<category><![CDATA[mattereum]]></category>
+		<category><![CDATA[vinay gupta]]></category>
+		<guid isPermaLink="false">/?p=5770</guid>
+
+					<description><![CDATA[This episode, Corey brings on Vinay Gupta from the Mattereum project. This was spawned from a tweet thread from Vinay about people and their stuff that excited Corey, and the following conversation does not dissapoint. Today, we dive into the fundamentals about the transaction costs associated with the lifecycle management of physical goods. What does [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

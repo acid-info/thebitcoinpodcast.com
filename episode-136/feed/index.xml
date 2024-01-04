@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Episode #136: A New Type of Ownership	</title>
+	<atom:link href="/episode-136/feed/" rel="self" type="application/rss+xml" />
+	<link>/episode-136/</link>
+	<description></description>
+	<lastBuildDate>Mon, 03 Jul 2017 10:01:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Tomek		</title>
+		<link>/episode-136/#comment-355</link>
+
+		<dc:creator><![CDATA[Tomek]]></dc:creator>
+		<pubDate>Mon, 03 Jul 2017 10:01:49 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2221#comment-355</guid>
+
+					<description><![CDATA[Wow awesome interview]]></description>
+			<content:encoded><![CDATA[<p>Wow awesome interview</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

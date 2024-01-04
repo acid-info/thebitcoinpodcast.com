@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Episode #179: Innovations and Healthcare	</title>
+	<atom:link href="/episode-179/feed/" rel="self" type="application/rss+xml" />
+	<link>/episode-179/</link>
+	<description></description>
+	<lastBuildDate>Mon, 22 Jan 2018 21:26:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Gustavo Carvalheira		</title>
+		<link>/episode-179/#comment-422</link>
+
+		<dc:creator><![CDATA[Gustavo Carvalheira]]></dc:creator>
+		<pubDate>Mon, 22 Jan 2018 21:26:50 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3327#comment-422</guid>
+
+					<description><![CDATA[The app verifies all eligibility based on patient plan and the clearance process are made at the doctor desk by an online system or app. Very clear process.]]></description>
+			<content:encoded><![CDATA[<p>The app verifies all eligibility based on patient plan and the clearance process are made at the doctor desk by an online system or app. Very clear process.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Gustavo Carvalheira		</title>
+		<link>/episode-179/#comment-421</link>
+
+		<dc:creator><![CDATA[Gustavo Carvalheira]]></dc:creator>
+		<pubDate>Mon, 22 Jan 2018 21:14:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3327#comment-421</guid>
+
+					<description><![CDATA[In Brazil care wallets are already In place for decades. I have my insurance company  code and smartphone app. When I need a doctor, I go through the app, choose the specialty and I receive a list of at least 10 doctors in my neighborhood. It is not in a blockchain already but the care wallet is still in place.
+
+Best.]]></description>
+			<content:encoded><![CDATA[<p>In Brazil care wallets are already In place for decades. I have my insurance company  code and smartphone app. When I need a doctor, I go through the app, choose the specialty and I receive a list of at least 10 doctors in my neighborhood. It is not in a blockchain already but the care wallet is still in place.</p>
+<p>Best.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

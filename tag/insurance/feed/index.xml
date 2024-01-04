@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>insurance &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/insurance/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 15 Feb 2021 03:34:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>insurance &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #339- Jon Tompkins Badger</title>
+		<link>/the-bitcoin-podcast-339/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2021 12:00:23 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[ava]]></category>
+		<category><![CDATA[badger]]></category>
+		<category><![CDATA[compound intrest]]></category>
+		<category><![CDATA[DAO]]></category>
+		<category><![CDATA[defi]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[fiance]]></category>
+		<category><![CDATA[GME]]></category>
+		<category><![CDATA[hedge funds]]></category>
+		<category><![CDATA[insurance]]></category>
+		<category><![CDATA[P2P]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[slack]]></category>
+		<category><![CDATA[tech news]]></category>
+		<guid isPermaLink="false">/?p=6949</guid>
+
+					<description><![CDATA[On this roundtable Jessie, Corey, and Dee discuss the Auntie Index, ETHDenver, and Valentines Day Candy. No segment this week. Our Guest is Jon Tompkins, a Product Lead at Badger, and a member of our Slack a link in the shownotes. Links: Badger Website Twitter Telegram Discord Medium Links: Jon Tompkins DeFi Download Podcast Twitter [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hashing It Out #77-Tendermint &#038; Cosmos w/ Brent, Chjango , and Sunny</title>
+		<link>/hashing-it-out-77/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 02 Apr 2020 13:30:12 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[AML]]></category>
+		<category><![CDATA[Binance]]></category>
+		<category><![CDATA[block headers]]></category>
+		<category><![CDATA[Cosmos]]></category>
+		<category><![CDATA[defi]]></category>
+		<category><![CDATA[edge case]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[ether mint]]></category>
+		<category><![CDATA[evm]]></category>
+		<category><![CDATA[FINCEN]]></category>
+		<category><![CDATA[gas]]></category>
+		<category><![CDATA[great depression]]></category>
+		<category><![CDATA[IBC]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[institutional investors]]></category>
+		<category><![CDATA[insurance]]></category>
+		<category><![CDATA[KYC]]></category>
+		<category><![CDATA[multi-chains]]></category>
+		<category><![CDATA[multi-sig]]></category>
+		<category><![CDATA[oracle]]></category>
+		<category><![CDATA[Peggy]]></category>
+		<category><![CDATA[recession]]></category>
+		<category><![CDATA[SDK]]></category>
+		<category><![CDATA[solidity]]></category>
+		<category><![CDATA[state of proofs]]></category>
+		<category><![CDATA[tendermint]]></category>
+		<category><![CDATA[transfer]]></category>
+		<category><![CDATA[validity]]></category>
+		<guid isPermaLink="false">/?p=6451</guid>
+
+					<description><![CDATA[Sunny, Brent, and Chjango of Tendermint breakdown the components of the Cosmos Network from the IBC, Cosmos SDK, and the Cosmos Hub. Sunny covers what the future of Cosmos will be within the coming year. Chjango talks about Cosmos test network named Game of Zones which launches May 1 2020. Links: Website-Tendermint Website-Cosmos Network GamesofZones [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hashing It Out #75-Truman Esmond- VP of AAIS</title>
+		<link>/hashing-it-out-75/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2020 22:14:33 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[hyperledger]]></category>
+		<category><![CDATA[insurance]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[non profit]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<guid isPermaLink="false">/?p=6402</guid>
+
+					<description><![CDATA[On today&#8217;s episode, Corey and Collin talk with Truman Esmond, VP of Solutions and Partnerships at the American Association of Insurance Services (AAIS). Why are we talking to insurance folks, you ask? Because they&#8217;ve partnered with IBM to launch the openIDL platform to help aggregate company data while maintaining privacy and compliance. We ask how [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>BlockChannel Episode 12: In Ethereum, WeTrust</title>
+		<link>/bc12/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Wed, 22 Feb 2017 00:22:46 +0000</pubDate>
+				<category><![CDATA[Sponsored Posts]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Dee]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[George Li]]></category>
+		<category><![CDATA[insurance]]></category>
+		<category><![CDATA[McKie]]></category>
+		<category><![CDATA[Patrick Long]]></category>
+		<category><![CDATA[Petty]]></category>
+		<category><![CDATA[ROSCA]]></category>
+		<category><![CDATA[WeTrust]]></category>
+		<guid isPermaLink="false">/?p=1799</guid>
+
+					<description><![CDATA[On this episode of BlockChannel, McKie, Dee, and Petty speak with George Li and Patrick Long of WeTrust.io in this jam packed double-header. George and Patrick fill us in on their impressive educational backgrounds, where their idea for WeTrust originated from, their upcoming token launch, P2P lending, and much more. If you&#8217;re curious how P2P [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

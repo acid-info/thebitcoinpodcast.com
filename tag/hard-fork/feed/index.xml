@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hard Fork &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/hard-fork/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 24 Nov 2019 08:25:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Hard Fork &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #284-Julien Genestoux- Unlock Protocol</title>
+		<link>/the-bitcoin-podcast-284/</link>
+					<comments>/the-bitcoin-podcast-284/#comments</comments>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2019 12:00:37 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Careless Whisper]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Decentralize]]></category>
+		<category><![CDATA[Etheruem]]></category>
+		<category><![CDATA[Finance industry]]></category>
+		<category><![CDATA[George Micheal]]></category>
+		<category><![CDATA[Hard Fork]]></category>
+		<category><![CDATA[Lightning Network]]></category>
+		<category><![CDATA[Mastecard]]></category>
+		<category><![CDATA[Micro-Community]]></category>
+		<category><![CDATA[Microeconomics]]></category>
+		<category><![CDATA[Montetize]]></category>
+		<category><![CDATA[Paywall]]></category>
+		<category><![CDATA[Publishing]]></category>
+		<category><![CDATA[Scaling Debate]]></category>
+		<category><![CDATA[Stone Cold Steve Austin]]></category>
+		<category><![CDATA[The Watchmen]]></category>
+		<category><![CDATA[Token]]></category>
+		<category><![CDATA[Unlock]]></category>
+		<category><![CDATA[Visa]]></category>
+		<guid isPermaLink="false">/?p=6011</guid>
+
+					<description><![CDATA[In this episode, Dee and Dr. Corey Petty cover the concept of micro-communities and how blockchain can help develop a micro-economy to incentives these micro-communities. Then they end the round table discussion with their bi-monthly debate on Bitcoin scaling and what will that scaling even look like for Bitcoin. The interview is with Julien Genestoux [&#8230;]]]></description>
+		
+					<wfw:commentRss>/the-bitcoin-podcast-284/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

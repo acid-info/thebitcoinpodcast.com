@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Bitcoin Podcast #202: Roger Ver	</title>
+	<atom:link href="/episode-202/feed/" rel="self" type="application/rss+xml" />
+	<link>/episode-202/</link>
+	<description></description>
+	<lastBuildDate>Wed, 06 Jun 2018 16:45:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: lol		</title>
+		<link>/episode-202/#comment-448</link>
+
+		<dc:creator><![CDATA[lol]]></dc:creator>
+		<pubDate>Mon, 28 May 2018 22:11:37 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3980#comment-448</guid>
+
+					<description><![CDATA[The only thing worse for crypto than Roger Ver is Craig Wright. Terrible people. Terrible voice in crypto. Fade to obscurity please.]]></description>
+			<content:encoded><![CDATA[<p>The only thing worse for crypto than Roger Ver is Craig Wright. Terrible people. Terrible voice in crypto. Fade to obscurity please.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Red		</title>
+		<link>/episode-202/#comment-446</link>
+
+		<dc:creator><![CDATA[Red]]></dc:creator>
+		<pubDate>Sun, 13 May 2018 19:49:26 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3980#comment-446</guid>
+
+					<description><![CDATA[Hey Guys, thanks for a great episode. A little about me. I invested in early 2011. I have been a fan of Roger Ver since the beginning. I still am. I think he&#039;s right about everything. Block size limits are stupid. Long live BCH. Peace.]]></description>
+			<content:encoded><![CDATA[<p>Hey Guys, thanks for a great episode. A little about me. I invested in early 2011. I have been a fan of Roger Ver since the beginning. I still am. I think he&#8217;s right about everything. Block size limits are stupid. Long live BCH. Peace.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

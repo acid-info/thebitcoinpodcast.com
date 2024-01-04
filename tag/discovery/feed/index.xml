@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>discovery &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/discovery/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 05 Nov 2020 02:53:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>discovery &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #96- Fetch. AI COO Toby Simpson</title>
+		<link>/hashing-it-out-96/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2020 12:00:12 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[autinomous economic agents]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[deep learning]]></category>
+		<category><![CDATA[Developer]]></category>
+		<category><![CDATA[discovery]]></category>
+		<category><![CDATA[ERC-20]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[fetch.ai]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[toby simpson]]></category>
+		<category><![CDATA[Token]]></category>
+		<category><![CDATA[use case]]></category>
+		<guid isPermaLink="false">/?p=6852</guid>
+
+					<description><![CDATA[Toby Simpson is COO of Fetch.ai. This company is building these Autonomous Economic Agents that can perform proactive economic activity using the combination of blockchain and AI technologies. Links: Fetch.ai Website Twitter Telegram Github Sponsor Links Avalanche The Hashing It Out Social Media Slack Donate to Hashing It Out Discuss]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

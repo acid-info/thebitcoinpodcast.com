@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bitcoin ben &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/bitcoin-ben/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 29 May 2019 15:21:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>bitcoin ben &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bullpen Podcast #37: Like Cocaine in the 80’s</title>
+		<link>/the-bull-pen-37/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Wed, 29 May 2019 15:21:03 +0000</pubDate>
+				<category><![CDATA[The Bull Pen Podcast]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[bitcoin ben]]></category>
+		<category><![CDATA[bullpen podcast]]></category>
+		<category><![CDATA[craig wright]]></category>
+		<category><![CDATA[Litecoin]]></category>
+		<category><![CDATA[lyndon]]></category>
+		<category><![CDATA[The Bitcoin Podcast]]></category>
+		<guid isPermaLink="false">/?p=5579</guid>
+
+					<description><![CDATA[Description: In Episode 37 of The Bull Pen Podcast, The Crypto Bully steps back into the Bull Pen with Bitcoin Ben. Back at it again, Lyndon and Ben can’t help but let the good times roll with a conversation full of jokes, laughter and cryptocurrency. This go around Ben shares his opinions on Craig Wright [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: BlockChannel Episode 1: Empowering Creativity with Technology	</title>
+	<atom:link href="/bc1/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc1/</link>
+	<description></description>
+	<lastBuildDate>Mon, 02 Jan 2017 21:45:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Kutya		</title>
+		<link>/bc1/#comment-333</link>
+
+		<dc:creator><![CDATA[Kutya]]></dc:creator>
+		<pubDate>Sun, 27 Nov 2016 21:30:48 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1448#comment-333</guid>
+
+					<description><![CDATA[https://imgur.com/gallery/Y2eRs]]></description>
+			<content:encoded><![CDATA[<p><a href="https://imgur.com/gallery/Y2eRs" rel="nofollow ugc">https://imgur.com/gallery/Y2eRs</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: zaphod		</title>
+		<link>/bc1/#comment-329</link>
+
+		<dc:creator><![CDATA[zaphod]]></dc:creator>
+		<pubDate>Sat, 05 Nov 2016 13:20:44 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1448#comment-329</guid>
+
+					<description><![CDATA[normalize your audio!]]></description>
+			<content:encoded><![CDATA[<p>normalize your audio!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

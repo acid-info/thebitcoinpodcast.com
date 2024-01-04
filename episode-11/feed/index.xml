@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Episode #11: The End of Money	</title>
+	<atom:link href="/episode-11/feed/" rel="self" type="application/rss+xml" />
+	<link>/episode-11/</link>
+	<description></description>
+	<lastBuildDate>Sat, 08 Aug 2015 21:54:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: artstateofmind@gmail.com		</title>
+		<link>/episode-11/#comment-5</link>
+
+		<dc:creator><![CDATA[artstateofmind@gmail.com]]></dc:creator>
+		<pubDate>Sat, 08 Aug 2015 21:54:10 +0000</pubDate>
+		<guid isPermaLink="false">/?p=226#comment-5</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/episode-11/#comment-4&quot;&gt;shmadz&lt;/a&gt;.
+
+Thanks so much!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/episode-11/#comment-4">shmadz</a>.</p>
+<p>Thanks so much!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: shmadz		</title>
+		<link>/episode-11/#comment-4</link>
+
+		<dc:creator><![CDATA[shmadz]]></dc:creator>
+		<pubDate>Sat, 08 Aug 2015 03:58:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=226#comment-4</guid>
+
+					<description><![CDATA[I like the laid back feel, relaxed and unconcerned.
+
+I especially liked when the one guy said &quot;don&#039;t bother sending us visa or PayPal, just send your bitcoins&quot; (paraphrasing) 
+
+I&#039;d like to send bitcoins, but I can&#039;t find your address...   Whether or not I&#039;m a big idiot, your address needs to be more accessible, make it prominent! Make it public!
+
+I guess I might click on that &quot;donate bitcoins&quot; button, but that just seems like cheating.
+
+Anyways, great show, best of luck]]></description>
+			<content:encoded><![CDATA[<p>I like the laid back feel, relaxed and unconcerned.</p>
+<p>I especially liked when the one guy said &#8220;don&#8217;t bother sending us visa or PayPal, just send your bitcoins&#8221; (paraphrasing) </p>
+<p>I&#8217;d like to send bitcoins, but I can&#8217;t find your address&#8230;   Whether or not I&#8217;m a big idiot, your address needs to be more accessible, make it prominent! Make it public!</p>
+<p>I guess I might click on that &#8220;donate bitcoins&#8221; button, but that just seems like cheating.</p>
+<p>Anyways, great show, best of luck</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

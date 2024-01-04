@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>podcast &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/podcast/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 15 Feb 2021 03:34:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>podcast &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #339- Jon Tompkins Badger</title>
+		<link>/the-bitcoin-podcast-339/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2021 12:00:23 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[ava]]></category>
+		<category><![CDATA[badger]]></category>
+		<category><![CDATA[compound intrest]]></category>
+		<category><![CDATA[DAO]]></category>
+		<category><![CDATA[defi]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[fiance]]></category>
+		<category><![CDATA[GME]]></category>
+		<category><![CDATA[hedge funds]]></category>
+		<category><![CDATA[insurance]]></category>
+		<category><![CDATA[P2P]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[slack]]></category>
+		<category><![CDATA[tech news]]></category>
+		<guid isPermaLink="false">/?p=6949</guid>
+
+					<description><![CDATA[On this roundtable Jessie, Corey, and Dee discuss the Auntie Index, ETHDenver, and Valentines Day Candy. No segment this week. Our Guest is Jon Tompkins, a Product Lead at Badger, and a member of our Slack a link in the shownotes. Links: Badger Website Twitter Telegram Discord Medium Links: Jon Tompkins DeFi Download Podcast Twitter [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Bitcoin Podcast #305- Henry Bitmod Crypto In Nigeria</title>
+		<link>/the-bitcoin-podcast-305/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 20 Apr 2020 12:00:35 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchains]]></category>
+		<category><![CDATA[Bull Market]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[community manager]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[ICOs]]></category>
+		<category><![CDATA[Nigerian]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Status]]></category>
+		<category><![CDATA[taproot]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[white paper]]></category>
+		<category><![CDATA[Wolf Ticket]]></category>
+		<guid isPermaLink="false">/?p=6491</guid>
+
+					<description><![CDATA[Dee and Corey talk about quarantine life, and it is treating them each this week. Then Dee makes the most fabulous heel turn in Cryptocurrency history, and Corey not quite filling his role as hype-man for Dee. Henry Bitmod is a Crypto-Enthusiast and Evangelist in Nigeria. Links: Website- The Bitcoin Podcast Twitter-The Bitcoin Podcast Slack [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>BlockChannel #66 &#8211; Cameron Robertson &#038; Paul Gerhardt &#8211; Kong Cash</title>
+		<link>/blockchannel-66/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Mon, 30 Dec 2019 17:42:03 +0000</pubDate>
+				<category><![CDATA[BlockChannel]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[kong cash]]></category>
+		<category><![CDATA[McKie]]></category>
+		<category><![CDATA[Petty]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[product engineering]]></category>
+		<guid isPermaLink="false">/?p=6100</guid>
+
+					<description><![CDATA[On this episode of BlockChannel, McKie, Dee and Dr. Petty join the founders Cameron Robertson (CEO) and Paul Gerhardt (CTO) to discuss what we believe is an innovation in bridging digital money with physical, secure digital hardware. They present us Kong, their digital cash equivalent: possessing the ability to act as a fungible representation of [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>BlockChannel Episode 13: Decentralized Web Browsing, with Blockstack</title>
+		<link>/bc13/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Tue, 07 Mar 2017 02:54:26 +0000</pubDate>
+				<category><![CDATA[Sponsored Posts]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[blockstack]]></category>
+		<category><![CDATA[Dee]]></category>
+		<category><![CDATA[McKie]]></category>
+		<category><![CDATA[Petty]]></category>
+		<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">/?p=1906</guid>
+
+					<description><![CDATA[On this episode of BlockChannel, McKie and Petty interview Ryan Shea, Co-Founder of Blockstack. Blockstack is a decentralized web browsing experience brought to you by the power of blockchain technology. Ryan and his other Co-Founder, Muneeb Ali, both share a vision of a decentralized web; one where individuals control the data that encapsulates their private [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

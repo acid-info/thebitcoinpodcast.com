@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>economic &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/economic/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 13 Jan 2022 20:27:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>economic &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #379- Tascha of Tascha Labs</title>
+		<link>/the-bitcoin-podcast-379/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 27 Dec 2021 05:03:08 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Avalanche]]></category>
+		<category><![CDATA[Banks]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[economic]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[macroeconomics]]></category>
+		<category><![CDATA[NFT Marketplace]]></category>
+		<category><![CDATA[peer to peer]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[Solana]]></category>
+		<category><![CDATA[tech news]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[Token]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">/?p=7401</guid>
+
+					<description><![CDATA[Jessie and Dee interview Tascha of Tashca Labs a macroeconomics and her interest in cryptocurrency. Social Media Of Tascha Labs Website: https://taschalabs.com/ Twitter:https://twitter.com/TaschaLabs Newsletter:https://taschalabs.com/newsletter/ YouTube: https://www.youtube.com/channel/UCzuQIjK_VdBFAFOsqILDYnA NFT: https://opensea.io/assets/0x2a9e4045185c8d778b85610ca96d79bd8ecdc720/1 The Bitcoin Podcast Social Media Join-Slack: https://launchpass.com/thebitcoinpodcast Patreon:https://www.patreon.com/TheBitcoinPodcastNetwork Website: / Twitter: https://twitter.com/thebtcpodcast]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cyphercore &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/cyphercore/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 08 Nov 2019 03:42:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>cyphercore &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #65 &#8211; Cypher Core &#8211; Jay Jie and Ken Trueba</title>
+		<link>/hashing-it-out-65/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Thu, 31 Oct 2019 20:10:12 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[Cosmos]]></category>
+		<category><![CDATA[cyphercore]]></category>
+		<category><![CDATA[Jay Jei]]></category>
+		<category><![CDATA[Ken Trueba]]></category>
+		<category><![CDATA[Polkadot]]></category>
+		<category><![CDATA[staking]]></category>
+		<guid isPermaLink="false">/?p=5932</guid>
+
+					<description><![CDATA[This episode features Jay and Ken from Cypher Core. Cypher Core offers a staking as a service platform for Proof of Stake protocols. Primarily focused on Cosmos network, we talk with them about their experience implementing their system, incentive models involved with staking services, and the overall Cosmos community. Links: &#8211; decentralization blog &#8211; cyphercore.io &#8211; Ken&#8217;s Twitter [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>layer 3 &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/layer-3/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Jul 2020 22:17:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>layer 3 &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #86 &#8211; Ethereum Founder Vitalik Buterin</title>
+		<link>/hashing-it-out-86/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 02 Jul 2020 21:47:47 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[2 layer solutions]]></category>
+		<category><![CDATA[ava]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Decentralize]]></category>
+		<category><![CDATA[delegated consensus]]></category>
+		<category><![CDATA[delegations]]></category>
+		<category><![CDATA[ETH 2]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[ethereum machine]]></category>
+		<category><![CDATA[exchanges]]></category>
+		<category><![CDATA[founder]]></category>
+		<category><![CDATA[identity]]></category>
+		<category><![CDATA[interoperability]]></category>
+		<category><![CDATA[Layer 2]]></category>
+		<category><![CDATA[layer 3]]></category>
+		<category><![CDATA[layer interoperability]]></category>
+		<category><![CDATA[Parity]]></category>
+		<category><![CDATA[Plasma]]></category>
+		<category><![CDATA[pre-mine]]></category>
+		<category><![CDATA[Proof-Of-Stake]]></category>
+		<category><![CDATA[protocol]]></category>
+		<category><![CDATA[Wallets]]></category>
+		<guid isPermaLink="false">/?p=6646</guid>
+
+					<description><![CDATA[﻿ Today we bring on the main brainchild behind Ethereum, Vitalik Buterin. In this episode, Corey Petty and Dean Eigenmann discuss a wide landscape of issues involving potential regrets of the initial Ethereum launch, where we are at today, how the ETH2.0 project is learning from the past, and what is blockchain even good for? [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>meme pool &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/meme-pool/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 01 May 2020 08:08:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>meme pool &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What The Headers #2- One Block, Two Block, Light Node, Full Node</title>
+		<link>/what-the-headers-2/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Fri, 01 May 2020 12:00:03 +0000</pubDate>
+				<category><![CDATA[JustHeaders]]></category>
+		<category><![CDATA[beer]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchains]]></category>
+		<category><![CDATA[blocks]]></category>
+		<category><![CDATA[CPU]]></category>
+		<category><![CDATA[ecliptic curve]]></category>
+		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[hash power]]></category>
+		<category><![CDATA[headers]]></category>
+		<category><![CDATA[light clients]]></category>
+		<category><![CDATA[meme pool]]></category>
+		<category><![CDATA[merkle tree]]></category>
+		<category><![CDATA[miners]]></category>
+		<category><![CDATA[mining]]></category>
+		<category><![CDATA[mining pools]]></category>
+		<category><![CDATA[network]]></category>
+		<category><![CDATA[Node]]></category>
+		<category><![CDATA[pizza]]></category>
+		<category><![CDATA[poof-of-work]]></category>
+		<category><![CDATA[sha256]]></category>
+		<category><![CDATA[white paper]]></category>
+		<guid isPermaLink="false">/?p=6524</guid>
+
+					<description><![CDATA[What The Headers is Dee and Jesse&#8217;s journey to The Beginning of Bitcoin and coming to a full understanding of What is Bitcoin? In this episode, Jesse and Dee cover what a block is, mining, nodes, and merkel roots. Special Guest Appearances by Dee&#8217;s Mom. Join them on their Journey. Links: Learn Me Bitcoin Twitter-Greg [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

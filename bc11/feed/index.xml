@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: BlockChannel Episode 11: Bridging Ethereum and Media with Jaak.io	</title>
+	<atom:link href="/bc11/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc11/</link>
+	<description></description>
+	<lastBuildDate>Sat, 25 Feb 2017 19:48:37 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Satoshi		</title>
+		<link>/bc11/#comment-342</link>
+
+		<dc:creator><![CDATA[Satoshi]]></dc:creator>
+		<pubDate>Sat, 25 Feb 2017 19:48:37 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1787#comment-342</guid>
+
+					<description><![CDATA[I&#039;m interested in this topic.]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m interested in this topic.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ether Review &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/ether-review/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 28 Aug 2017 00:46:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Ether Review &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ether Review Legal #5 — BernsWeiss Stops the IRS in its Tracks</title>
+		<link>/terl5/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Mon, 28 Aug 2017 00:46:02 +0000</pubDate>
+				<category><![CDATA[Sponsored Posts]]></category>
+		<category><![CDATA[Arthur Falls]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[Ether Review]]></category>
+		<guid isPermaLink="false">/?p=2609</guid>
+
+					<description><![CDATA[Lee Weiss of the US law firm BernsWeiss discusses the Coinbase/IRS dispute. The dispute began in November 2016, when the IRS summoned Coinbase to hand over data about all users who were active on the exchange from 2013 to 2015, with a view to investigating the tax compliance of individuals who have transacted in cryptocurrencies. On behalf [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ether Review #69 — IOTA &#038; the Post-Blockchain Era</title>
+		<link>/ter69/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Wed, 19 Jul 2017 15:25:29 +0000</pubDate>
+				<category><![CDATA[Sponsored Posts]]></category>
+		<category><![CDATA[Arthur Falls]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Ether Review]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Iota]]></category>
+		<guid isPermaLink="false">/?p=2342</guid>
+
+					<description><![CDATA[David Sønstebø, co-founder of IOTA, discusses this next-generation post-blockchain platform designed to serve as the backbone for the Internet-of-Things (IoT). IOTA is a groundbreaking new open-source distributed ledger that does not use a blockchain. Its innovative new quantum-proof protocol, known as the Tangle, gives rise to unique new features like zero fees, infinite scalability, fast transactions, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

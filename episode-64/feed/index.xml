@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Episode #64: Shorting the Bull Rally	</title>
+	<atom:link href="/episode-64/feed/" rel="self" type="application/rss+xml" />
+	<link>/episode-64/</link>
+	<description></description>
+	<lastBuildDate>Fri, 10 Jun 2016 23:47:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Colin		</title>
+		<link>/episode-64/#comment-245</link>
+
+		<dc:creator><![CDATA[Colin]]></dc:creator>
+		<pubDate>Fri, 10 Jun 2016 23:47:58 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1050#comment-245</guid>
+
+					<description><![CDATA[What was that song that you played on the very end of episode 64? Really really dig it.]]></description>
+			<content:encoded><![CDATA[<p>What was that song that you played on the very end of episode 64? Really really dig it.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

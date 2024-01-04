@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>air drops &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/air-drops/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 26 Mar 2020 02:35:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>air drops &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #76- Namebase.io Tieshun Roquerre</title>
+		<link>/hashing-it-out-76/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2020 12:00:05 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[51%]]></category>
+		<category><![CDATA[air drops]]></category>
+		<category><![CDATA[ASIC]]></category>
+		<category><![CDATA[Bcoin]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Boston]]></category>
+		<category><![CDATA[Browser]]></category>
+		<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[cloud flare]]></category>
+		<category><![CDATA[convenience system]]></category>
+		<category><![CDATA[Developer]]></category>
+		<category><![CDATA[DNS]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[GPU]]></category>
+		<category><![CDATA[Handshake]]></category>
+		<category><![CDATA[IPFS]]></category>
+		<category><![CDATA[java]]></category>
+		<category><![CDATA[name server]]></category>
+		<category><![CDATA[Namebase]]></category>
+		<category><![CDATA[naming conflict]]></category>
+		<category><![CDATA[Node]]></category>
+		<category><![CDATA[pihole]]></category>
+		<category><![CDATA[rent seeking]]></category>
+		<category><![CDATA[revolvers]]></category>
+		<category><![CDATA[root-name]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[TLD]]></category>
+		<guid isPermaLink="false">/?p=6425</guid>
+
+					<description><![CDATA[Handshake is a decentralized, permissionless naming protocol where every peer is validating and in charge of managing the root DNS naming zone with the goal of creating an alternative to existing Certificate Authorities and naming systems. Names on the internet (top level domains, social networking handles, etc.) ultimately rely upon centralized actors with full control [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blockchannel &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/blockchannel/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 21 Mar 2023 05:18:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Blockchannel &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out &#8211; ETH Denver Roundtable</title>
+		<link>/hashing-it-out-eth-denver/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Tue, 21 Mar 2023 16:00:15 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Decentralize]]></category>
+		<category><![CDATA[decentralized organizations]]></category>
+		<category><![CDATA[defi]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[tech news]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">/?p=7876</guid>
+
+					<description><![CDATA[In a Bitcoin Podcast throwback, Corey and Jessie talk about their time at ETHDenver and answer questions from Christian and Dee. ETHDenver]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hashing It Out- Consensus Infrastructure Pt. 1</title>
+		<link>/hashing-it-out-consensus-infra-1/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Tue, 22 Nov 2022 08:34:08 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Decentralize]]></category>
+		<category><![CDATA[defi]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[peer to peer]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[tech news]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[Token]]></category>
+		<guid isPermaLink="false">/?p=7779</guid>
+
+					<description><![CDATA[Mohammad Mussadiq Jalalzai, consensus researcher at Status, discusses the history of distributed consensus from its conception to today. You Can Find Hashing It Out Podcast Here: Website: https://hashingitout.sounder.fm/ RSSFeed:https://feeds.sounder.fm/6234/rss.xml]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Bitcoin Podcast #400- This is the End, Beautiful Friend</title>
+		<link>/the-bitcoin-podcast-400/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Tue, 15 Nov 2022 17:04:33 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Decentralize]]></category>
+		<category><![CDATA[decentralized organizations]]></category>
+		<category><![CDATA[defi]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[peer to peer]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[tech news]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[Token]]></category>
+		<guid isPermaLink="false">/?p=7762</guid>
+
+					<description><![CDATA[This episode marks the official last episode of The Bitcoin Podcast as a regular cadenced show. We spend the time talking about what&#8217;s going on, what we&#8217;re going to be doing now, and what you can expect from the ecosystem as a whole. Buckle up boys and girls, it&#8217;ll be a fun one. You Can [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Bitcoin Podcast-#399- Sir, You Cannot Do That Here</title>
+		<link>/the-bitcoin-podcast-399/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 15 Aug 2022 16:00:50 +0000</pubDate>
+				<category><![CDATA[Sponsored Posts]]></category>
+		<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Bianance]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Decentralize]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[jpeg]]></category>
+		<category><![CDATA[Money]]></category>
+		<category><![CDATA[openseas]]></category>
+		<category><![CDATA[peer to peer]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[tech news]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[Token]]></category>
+		<guid isPermaLink="false">/?p=7732</guid>
+
+					<description><![CDATA[Tornado Cash is causing more ripple effects in Ethereum than the GPU crash. The Bitcoin Podcast Social Media Join-Slack: https://launchpass.com/thebitcoinpodcast Website: / Twitter: https://twitter.com/thebtcpodcast You Can Find Hashing It Out Podcast Here Website: https://hashingitout.sounder.fm/ RSS Feed: https://feeds.sounder.fm/6234/rss.xm]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Bitcoin Podcast #398- The Math Ain&#8217;t Mathing&#8230;&#8230; Manye</title>
+		<link>/the-bitcoin-podcast-398/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2022 14:00:01 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[ART]]></category>
+		<category><![CDATA[Avalanche]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[decentralized organizations]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Money]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[non-fungible-tokens]]></category>
+		<category><![CDATA[peer to peer]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[tech news]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[Token]]></category>
+		<guid isPermaLink="false">/?p=7713</guid>
+
+					<description><![CDATA[﻿ Bridges, Smart Contracts, Crypto-Businesses, are falling left and right- this winter is very different from the last one. Will the merge in Eth go without a hitch ? You Can Find Hashing It Out Podcast Here: Website: https://hashingitout.sounder.fm/ RSSFeed:https://feeds.sounder.fm/6234/rss.xml The Bitcoin Podcast Social Media Join-Slack: https://launchpass.com/thebitcoinpodcast Website: / Twitter: https://twitter.com/thebtcpodcast]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Bitcoin Podcast #397-When is a Blockchain Decentralized?</title>
+		<link>/the-bitcoin-podcast-397/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 11 Jul 2022 16:00:00 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Avalanche]]></category>
+		<category><![CDATA[Bianance]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[celsius]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Decentralize]]></category>
+		<category><![CDATA[decentralized organizations]]></category>
+		<category><![CDATA[defi]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[maker dao]]></category>
+		<category><![CDATA[Money]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[non-fungible-tokens]]></category>
+		<category><![CDATA[peer to peer]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[tech news]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[Token]]></category>
+		<guid isPermaLink="false">/?p=7704</guid>
+
+					<description><![CDATA[Dee and Jessie talk about the decline in American Education and how people are not properly prepared for the future. The Bitcoin Podcast Social Media Join-Slack: https://launchpass.com/thebitcoinpodcast Patreon:https://www.patreon.com/TheBitcoinPodcastNetwork Website: / Twitter: https://twitter.com/thebtcpodcast]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Bitcoin Podcast #393- Nothing To See Here, Move Along Now</title>
+		<link>/the-bitcoin-podcast-393/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 13 Jun 2022 16:00:19 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Avalanche]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Money]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[tech news]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[Token]]></category>
+		<guid isPermaLink="false">/?p=7672</guid>
+
+					<description><![CDATA[The change to POS on Ethereum is moving a long at a quick pace now. ### The Bitcoin Podcast Social Media ### Join-Slack: https://launchpass.com/thebitcoinpodcast Patreon:https://www.patreon.com/TheBitcoinPod&#8230; Website: / Twitter: https://twitter.com/thebtcpodcast DADDAO: https://daddao.org/]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hashing It Out Panel- Digital Ownership vs Control</title>
+		<link>/hashing-it-out-panel/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Fri, 11 Feb 2022 08:06:17 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[Asset Control]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[control]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Decentralize]]></category>
+		<category><![CDATA[digital ownership]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[NFT Market]]></category>
+		<category><![CDATA[peer to peer]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[tech news]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[Token]]></category>
+		<guid isPermaLink="false">/?p=7491</guid>
+
+					<description><![CDATA[Today we&#8217;re going to discuss a topic brought up in a Tweet from WalletConnect&#8217;s Pedro (link below) about the difference between digital ownership and digital control. We&#8217;ll be bringing on Julien from Unlock-Protocol and Rick Dudley to dive in further. Sit back and relax as we hash out all the details for you! Web3 Triangle [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Flashback: The Bitcoin Podcast #46- The Fundamental Conflict</title>
+		<link>/flashback-the-bitcoin-podcast-46/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 12:00:18 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Avalanche]]></category>
+		<category><![CDATA[Banks]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Decentralize]]></category>
+		<category><![CDATA[tech news]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">/?p=7475</guid>
+
+					<description><![CDATA[This is a Flashback Episode, we are going back to March 2016 in which our Guest  Emin Gün Sirer makes his first of seven appearances on The Bitcoin Podcast Network.  The boys compare bitcoin to the Animatrix and we invite Emin, a professor at Cornell University to talk a bit about how he has worked [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Bitcoin Podcast #380- It Is The End Of The Year As We Know It</title>
+		<link>/the-bitcoin-podcast-380/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 03 Jan 2022 12:00:53 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Avalanche]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[DADDAO]]></category>
+		<category><![CDATA[Decentralize]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Money]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[NFT Marketplace]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[tech news]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[Token]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">/?p=7406</guid>
+
+					<description><![CDATA[Dee, Jessie, and Corey talk about DADDAO, predictions for 2022,  and what the year of 2021 brought to crypto. The Bitcoin Podcast Social Media Join-Slack: https://launchpass.com/thebitcoinpodcast Patreon:https://www.patreon.com/TheBitcoinPodcastNetwork Website: / Twitter:  https://twitter.com/thebtcpodcast DADDAO: https://discord.gg/bzvFfdjG]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

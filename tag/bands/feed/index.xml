@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bands &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/bands/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Jun 2021 19:21:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Bands &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #357- CEO Josh Katz of Yellow Heart</title>
+		<link>/the-bitcoin-podcast-357/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 21 Jun 2021 12:00:33 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[artist]]></category>
+		<category><![CDATA[Bands]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[DAO]]></category>
+		<category><![CDATA[Decentralize]]></category>
+		<category><![CDATA[defi]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Josh Katz]]></category>
+		<category><![CDATA[kings of leon]]></category>
+		<category><![CDATA[Lightning Network]]></category>
+		<category><![CDATA[Maroon 5]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[tech news]]></category>
+		<category><![CDATA[Ticket Master]]></category>
+		<category><![CDATA[tokens]]></category>
+		<category><![CDATA[yellowheart]]></category>
+		<guid isPermaLink="false">/?p=7076</guid>
+
+					<description><![CDATA[Social Media Of Yellow Heart Website: https://www.yellowheart.io/ YouTube: https://www.youtube.com/channel/UCR6XJ_jyMi7xrvhcEty1aBQ Twitter:https://twitter.com/YellowHeartNFT Reddit:https://www.reddit.com/r/YellowHeartNFT/ Discord: https://discord.com/invite/bKEp5p96GE Facebook:https://www.facebook.com/YellowHeartNFT Instagram: https://www.instagram.com/yellowheartnft/ Marketplace for Maroon 5 NFT Website: https://yh.io/ The Bitcoin Podcast Social Media Join-Slack: https://launchpass.com/thebitcoinpodcast Patreon:https://www.patreon.com/TheBitcoinPodcastNetwork Website: / Twitter: https://twitter.com/thebtcpodcast]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Eve Online &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/eve-online/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 19 May 2020 17:18:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Eve Online &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #308- Fazri Zubair Lucid Sights</title>
+		<link>/the-bitcoin-podcast-308/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Sun, 10 May 2020 12:00:45 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Baseball]]></category>
+		<category><![CDATA[blockchain game]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Eve Online]]></category>
+		<category><![CDATA[game economy]]></category>
+		<category><![CDATA[game items]]></category>
+		<category><![CDATA[guilds]]></category>
+		<category><![CDATA[Lucid Sight]]></category>
+		<category><![CDATA[MLB]]></category>
+		<category><![CDATA[monopoly]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[open-sea]]></category>
+		<category><![CDATA[photo canon]]></category>
+		<category><![CDATA[rare]]></category>
+		<category><![CDATA[real money]]></category>
+		<category><![CDATA[spot value]]></category>
+		<category><![CDATA[Star Trek Picard]]></category>
+		<category><![CDATA[trust less ownership]]></category>
+		<category><![CDATA[username]]></category>
+		<category><![CDATA[virtual]]></category>
+		<category><![CDATA[web 3.0]]></category>
+		<category><![CDATA[web wallet]]></category>
+		<guid isPermaLink="false">/?p=6547</guid>
+
+					<description><![CDATA[Dee and Corey touch on the bitcoin halving and have a rare discussion on the price of Bitcoin. Dee built an app this week and Corey gives a technical answer for what Deep Work is for everyone. Our guest is CTO Fazri Zubair of Lucid Sight a company that has developed a blockchain game called [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

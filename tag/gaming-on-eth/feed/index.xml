@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gaming on ETH &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/gaming-on-eth/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 17 Oct 2019 12:32:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Gaming on ETH &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #278: Benny Giang &#8212; Cheeze Wizards</title>
+		<link>/tbp-278/</link>
+		
+		<dc:creator><![CDATA[Fergulati]]></dc:creator>
+		<pubDate>Thu, 17 Oct 2019 12:32:29 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Cheese Wizards]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Gaming on ETH]]></category>
+		<category><![CDATA[TBPN]]></category>
+		<guid isPermaLink="false">/?p=5893</guid>
+
+					<description><![CDATA[Blockchain and gaming&#8230;it should be a combination as powerful as peanut butter and jelly, or cheese and prosciutto, or hot sauce and popcorn&#8230;but it has been a slow take off for the melding of these industries. Corey and Demetrick discuss what some of the perks of the NFTs can offer up to the gaming industry [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

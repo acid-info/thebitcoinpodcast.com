@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Airbitz Wins!	</title>
+	<atom:link href="/airbitz-wins/feed/" rel="self" type="application/rss+xml" />
+	<link>/airbitz-wins/</link>
+	<description></description>
+	<lastBuildDate>Mon, 15 Feb 2016 02:08:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Shweta		</title>
+		<link>/airbitz-wins/#comment-116</link>
+
+		<dc:creator><![CDATA[Shweta]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2016 02:08:19 +0000</pubDate>
+		<guid isPermaLink="false">/?p=323#comment-116</guid>
+
+					<description><![CDATA[not worth it to mine solo on btc plus, but if you have a decent nubemr of visitors it adds up.  I&#039;ve only generated enough for 1 payout of .02 btc, and much of that was from me going to all the demo computers when i was shopping one day and going to my link.]]></description>
+			<content:encoded><![CDATA[<p>not worth it to mine solo on btc plus, but if you have a decent nubemr of visitors it adds up.  I&#8217;ve only generated enough for 1 payout of .02 btc, and much of that was from me going to all the demo computers when i was shopping one day and going to my link.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

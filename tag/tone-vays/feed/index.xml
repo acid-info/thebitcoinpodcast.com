@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tone Vays &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/tone-vays/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 29 Dec 2019 19:47:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Tone Vays &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #289- Jamie Bartlett-The Missing Crypto Queen</title>
+		<link>/the-bitcoin-podcast-289/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 30 Dec 2019 12:00:13 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Abuse of Power]]></category>
+		<category><![CDATA[Asian Market]]></category>
+		<category><![CDATA[Avon]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Bitcoin Maximalist]]></category>
+		<category><![CDATA[Bitconnect]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Darknet]]></category>
+		<category><![CDATA[Digital Bag Holding]]></category>
+		<category><![CDATA[Dumb it Down]]></category>
+		<category><![CDATA[Fraudulent]]></category>
+		<category><![CDATA[GPP]]></category>
+		<category><![CDATA[HEX]]></category>
+		<category><![CDATA[Influences]]></category>
+		<category><![CDATA[Insiders]]></category>
+		<category><![CDATA[journalism]]></category>
+		<category><![CDATA[journalist]]></category>
+		<category><![CDATA[Kenn Bosaick]]></category>
+		<category><![CDATA[mass adoption]]></category>
+		<category><![CDATA[MLM]]></category>
+		<category><![CDATA[Multi Level Marketing]]></category>
+		<category><![CDATA[Onecoin]]></category>
+		<category><![CDATA[Scammers]]></category>
+		<category><![CDATA[Social Issue]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Tone Vays]]></category>
+		<guid isPermaLink="false">/?p=6091</guid>
+
+					<description><![CDATA[In this episode of The Bitcoin Podcast, Corey and Dee interview Jamie Bartlett. Bartlett presented the tragic story of Onecoin. A ponzi scheme that took advantage of millions of people and resulted in billions of dollars being fraudulently removed from their owners. Dr Ruja Ignatova persuaded millions to join her financial revolution. Then she disappeared. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

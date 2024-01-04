@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>USPS &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/usps/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 11 Jan 2021 00:00:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>USPS &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #334- Happy New Year We Are Back</title>
+		<link>/the-bitcoin-podcast-334/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 11 Jan 2021 12:00:58 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[2020]]></category>
+		<category><![CDATA[2021]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchains]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[eth 2.0]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[exchanges]]></category>
+		<category><![CDATA[flaming hot Cheetos]]></category>
+		<category><![CDATA[postal worker]]></category>
+		<category><![CDATA[USPS]]></category>
+		<category><![CDATA[USTD]]></category>
+		<guid isPermaLink="false">/?p=6917</guid>
+
+					<description><![CDATA[After a month off  this roundtable discussion has Dee, Jessie, and Corey talking about what has happened to them with the orange number going up and the personal impact of that reality. For new listeners welcome, this is the best podcast to have a full understanding of what Bitcoin and the Cryptocurrency space is all [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Bitcoin Podcast #333- Happy Birthday Jesse</title>
+		<link>/the-bitcoin-podcast-333/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 14 Dec 2020 12:00:39 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchains]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[eth 2.0]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[flaming hot Cheetos]]></category>
+		<category><![CDATA[postal worker]]></category>
+		<category><![CDATA[USPS]]></category>
+		<guid isPermaLink="false">/?p=6911</guid>
+
+					<description><![CDATA[It is Jesse Birthday, Shout Out To The Birthday Boy. On this roundtable discussion Corey and Jesse carry on their conversation from last week about power dynamics with the technology and will it change human behavior. Dee rants about Boomers again, Daniel our Patreon Head tells us about his misadventures with Flaming Hot Cheetos, and [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

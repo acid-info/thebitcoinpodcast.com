@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>white paper &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/white-paper/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 01 May 2020 08:08:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>white paper &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What The Headers #2- One Block, Two Block, Light Node, Full Node</title>
+		<link>/what-the-headers-2/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Fri, 01 May 2020 12:00:03 +0000</pubDate>
+				<category><![CDATA[JustHeaders]]></category>
+		<category><![CDATA[beer]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchains]]></category>
+		<category><![CDATA[blocks]]></category>
+		<category><![CDATA[CPU]]></category>
+		<category><![CDATA[ecliptic curve]]></category>
+		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[hash power]]></category>
+		<category><![CDATA[headers]]></category>
+		<category><![CDATA[light clients]]></category>
+		<category><![CDATA[meme pool]]></category>
+		<category><![CDATA[merkle tree]]></category>
+		<category><![CDATA[miners]]></category>
+		<category><![CDATA[mining]]></category>
+		<category><![CDATA[mining pools]]></category>
+		<category><![CDATA[network]]></category>
+		<category><![CDATA[Node]]></category>
+		<category><![CDATA[pizza]]></category>
+		<category><![CDATA[poof-of-work]]></category>
+		<category><![CDATA[sha256]]></category>
+		<category><![CDATA[white paper]]></category>
+		<guid isPermaLink="false">/?p=6524</guid>
+
+					<description><![CDATA[What The Headers is Dee and Jesse&#8217;s journey to The Beginning of Bitcoin and coming to a full understanding of What is Bitcoin? In this episode, Jesse and Dee cover what a block is, mining, nodes, and merkel roots. Special Guest Appearances by Dee&#8217;s Mom. Join them on their Journey. Links: Learn Me Bitcoin Twitter-Greg [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>What The Headers #1- In Beginning There Was&#8230;</title>
+		<link>/what-the-headers-1/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Fri, 24 Apr 2020 12:00:21 +0000</pubDate>
+				<category><![CDATA[JustHeaders]]></category>
+		<category><![CDATA[atomic clock]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchains]]></category>
+		<category><![CDATA[CPU]]></category>
+		<category><![CDATA[Digital Signatures]]></category>
+		<category><![CDATA[ecliptic curve]]></category>
+		<category><![CDATA[hash power]]></category>
+		<category><![CDATA[journalism]]></category>
+		<category><![CDATA[journalist]]></category>
+		<category><![CDATA[mining pools]]></category>
+		<category><![CDATA[new beginnings]]></category>
+		<category><![CDATA[peer to peer]]></category>
+		<category><![CDATA[poof-of-work]]></category>
+		<category><![CDATA[time]]></category>
+		<category><![CDATA[white paper]]></category>
+		<category><![CDATA[witness]]></category>
+		<category><![CDATA[word bubble]]></category>
+		<guid isPermaLink="false">/?p=6488</guid>
+
+					<description><![CDATA[A new beginning for Dee and Jesse Broke as they reformat their minds and the show with What The Headers. What The Headers is Dee and Jesse&#8217;s journey to the Beginning of Bitcoin and coming to a full understanding of What is Bitcoin? Join them on their Journey. Links: Website- Bitcoin.org The White Paper- Bitcoin: [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Bitcoin Podcast #305- Henry Bitmod Crypto In Nigeria</title>
+		<link>/the-bitcoin-podcast-305/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 20 Apr 2020 12:00:35 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchains]]></category>
+		<category><![CDATA[Bull Market]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[community manager]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[ICOs]]></category>
+		<category><![CDATA[Nigerian]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Status]]></category>
+		<category><![CDATA[taproot]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[white paper]]></category>
+		<category><![CDATA[Wolf Ticket]]></category>
+		<guid isPermaLink="false">/?p=6491</guid>
+
+					<description><![CDATA[Dee and Corey talk about quarantine life, and it is treating them each this week. Then Dee makes the most fabulous heel turn in Cryptocurrency history, and Corey not quite filling his role as hype-man for Dee. Henry Bitmod is a Crypto-Enthusiast and Evangelist in Nigeria. Links: Website- The Bitcoin Podcast Twitter-The Bitcoin Podcast Slack [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

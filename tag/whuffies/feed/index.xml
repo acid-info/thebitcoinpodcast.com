@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Whuffies &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/whuffies/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 22 Oct 2019 13:58:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Whuffies &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #279 &#8211; Cory Doctorow &#8211; Journalist and Author</title>
+		<link>/the-bitcoin-podcast-279/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Tue, 22 Oct 2019 13:58:23 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Cory Doctorow]]></category>
+		<category><![CDATA[DRM]]></category>
+		<category><![CDATA[journalist]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[Whuffies]]></category>
+		<guid isPermaLink="false">/?p=5904</guid>
+
+					<description><![CDATA[This episode is all about the interview. It was a phenomenal one! Cory Doctorow is a journalist, author, and technologist. Know for his advocating and the freedom of expression on the internet; he is part of the EFF. Author of the book Down and out in the Magic Kingdom. A story know for the use [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

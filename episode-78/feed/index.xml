@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Episode #78: The Price of Privatization	</title>
+	<atom:link href="/episode-78/feed/" rel="self" type="application/rss+xml" />
+	<link>/episode-78/</link>
+	<description></description>
+	<lastBuildDate>Thu, 24 Aug 2017 02:00:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Zaphod		</title>
+		<link>/episode-78/#comment-325</link>
+
+		<dc:creator><![CDATA[Zaphod]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2016 00:12:42 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1196#comment-325</guid>
+
+					<description><![CDATA[Great interview.  &quot;All I know is that I don&#039;t know nothing&quot;.]]></description>
+			<content:encoded><![CDATA[<p>Great interview.  &#8220;All I know is that I don&#8217;t know nothing&#8221;.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Cynthia		</title>
+		<link>/episode-78/#comment-291</link>
+
+		<dc:creator><![CDATA[Cynthia]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2016 22:11:50 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1196#comment-291</guid>
+
+					<description><![CDATA[Originals, by Adam Grant?]]></description>
+			<content:encoded><![CDATA[<p>Originals, by Adam Grant?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

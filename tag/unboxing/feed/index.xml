@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>unboxing &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/unboxing/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 17 Jul 2021 19:08:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>unboxing &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #360- Unboxing Grid+ Lattice 1</title>
+		<link>/the-bitcoin-podcast-360/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 19 Jul 2021 12:00:47 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchains]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Decentralize]]></category>
+		<category><![CDATA[Grid+]]></category>
+		<category><![CDATA[hardware wallet]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[unboxing]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">/?p=7113</guid>
+
+					<description><![CDATA[This episode is a little different as Corey unboxes a Grid+ Lattice 1 hardware wallet and goes over the functionality of this paticular hardware wallet. On our roundtable discussion Jessie, Dee, and Corey continue to unbox things and cover all the news concerning the drop in Bitcoin Hashing Power. Social Media Of Grid Plus Website:https://gridplus.io/ [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

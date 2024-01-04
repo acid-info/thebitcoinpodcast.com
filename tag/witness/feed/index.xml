@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>witness &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/witness/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 24 Apr 2020 14:42:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>witness &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What The Headers #1- In Beginning There Was&#8230;</title>
+		<link>/what-the-headers-1/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Fri, 24 Apr 2020 12:00:21 +0000</pubDate>
+				<category><![CDATA[JustHeaders]]></category>
+		<category><![CDATA[atomic clock]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchains]]></category>
+		<category><![CDATA[CPU]]></category>
+		<category><![CDATA[Digital Signatures]]></category>
+		<category><![CDATA[ecliptic curve]]></category>
+		<category><![CDATA[hash power]]></category>
+		<category><![CDATA[journalism]]></category>
+		<category><![CDATA[journalist]]></category>
+		<category><![CDATA[mining pools]]></category>
+		<category><![CDATA[new beginnings]]></category>
+		<category><![CDATA[peer to peer]]></category>
+		<category><![CDATA[poof-of-work]]></category>
+		<category><![CDATA[time]]></category>
+		<category><![CDATA[white paper]]></category>
+		<category><![CDATA[witness]]></category>
+		<category><![CDATA[word bubble]]></category>
+		<guid isPermaLink="false">/?p=6488</guid>
+
+					<description><![CDATA[A new beginning for Dee and Jesse Broke as they reformat their minds and the show with What The Headers. What The Headers is Dee and Jesse&#8217;s journey to the Beginning of Bitcoin and coming to a full understanding of What is Bitcoin? Join them on their Journey. Links: Website- Bitcoin.org The White Paper- Bitcoin: [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

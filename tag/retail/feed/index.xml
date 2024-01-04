@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Retail &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/retail/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 23 Mar 2020 21:58:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Retail &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #301- Corey,Dee, and Taylor Netflix and Work</title>
+		<link>/the-bitcoin-podcast-301/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 23 Mar 2020 12:00:31 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Automatic]]></category>
+		<category><![CDATA[Cloud Services]]></category>
+		<category><![CDATA[CoWorkers]]></category>
+		<category><![CDATA[defi]]></category>
+		<category><![CDATA[Down trends]]></category>
+		<category><![CDATA[Economy]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[My Crypto]]></category>
+		<category><![CDATA[Netflix]]></category>
+		<category><![CDATA[Nimbus]]></category>
+		<category><![CDATA[No Humans]]></category>
+		<category><![CDATA[Proof of Work]]></category>
+		<category><![CDATA[Proof-of-Stakes]]></category>
+		<category><![CDATA[Retail]]></category>
+		<category><![CDATA[Robots]]></category>
+		<category><![CDATA[Sim City 2000]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[Status]]></category>
+		<category><![CDATA[Wallets]]></category>
+		<category><![CDATA[Work From Home]]></category>
+		<guid isPermaLink="false">/?p=6414</guid>
+
+					<description><![CDATA[﻿ Corey, Dee, and Guest Host Taylor Monahan are here to give you tips needed to Work From Home. Taylor gives insight on the Ethereum ecosystem and in particular what is happening in the Eth mining market. Taylor and Dee go over how Proof-of-Stake is working now and how it may or may not work [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

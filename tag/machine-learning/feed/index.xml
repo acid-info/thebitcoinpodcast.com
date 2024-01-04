@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>machine learning &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/machine-learning/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 23 Jul 2020 20:03:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>machine learning &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #88- Foursquare Max Sklar</title>
+		<link>/hashing-it-out-88/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 23 Jul 2020 20:03:47 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[fee market]]></category>
+		<category><![CDATA[location data]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[miners]]></category>
+		<category><![CDATA[mining]]></category>
+		<category><![CDATA[mining reword]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[swarm]]></category>
+		<guid isPermaLink="false">/?p=6685</guid>
+
+					<description><![CDATA[Max Sklar is an engineer at Foursquare and is the head of a project called Swarm. John and Jaye speak with Max about this project,  machine learning, how to build an app in 2020, and can tokens/NTFS on blockchain be incorporated into Foursquare. Links: Max Sklar Website Twitter Podcast The Bitcoin Podcast Network Slack Donate [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

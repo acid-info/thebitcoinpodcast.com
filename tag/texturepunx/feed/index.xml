@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>texturepunx &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/texturepunx/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 30 Jun 2022 01:47:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>texturepunx &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #394- Anthony D&#8217; Onofrio aka Texture</title>
+		<link>/the-bitcoin-podcast-interview-394/</link>
+					<comments>/the-bitcoin-podcast-interview-394/#comments</comments>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 20 Jun 2022 04:38:57 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[ART]]></category>
+		<category><![CDATA[Avalanche]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[CryptoPunks]]></category>
+		<category><![CDATA[Decentralize]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[peer to peer]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[tech news]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[texture]]></category>
+		<category><![CDATA[texturepunx]]></category>
+		<category><![CDATA[Token]]></category>
+		<guid isPermaLink="false">/?p=7679</guid>
+
+					<description><![CDATA[Our guest is Anthony D’ Onofrio, a founding member of Ethereum, a Twitter personality, and a creator on the NFT project TexturePunx. Social Media Of Anthony D &#8216;Onofrio Twitter: https://twitter.com/iamtexture Twitter: https://twitter.com/texturepunx Discord: https://t.co/GU6MwJLVda The Bitcoin Podcast Social Media Join-Slack: https://launchpass.com/thebitcoinpodcast Patreon:https://www.patreon.com/TheBitcoinPodcastNetwork Website: / Twitter: https://twitter.com/thebtcpodcast DADDAO: https://daddao.org/]]></description>
+		
+					<wfw:commentRss>/the-bitcoin-podcast-interview-394/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

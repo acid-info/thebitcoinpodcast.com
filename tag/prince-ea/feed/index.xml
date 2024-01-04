@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Prince EA &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/prince-ea/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 21 Jun 2017 20:50:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Prince EA &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>BlockChannel Episode 24: Bringing Crypto to the World, with Prince EA</title>
+		<link>/bc24/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Wed, 21 Jun 2017 20:50:32 +0000</pubDate>
+				<category><![CDATA[Sponsored Posts]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[Dee]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[McKie]]></category>
+		<category><![CDATA[Prince EA]]></category>
+		<guid isPermaLink="false">/?p=2210</guid>
+
+					<description><![CDATA[On this episode of BlockChannel, McKie and Dee sit down with motivational speaker, rapper, YouTube star, Prince EA. Prince EA is known for being a lyrical poet of the spoken word, previously a rapper that performed with Grammy award winning artists like Busta Rhymes, Ludacris, DJ Khaled…he once even hugged Oprah. Amazing. So, we had [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

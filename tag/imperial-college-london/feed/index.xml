@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>imperial college london &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/imperial-college-london/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 13 Sep 2019 13:59:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>imperial college london &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #60 &#8211; Balance Research &#8211; Arthur Gervais &#038; Dominik Harz</title>
+		<link>/hashing-it-out-60/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Fri, 13 Sep 2019 13:59:31 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[balance research]]></category>
+		<category><![CDATA[game theory]]></category>
+		<category><![CDATA[imperial college london]]></category>
+		<category><![CDATA[mechanism design]]></category>
+		<category><![CDATA[reputation system]]></category>
+		<guid isPermaLink="false">/?p=5824</guid>
+
+					<description><![CDATA[This episode Corey and Collin bring on the academics Arthur Gervais and Dominik Harz from Imperial College London. They discuss a new protocol that attempts to reduce the required financial deposits for various mechanisms in a way that does not reduce security. In other words, it is an attempt to help with over-collateralization, which could [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

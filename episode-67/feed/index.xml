@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Episode #67: Follow the LeadTuur	</title>
+	<atom:link href="/episode-67/feed/" rel="self" type="application/rss+xml" />
+	<link>/episode-67/</link>
+	<description></description>
+	<lastBuildDate>Thu, 23 Jun 2016 14:35:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Corey		</title>
+		<link>/episode-67/#comment-260</link>
+
+		<dc:creator><![CDATA[Corey]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2016 14:26:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1073#comment-260</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/episode-67/#comment-259&quot;&gt;Alex&lt;/a&gt;.
+
+First off, I&#039;d like to thank you for writing in and correcting us.  I hope more people would do this when we state something incorrect.  
+
+It&#039;s actually quite easy to either misspeak while live, or say something completely false because we don&#039;t quite understand, and then lead people to believe something that simply isn&#039;t true.  It&#039;s very important to us that those who may have more accurate information correct us.  
+
+I will correct myself in the next aired episode with what you have pointed out, and thank you again.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/episode-67/#comment-259">Alex</a>.</p>
+<p>First off, I&#8217;d like to thank you for writing in and correcting us.  I hope more people would do this when we state something incorrect.  </p>
+<p>It&#8217;s actually quite easy to either misspeak while live, or say something completely false because we don&#8217;t quite understand, and then lead people to believe something that simply isn&#8217;t true.  It&#8217;s very important to us that those who may have more accurate information correct us.  </p>
+<p>I will correct myself in the next aired episode with what you have pointed out, and thank you again.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Alex		</title>
+		<link>/episode-67/#comment-259</link>
+
+		<dc:creator><![CDATA[Alex]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2016 04:35:19 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1073#comment-259</guid>
+
+					<description><![CDATA[Hey guys,
+
+Love the podcast. Just wanted to drop by and correct some things that Corey said regarding the recursive call bug being possible in existing Ethereum projects:
+
+1: The bug found by the Maker devs was in the contract that runs the makerX, which is their p2p token exchange, NOT the Maker DAO itself. After discovering the bug, the team quickly moved the funds to a secure wallet and are in the act of dispersing them to the owners. I have personally spoken to a member of the team who clarified this misconception to me.
+
+2: The Digix DAO is NOT vulnerable to this specific bug (the recursive call bug) because there is no way for owners of DGD tokens to withdraw their DAO&#039;s funds or to split. Furthermore, much of their DAO&#039;s governance and the Digix platform itself is still under active, security conscious development and the team has been exceptionally prudent from day 1. For what it&#039;s worth, I believe DGD is the most undervalued coin on the market.
+
+As D was saying at the end, it is impossible to stay up to speed on everything, but please just be mindful in the future about what you say regarding vulnerabilities of projects that people are working on. There are lots of developers who ARE being very careful and are writing modular code that can be updated. Anyway, I love your show and think you guys are rad. Keep up the good work!]]></description>
+			<content:encoded><![CDATA[<p>Hey guys,</p>
+<p>Love the podcast. Just wanted to drop by and correct some things that Corey said regarding the recursive call bug being possible in existing Ethereum projects:</p>
+<p>1: The bug found by the Maker devs was in the contract that runs the makerX, which is their p2p token exchange, NOT the Maker DAO itself. After discovering the bug, the team quickly moved the funds to a secure wallet and are in the act of dispersing them to the owners. I have personally spoken to a member of the team who clarified this misconception to me.</p>
+<p>2: The Digix DAO is NOT vulnerable to this specific bug (the recursive call bug) because there is no way for owners of DGD tokens to withdraw their DAO&#8217;s funds or to split. Furthermore, much of their DAO&#8217;s governance and the Digix platform itself is still under active, security conscious development and the team has been exceptionally prudent from day 1. For what it&#8217;s worth, I believe DGD is the most undervalued coin on the market.</p>
+<p>As D was saying at the end, it is impossible to stay up to speed on everything, but please just be mindful in the future about what you say regarding vulnerabilities of projects that people are working on. There are lots of developers who ARE being very careful and are writing modular code that can be updated. Anyway, I love your show and think you guys are rad. Keep up the good work!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Darcy W		</title>
+		<link>/episode-67/#comment-257</link>
+
+		<dc:creator><![CDATA[Darcy W]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2016 00:29:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1073#comment-257</guid>
+
+					<description><![CDATA[If you have any stake in bitcoin whatsoever, you MUST follow Tuur on Twitter:
+https://twitter.com/TuurDemeester
+
+And you must read his primer on &#039;how to position for the rally in Bitcoin&#039; available on his Twitter.  Warning, readi it will make you curse you did not discover him sooner.]]></description>
+			<content:encoded><![CDATA[<p>If you have any stake in bitcoin whatsoever, you MUST follow Tuur on Twitter:<br />
+<a href="https://twitter.com/TuurDemeester" rel="nofollow ugc">https://twitter.com/TuurDemeester</a></p>
+<p>And you must read his primer on &#8216;how to position for the rally in Bitcoin&#8217; available on his Twitter.  Warning, readi it will make you curse you did not discover him sooner.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

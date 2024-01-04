@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>200GB &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/200gb/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 31 Jan 2020 00:04:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>200GB &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #72-Althea-Jehan Tremback</title>
+		<link>/hashing-it-out-72/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Fri, 31 Jan 2020 00:04:07 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[200GB]]></category>
+		<category><![CDATA[bandwidth]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Cosmos]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[DAI]]></category>
+		<category><![CDATA[delegations]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[GB]]></category>
+		<category><![CDATA[gigabytes]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[ISP]]></category>
+		<category><![CDATA[Mesh Net]]></category>
+		<category><![CDATA[routers]]></category>
+		<category><![CDATA[tokens]]></category>
+		<category><![CDATA[TOR]]></category>
+		<category><![CDATA[VPN]]></category>
+		<guid isPermaLink="false">/?p=6204</guid>
+
+					<description><![CDATA[Althea is a system that lets routers pay each other for bandwidth. This allows people to set up decentralized ISPs in their communities. In an Althea network, instead of one ISP at the top collecting monthly payments, many different people can earn money by expanding and strengthening the network. Links: Althea Website Althea Twitter Jehan [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

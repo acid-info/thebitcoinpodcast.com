@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Episode #24: Betting On Bitcoin	</title>
+	<atom:link href="/episode-24/feed/" rel="self" type="application/rss+xml" />
+	<link>/episode-24/</link>
+	<description></description>
+	<lastBuildDate>Tue, 03 Nov 2015 01:21:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: artstateofmind@gmail.com		</title>
+		<link>/episode-24/#comment-10</link>
+
+		<dc:creator><![CDATA[artstateofmind@gmail.com]]></dc:creator>
+		<pubDate>Tue, 03 Nov 2015 01:21:48 +0000</pubDate>
+		<guid isPermaLink="false">/?p=478#comment-10</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/episode-24/#comment-9&quot;&gt;John Ruby&lt;/a&gt;.
+
+Thank you for listening, John! You can download our episodes here: https://soundcloud.com/thebitcoinpodcast/episode-24-betting-on-bitcoin]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/episode-24/#comment-9">John Ruby</a>.</p>
+<p>Thank you for listening, John! You can download our episodes here: <a href="https://soundcloud.com/thebitcoinpodcast/episode-24-betting-on-bitcoin" rel="nofollow ugc">https://soundcloud.com/thebitcoinpodcast/episode-24-betting-on-bitcoin</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: John Ruby		</title>
+		<link>/episode-24/#comment-9</link>
+
+		<dc:creator><![CDATA[John Ruby]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2015 10:21:19 +0000</pubDate>
+		<guid isPermaLink="false">/?p=478#comment-9</guid>
+
+					<description><![CDATA[Would love to listen and thanks, but how can we download this?]]></description>
+			<content:encoded><![CDATA[<p>Would love to listen and thanks, but how can we download this?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

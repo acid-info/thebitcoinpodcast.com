@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Standards &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/standards/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 02 Oct 2020 18:41:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Standards &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #93 &#8211; Sigma Prime Mehdi Zerouali</title>
+		<link>/hashing-it-out-93/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2020 12:00:19 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[audit]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[deposit contract]]></category>
+		<category><![CDATA[engineering]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Fees]]></category>
+		<category><![CDATA[gas]]></category>
+		<category><![CDATA[light house]]></category>
+		<category><![CDATA[NFTS]]></category>
+		<category><![CDATA[shards]]></category>
+		<category><![CDATA[slashing]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[space]]></category>
+		<category><![CDATA[Standards]]></category>
+		<category><![CDATA[test-net]]></category>
+		<category><![CDATA[tokens]]></category>
+		<category><![CDATA[validators]]></category>
+		<guid isPermaLink="false">/?p=6782</guid>
+
+					<description><![CDATA[Corey and John speak with Mahdi Zerouali of Sigma Prime on how ETH 2 is going to look like for users of Ethereum. Links: Sigma Prime Website Twitter Discord Github LightHouse ETH2 Twitter Mehdi Zerouali Sponsor Links Avalanche HIO Panvala Tweet HIO Panvala Community Grant The Hashing It Out Social Media Slack Donate to Hashing [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hashing It Out #92- DefiSaftey  Rex Hygate</title>
+		<link>/hashing-it-out-92/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Sat, 19 Sep 2020 17:37:32 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[audit]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[engineering]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[gas]]></category>
+		<category><![CDATA[NFTS]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[space]]></category>
+		<category><![CDATA[Standards]]></category>
+		<category><![CDATA[sushiswamp]]></category>
+		<category><![CDATA[tokens]]></category>
+		<guid isPermaLink="false">/?p=6761</guid>
+
+					<description><![CDATA[Today, Corey and John talk with Rex Hygate, head of DefiSafety, a company seeking to perform process quality audits on Smart Contracts in the Ethereum Community. This novel process helps is an attempt to bridge the gap between security between the community and the projects they interact with. Links:DefiSafety Website Twitter Telegtam Sponsor Links Avalanche [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Bitcoin Podcast #287- Isabela Bagueros- Tor Project</title>
+		<link>/the-bitcoin-podcast-287/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2019 12:00:20 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Banking]]></category>
+		<category><![CDATA[Banks]]></category>
+		<category><![CDATA[Barry Silbert]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[Citizen]]></category>
+		<category><![CDATA[Citizen Of The Internet]]></category>
+		<category><![CDATA[Closed Loop Network]]></category>
+		<category><![CDATA[Coffee]]></category>
+		<category><![CDATA[Decentralized]]></category>
+		<category><![CDATA[Donations]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Exchange]]></category>
+		<category><![CDATA[Greyscale]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Micro-Communities]]></category>
+		<category><![CDATA[Monero]]></category>
+		<category><![CDATA[Networks]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Opting Out]]></category>
+		<category><![CDATA[Standards]]></category>
+		<category><![CDATA[Starbucks]]></category>
+		<category><![CDATA[Tor Project]]></category>
+		<category><![CDATA[VPN]]></category>
+		<category><![CDATA[Walmart]]></category>
+		<guid isPermaLink="false">/?p=6054</guid>
+
+					<description><![CDATA[Description This Roundtable, Dee, Dr. Corey Petty, and Dr. Andy Boyan from the Slack (please join) discuss decentralization vs. centralization and big banks vs. small banks. The most crucial topic discuss can communities&#8217; successfully opt-out of the existing financial system. The Interview is with Isabela Bagueros, Executive Director of the Tor Project. LINKS Website&#8211; Tor [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

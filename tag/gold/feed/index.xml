@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gold &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/gold/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 18 Dec 2019 22:50:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Gold &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #286- Morgen Rochard Financial Advisor</title>
+		<link>/the-bitcoin-podcast-286/</link>
+					<comments>/the-bitcoin-podcast-286/#comments</comments>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 09 Dec 2019 12:00:22 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[30 Year Bull Run]]></category>
+		<category><![CDATA[401k]]></category>
+		<category><![CDATA[BitBlock Boom]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Boomers]]></category>
+		<category><![CDATA[Bull Run]]></category>
+		<category><![CDATA[Decentralize]]></category>
+		<category><![CDATA[decentralized organizations]]></category>
+		<category><![CDATA[financial planner]]></category>
+		<category><![CDATA[Generation X]]></category>
+		<category><![CDATA[Generational Wealth]]></category>
+		<category><![CDATA[Gold]]></category>
+		<category><![CDATA[Handshake]]></category>
+		<category><![CDATA[keynesian economics]]></category>
+		<category><![CDATA[Millennial]]></category>
+		<category><![CDATA[QE]]></category>
+		<category><![CDATA[retirement]]></category>
+		<category><![CDATA[retirement plans]]></category>
+		<category><![CDATA[Stocks]]></category>
+		<category><![CDATA[Student Loans]]></category>
+		<guid isPermaLink="false">/?p=6036</guid>
+
+					<description><![CDATA[Dee and Dr. Corey Petty cover the reason why you should buy whiskey, networking within the construction industry, Christmas enable ethereum tree, and the egalitarian principals of different blockchains. Our interview is with Morgen Rochard, a financial planner who does not shy away from working within the cryptocurrency space. LINKS Website Origin Wealth Advisers LLC [&#8230;]]]></description>
+		
+					<wfw:commentRss>/the-bitcoin-podcast-286/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

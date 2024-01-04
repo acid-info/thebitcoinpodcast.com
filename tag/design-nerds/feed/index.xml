@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>design nerds &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/design-nerds/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 05 Mar 2020 17:35:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>design nerds &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Blocked By Design #8 &#8211; UX Audits</title>
+		<link>/blocked-by-design-8/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2020 17:35:44 +0000</pubDate>
+				<category><![CDATA[Blocked by Design]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[bitcoin design]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[blockchain design]]></category>
+		<category><![CDATA[blocked by design]]></category>
+		<category><![CDATA[Consensys]]></category>
+		<category><![CDATA[content strategy]]></category>
+		<category><![CDATA[content testing]]></category>
+		<category><![CDATA[crypto design]]></category>
+		<category><![CDATA[crypto users]]></category>
+		<category><![CDATA[decentralized design]]></category>
+		<category><![CDATA[decentralized organizations]]></category>
+		<category><![CDATA[design nerds]]></category>
+		<category><![CDATA[design sprints]]></category>
+		<category><![CDATA[design systems]]></category>
+		<category><![CDATA[Devcon]]></category>
+		<category><![CDATA[Devcon Awards]]></category>
+		<category><![CDATA[Devcon UX Audits]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[idea generation]]></category>
+		<category><![CDATA[local design context]]></category>
+		<category><![CDATA[open-source design]]></category>
+		<category><![CDATA[product design]]></category>
+		<category><![CDATA[product development]]></category>
+		<category><![CDATA[systems design]]></category>
+		<category><![CDATA[systems thinking]]></category>
+		<category><![CDATA[user experience research]]></category>
+		<category><![CDATA[user interviews]]></category>
+		<category><![CDATA[user research]]></category>
+		<category><![CDATA[user-centered design]]></category>
+		<category><![CDATA[UX Audits]]></category>
+		<category><![CDATA[UX Awards]]></category>
+		<category><![CDATA[web3]]></category>
+		<category><![CDATA[web3 design]]></category>
+		<guid isPermaLink="false">/?p=6368</guid>
+
+					<description><![CDATA[Aqeel and Amy examine the current opportunity and role of UX Audits in the web3, open-source, and blockchain design space. Learn about the purpose UX audits serve, how they were implemented at Devcon for the past 2 years, and the challenges faced in making them more integral to the service offerings in the eco-system. Also, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Blocked By Design- #7 &#8211; User Research Pt. 4</title>
+		<link>/blocked-by-design-7/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2020 19:48:41 +0000</pubDate>
+				<category><![CDATA[Blocked by Design]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[blocked by design]]></category>
+		<category><![CDATA[causal loops]]></category>
+		<category><![CDATA[china]]></category>
+		<category><![CDATA[cognitive psychology]]></category>
+		<category><![CDATA[Columbia]]></category>
+		<category><![CDATA[Consensys]]></category>
+		<category><![CDATA[content strategy]]></category>
+		<category><![CDATA[content testing]]></category>
+		<category><![CDATA[crypto design]]></category>
+		<category><![CDATA[crypto users]]></category>
+		<category><![CDATA[curse of knowledge effect]]></category>
+		<category><![CDATA[customer insights]]></category>
+		<category><![CDATA[decentralized design]]></category>
+		<category><![CDATA[decentralized organizations]]></category>
+		<category><![CDATA[design nerds]]></category>
+		<category><![CDATA[design research]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[field research]]></category>
+		<category><![CDATA[idea generation]]></category>
+		<category><![CDATA[in-person research]]></category>
+		<category><![CDATA[Korea]]></category>
+		<category><![CDATA[local research]]></category>
+		<category><![CDATA[on ground research]]></category>
+		<category><![CDATA[open-source design]]></category>
+		<category><![CDATA[product design]]></category>
+		<category><![CDATA[product development]]></category>
+		<category><![CDATA[psychology]]></category>
+		<category><![CDATA[qualitative research]]></category>
+		<category><![CDATA[quantitative research]]></category>
+		<category><![CDATA[Real world data]]></category>
+		<category><![CDATA[systems design]]></category>
+		<category><![CDATA[systems thinking]]></category>
+		<category><![CDATA[user analytics. user research context]]></category>
+		<category><![CDATA[user experience research]]></category>
+		<category><![CDATA[user feedback]]></category>
+		<category><![CDATA[user interviews]]></category>
+		<category><![CDATA[user research]]></category>
+		<category><![CDATA[user segmentation]]></category>
+		<category><![CDATA[user-centered design]]></category>
+		<category><![CDATA[UX research]]></category>
+		<category><![CDATA[Venezuela]]></category>
+		<category><![CDATA[web3]]></category>
+		<category><![CDATA[web3 design]]></category>
+		<guid isPermaLink="false">/?p=6241</guid>
+
+					<description><![CDATA[For the final episode of our User Research in Web 3 series. Aqeel is joined by Hester Bruikman the self-proclaimed &#8220;Product people translator&#8221; at Status. We examine how boots on the ground field research methodologies provide the necessary context required to develop products for Crypto and Web3 technologies. Learn about how in-person local research provides [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Blocked By Design- #Ep 6 &#8211; User Research Pt. 3</title>
+		<link>/blocked-by-design-6/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Wed, 05 Feb 2020 22:15:55 +0000</pubDate>
+				<category><![CDATA[Blocked by Design]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[blockchain analytics]]></category>
+		<category><![CDATA[blocked by design]]></category>
+		<category><![CDATA[cognitive bias]]></category>
+		<category><![CDATA[cognitive biases]]></category>
+		<category><![CDATA[confirmation bias]]></category>
+		<category><![CDATA[Consensys]]></category>
+		<category><![CDATA[content strategy]]></category>
+		<category><![CDATA[content testing]]></category>
+		<category><![CDATA[crypto design]]></category>
+		<category><![CDATA[crypto users]]></category>
+		<category><![CDATA[curse of knowledge effect]]></category>
+		<category><![CDATA[customer insights]]></category>
+		<category><![CDATA[decentralized design]]></category>
+		<category><![CDATA[decentralized organizations]]></category>
+		<category><![CDATA[design nerds]]></category>
+		<category><![CDATA[design research]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[evaluative research]]></category>
+		<category><![CDATA[generative research]]></category>
+		<category><![CDATA[hot hand fallacy]]></category>
+		<category><![CDATA[idea generation]]></category>
+		<category><![CDATA[open-source design]]></category>
+		<category><![CDATA[product design]]></category>
+		<category><![CDATA[product development]]></category>
+		<category><![CDATA[qualitative research]]></category>
+		<category><![CDATA[quantitative research]]></category>
+		<category><![CDATA[research processes]]></category>
+		<category><![CDATA[user analytics. user research context]]></category>
+		<category><![CDATA[user experience research]]></category>
+		<category><![CDATA[user feedback]]></category>
+		<category><![CDATA[user interviews]]></category>
+		<category><![CDATA[user research]]></category>
+		<category><![CDATA[user segmentation]]></category>
+		<category><![CDATA[user-centered design]]></category>
+		<category><![CDATA[UX research]]></category>
+		<category><![CDATA[web3]]></category>
+		<category><![CDATA[web3 analytics]]></category>
+		<category><![CDATA[web3 design]]></category>
+		<guid isPermaLink="false">/?p=6222</guid>
+
+					<description><![CDATA[For part 3 of the 4 part User Research series Reem and Aqeel had the great pleasure of speaking with Georgia Rakusen about the skills and expertise required to create a high impact User Research strategy. We dive deep into the role of cognitive biases at the intersection of psychology and technology. Examining the process [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Blocked By Design # 5-User Research Pt. 2</title>
+		<link>/blocked-by-design-5/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2020 18:25:33 +0000</pubDate>
+				<category><![CDATA[Blocked by Design]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[blockchain analytics]]></category>
+		<category><![CDATA[blocked by design]]></category>
+		<category><![CDATA[Consensys]]></category>
+		<category><![CDATA[content strategy]]></category>
+		<category><![CDATA[content testing]]></category>
+		<category><![CDATA[crypto design]]></category>
+		<category><![CDATA[crypto users]]></category>
+		<category><![CDATA[customer insights]]></category>
+		<category><![CDATA[decentralized design]]></category>
+		<category><![CDATA[decentralized organizations]]></category>
+		<category><![CDATA[design nerds]]></category>
+		<category><![CDATA[design research]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[idea generation]]></category>
+		<category><![CDATA[Metamask]]></category>
+		<category><![CDATA[open-source design]]></category>
+		<category><![CDATA[product design]]></category>
+		<category><![CDATA[product development]]></category>
+		<category><![CDATA[qualitative research]]></category>
+		<category><![CDATA[quantitative research]]></category>
+		<category><![CDATA[research processes]]></category>
+		<category><![CDATA[user analytics. user research context]]></category>
+		<category><![CDATA[user feedback]]></category>
+		<category><![CDATA[user interviews]]></category>
+		<category><![CDATA[user research]]></category>
+		<category><![CDATA[user segmentation]]></category>
+		<category><![CDATA[user-centered design]]></category>
+		<category><![CDATA[UX research]]></category>
+		<category><![CDATA[web3]]></category>
+		<category><![CDATA[web3 analytics]]></category>
+		<category><![CDATA[web3 design]]></category>
+		<guid isPermaLink="false">/?p=6197</guid>
+
+					<description><![CDATA[For the second part in our 4 part User Research series Aqeel and Reem speak with Omna to learn more about how the design teams in Web3 eco-system approach Quantitative and Qualitative research methodologies to better understand the end users and what the actual value proposition is for their service offering. Learn about the challenges [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Blocked By Design # 4 &#8211; User Research Pt.1</title>
+		<link>/blocked-by-design-4/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2020 19:43:37 +0000</pubDate>
+				<category><![CDATA[Blocked by Design]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[blockchain anayltics]]></category>
+		<category><![CDATA[blocked by design]]></category>
+		<category><![CDATA[cognitive biases]]></category>
+		<category><![CDATA[crypto design]]></category>
+		<category><![CDATA[decentralized design]]></category>
+		<category><![CDATA[decentralized organizations]]></category>
+		<category><![CDATA[design nerds]]></category>
+		<category><![CDATA[design research]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[open-source design]]></category>
+		<category><![CDATA[product design]]></category>
+		<category><![CDATA[qualitative research]]></category>
+		<category><![CDATA[quantitative research]]></category>
+		<category><![CDATA[research processes]]></category>
+		<category><![CDATA[user analytics. user research context]]></category>
+		<category><![CDATA[user interviews]]></category>
+		<category><![CDATA[user research]]></category>
+		<category><![CDATA[user-centered design]]></category>
+		<category><![CDATA[UX research]]></category>
+		<category><![CDATA[web3]]></category>
+		<category><![CDATA[web3 analytics]]></category>
+		<category><![CDATA[web3 design]]></category>
+		<guid isPermaLink="false">/?p=6173</guid>
+
+					<description><![CDATA[What is User Research? And why is it so important? In the debut of our 4 part series, Xuan Yue guides us through her unique journey getting involved with User research from community involvement with Livepeer in an opensource design environment. The remaining episodes will dive deeper into the UX research process when it comes [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Blocked by Design #3 &#8211; Weaponized Design</title>
+		<link>/blocked-by-design-03/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2020 20:47:52 +0000</pubDate>
+				<category><![CDATA[Blocked by Design]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[blocked by design]]></category>
+		<category><![CDATA[crypto design]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[dark ux patterns]]></category>
+		<category><![CDATA[decentralized design]]></category>
+		<category><![CDATA[decentralized organizations]]></category>
+		<category><![CDATA[design ethics]]></category>
+		<category><![CDATA[design nerds]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[ethical design]]></category>
+		<category><![CDATA[infosec]]></category>
+		<category><![CDATA[open-source design]]></category>
+		<category><![CDATA[participatory design]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[realities of design]]></category>
+		<category><![CDATA[state actors]]></category>
+		<category><![CDATA[system security]]></category>
+		<category><![CDATA[trust mechanisms]]></category>
+		<category><![CDATA[unintended consequences]]></category>
+		<category><![CDATA[user-centered design]]></category>
+		<category><![CDATA[weaponised design]]></category>
+		<category><![CDATA[web3]]></category>
+		<category><![CDATA[web3 design]]></category>
+		<guid isPermaLink="false">/?p=6161</guid>
+
+					<description><![CDATA[What if one day you woke up and realized the social impact project you worked on is now a tool for oppression? How about if that innocuous gamified app you&#8217;ve been using happens to also be a surveillance tool for hackers? Where do we draw the line between &#8220;ethical&#8221; and &#8220;poor&#8221; design? Find out more [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Blocked by Design #2 &#8211; Distributed Design &#8211; Sarah Mills</title>
+		<link>/blocked-by-design-02/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2020 15:20:56 +0000</pubDate>
+				<category><![CDATA[Blocked by Design]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[blocked by design]]></category>
+		<category><![CDATA[burnout]]></category>
+		<category><![CDATA[business models]]></category>
+		<category><![CDATA[business of design]]></category>
+		<category><![CDATA[Consensys]]></category>
+		<category><![CDATA[crypto design]]></category>
+		<category><![CDATA[decentralized design]]></category>
+		<category><![CDATA[decentralized organizations]]></category>
+		<category><![CDATA[design career progression]]></category>
+		<category><![CDATA[design careers]]></category>
+		<category><![CDATA[design collaboration]]></category>
+		<category><![CDATA[design communication]]></category>
+		<category><![CDATA[design education]]></category>
+		<category><![CDATA[design hiring]]></category>
+		<category><![CDATA[design love]]></category>
+		<category><![CDATA[design nerds]]></category>
+		<category><![CDATA[design ROI]]></category>
+		<category><![CDATA[design thinking]]></category>
+		<category><![CDATA[design tools]]></category>
+		<category><![CDATA[designer developer relations]]></category>
+		<category><![CDATA[designer relations]]></category>
+		<category><![CDATA[distributed design]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[ibm blockchain]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[mental health]]></category>
+		<category><![CDATA[open design]]></category>
+		<category><![CDATA[open-source design]]></category>
+		<category><![CDATA[remote collaboration]]></category>
+		<category><![CDATA[ROI of Design]]></category>
+		<category><![CDATA[role of design]]></category>
+		<category><![CDATA[user-centered design]]></category>
+		<category><![CDATA[web3]]></category>
+		<category><![CDATA[web3 business models]]></category>
+		<category><![CDATA[web3 design]]></category>
+		<guid isPermaLink="false">/?p=6120</guid>
+
+					<description><![CDATA[Aqeel and Sarah Mills the Head of Design @ Consensys sit down to do a deep-dive on the nuances of approaching design &#38; creative for decentralized technologies while working with a distributed team. The Web3 / Blockchain eco-system is leading the way for the adoption and acceptance of remote-first work environments, facing new challenges and [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

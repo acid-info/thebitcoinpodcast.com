@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>weaponised design &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/weaponised-design/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 15 Jan 2020 20:47:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>weaponised design &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Blocked by Design #3 &#8211; Weaponized Design</title>
+		<link>/blocked-by-design-03/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2020 20:47:52 +0000</pubDate>
+				<category><![CDATA[Blocked by Design]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[blocked by design]]></category>
+		<category><![CDATA[crypto design]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[dark ux patterns]]></category>
+		<category><![CDATA[decentralized design]]></category>
+		<category><![CDATA[decentralized organizations]]></category>
+		<category><![CDATA[design ethics]]></category>
+		<category><![CDATA[design nerds]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[ethical design]]></category>
+		<category><![CDATA[infosec]]></category>
+		<category><![CDATA[open-source design]]></category>
+		<category><![CDATA[participatory design]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[realities of design]]></category>
+		<category><![CDATA[state actors]]></category>
+		<category><![CDATA[system security]]></category>
+		<category><![CDATA[trust mechanisms]]></category>
+		<category><![CDATA[unintended consequences]]></category>
+		<category><![CDATA[user-centered design]]></category>
+		<category><![CDATA[weaponised design]]></category>
+		<category><![CDATA[web3]]></category>
+		<category><![CDATA[web3 design]]></category>
+		<guid isPermaLink="false">/?p=6161</guid>
+
+					<description><![CDATA[What if one day you woke up and realized the social impact project you worked on is now a tool for oppression? How about if that innocuous gamified app you&#8217;ve been using happens to also be a surveillance tool for hackers? Where do we draw the line between &#8220;ethical&#8221; and &#8220;poor&#8221; design? Find out more [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>charile lee &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/charile-lee/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 11 Apr 2021 18:59:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>charile lee &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #347- Coinbase is a Grown</title>
+		<link>/the-bitcoin-podcast-347/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 12 Apr 2021 12:00:26 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[airdrops]]></category>
+		<category><![CDATA[alt coins]]></category>
+		<category><![CDATA[BCH]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[charile lee]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[crypto banks]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Decentralize]]></category>
+		<category><![CDATA[Decentralized]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[ICO]]></category>
+		<category><![CDATA[Lightning Network]]></category>
+		<category><![CDATA[Litecoin]]></category>
+		<category><![CDATA[mass adoption]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[shit coins]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[tech news]]></category>
+		<category><![CDATA[tokens]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">/?p=7008</guid>
+
+					<description><![CDATA[Jessie, Dee, and Corey discuss Coinbase going public, Signal having a crypto coin, and what are the downsides of wash trading. Production Note: Corey&#8217;s Audio in the beginning of the podcast was not correct but will smooth out later in the Episode. Sorry for the Technical Diffculties.  Please Like, Share, and Subscribe to our channel. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

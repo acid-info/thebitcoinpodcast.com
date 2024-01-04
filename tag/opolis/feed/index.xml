@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>opolis &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/opolis/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 03 Apr 2022 17:24:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>opolis &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #388- Joshua of Opolis</title>
+		<link>/the-bitcoin-podcast-388/</link>
+					<comments>/the-bitcoin-podcast-388/#comments</comments>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 04 Apr 2022 04:00:46 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[1099]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[Closed Loop Network]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[crypto payments]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[DADDAO]]></category>
+		<category><![CDATA[DAO]]></category>
+		<category><![CDATA[dao design]]></category>
+		<category><![CDATA[Decentralized]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[gas]]></category>
+		<category><![CDATA[giveaway]]></category>
+		<category><![CDATA[GPU]]></category>
+		<category><![CDATA[gwei]]></category>
+		<category><![CDATA[hardware]]></category>
+		<category><![CDATA[income]]></category>
+		<category><![CDATA[independent contractor]]></category>
+		<category><![CDATA[keystone hardware wallet]]></category>
+		<category><![CDATA[L1]]></category>
+		<category><![CDATA[L2]]></category>
+		<category><![CDATA[layer one]]></category>
+		<category><![CDATA[Layer-Two]]></category>
+		<category><![CDATA[opolis]]></category>
+		<category><![CDATA[price]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[sacations]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[taxes]]></category>
+		<category><![CDATA[ukraine]]></category>
+		<category><![CDATA[w-2]]></category>
+		<category><![CDATA[war]]></category>
+		<category><![CDATA[work co-opt]]></category>
+		<category><![CDATA[work cooperative]]></category>
+		<guid isPermaLink="false">/?p=7607</guid>
+
+					<description><![CDATA[In this interview only Jessie, Dee, and Corey speak with Joshua of Opolis on how as an individual you can be paid in Crypto and still have a W-2. Social Media Opolis Website: https://opolis.co/ YouTube: https://www.youtube.com/channel/UCxpG_XyDTUvYmrTfiexmU2A Twitter:https://twitter.com/opolis Telegram:https://t.me/Opolis Discord: https://discord.com/invite/p9FQHYhxcM Github:https://github.com/opolis/ Request: opolis.typeform.com/RequestLLC Request:Commons.opolois.co Joshua Telegram: t.me/f0xJoshua  PFP: https://nftp.fun/ DAO: Daohaus.club The Bitcoin Podcast Social Media Join-Slack: https://launchpass.com/thebitcoinpodcast Patreon:https://www.patreon.com/TheBitcoinPodcastNetwork Website: / Twitter: https://twitter.com/thebtcpodcast DADDAO: https://daddao.org/]]></description>
+		
+					<wfw:commentRss>/the-bitcoin-podcast-388/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

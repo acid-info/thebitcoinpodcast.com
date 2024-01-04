@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Announcements: Cryptyk	</title>
+	<atom:link href="/announcements-cryptyk/feed/" rel="self" type="application/rss+xml" />
+	<link>/announcements-cryptyk/</link>
+	<description></description>
+	<lastBuildDate>Sat, 24 Mar 2018 00:06:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Oliver Simons		</title>
+		<link>/announcements-cryptyk/#comment-427</link>
+
+		<dc:creator><![CDATA[Oliver Simons]]></dc:creator>
+		<pubDate>Sat, 24 Mar 2018 00:06:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3802#comment-427</guid>
+
+					<description><![CDATA[Seems like a solid project. Worth a look in.]]></description>
+			<content:encoded><![CDATA[<p>Seems like a solid project. Worth a look in.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

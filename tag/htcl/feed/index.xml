@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>HTCL &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/htcl/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Feb 2019 21:36:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>HTCL &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #36: Dan Robinson &#8211; HTLCs (And why they suck)</title>
+		<link>/hashing-it-out-36/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Wed, 13 Feb 2019 21:27:33 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[Corey]]></category>
+		<category><![CDATA[Dan Robinson]]></category>
+		<category><![CDATA[HTCL]]></category>
+		<category><![CDATA[Lightning Network]]></category>
+		<guid isPermaLink="false">/?p=5310</guid>
+
+					<description><![CDATA[We have the pleasure to present one of the more entertaining speakers at SBC19, Dan Robinson. After two talks on Hash Time Locked Contracts (HTLCs), he drops a massive bomb in with a slide deck entitled, &#8220;HTLCs (And why they suck).&#8221; Lively and entertaining, we have him step through is thoughts on HTLCs and the [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

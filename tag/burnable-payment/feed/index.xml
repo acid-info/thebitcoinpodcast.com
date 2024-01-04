@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>burnable payment &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/burnable-payment/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 25 Feb 2020 17:16:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>burnable payment &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #73-Logan Brutsche of DAIHard</title>
+		<link>/hashing-it-out-73/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2020 12:00:49 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[burnable payment]]></category>
+		<category><![CDATA[Cosmos]]></category>
+		<category><![CDATA[DAI]]></category>
+		<category><![CDATA[defcon]]></category>
+		<category><![CDATA[ETH2]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[global markets]]></category>
+		<category><![CDATA[MakerDao]]></category>
+		<category><![CDATA[mart Contract]]></category>
+		<category><![CDATA[remittance]]></category>
+		<category><![CDATA[Status]]></category>
+		<category><![CDATA[transferwise]]></category>
+		<category><![CDATA[trust]]></category>
+		<guid isPermaLink="false">/?p=6306</guid>
+
+					<description><![CDATA[DAIHard uses Ethereum smart contracts to create burnable deposits as a means to gamify exchange of goods and services. In a burnable deposit, both parties put up collateral and in the event the servicing party delivers, they recieve their deposit plus their compensation. Failure and both parties may lose their deposits. We have Logan Brutsche [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

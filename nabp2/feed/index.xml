@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Not Another Bitcoin Podcast #2: Crypto Maak	</title>
+	<atom:link href="/nabp2/feed/" rel="self" type="application/rss+xml" />
+	<link>/nabp2/</link>
+	<description></description>
+	<lastBuildDate>Wed, 05 Jul 2017 13:53:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Kenn Bosak		</title>
+		<link>/nabp2/#comment-357</link>
+
+		<dc:creator><![CDATA[Kenn Bosak]]></dc:creator>
+		<pubDate>Wed, 05 Jul 2017 13:53:18 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2241#comment-357</guid>
+
+					<description><![CDATA[As far as I know, he was using the sites lending bot directly.]]></description>
+			<content:encoded><![CDATA[<p>As far as I know, he was using the sites lending bot directly.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Mystacrypto		</title>
+		<link>/nabp2/#comment-356</link>
+
+		<dc:creator><![CDATA[Mystacrypto]]></dc:creator>
+		<pubDate>Tue, 04 Jul 2017 14:40:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2241#comment-356</guid>
+
+					<description><![CDATA[Great show! was curious if Crypto Maak&#039;s Poloniex lending was directly through their site using this bot (https://www.poloniexlendingbot.com/), or something else?]]></description>
+			<content:encoded><![CDATA[<p>Great show! was curious if Crypto Maak&#8217;s Poloniex lending was directly through their site using this bot (<a href="https://www.poloniexlendingbot.com/" rel="nofollow ugc">https://www.poloniexlendingbot.com/</a>), or something else?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

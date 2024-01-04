@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>zcash &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/zcash/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 28 Oct 2020 04:08:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>zcash &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #326-Jameson Lopp Casa</title>
+		<link>/the-bitcoin-podcast-326/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2020 12:00:16 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[blog post]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[casa hodl]]></category>
+		<category><![CDATA[casa node]]></category>
+		<category><![CDATA[Grin]]></category>
+		<category><![CDATA[HODL]]></category>
+		<category><![CDATA[IMAX Exchanges]]></category>
+		<category><![CDATA[Mimblewimble]]></category>
+		<category><![CDATA[Monero]]></category>
+		<category><![CDATA[multisig]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[self-custody]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[taproot]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[zcash]]></category>
+		<guid isPermaLink="false">/?p=6831</guid>
+
+					<description><![CDATA[Jesse and Dee start this roundtable discussion getting into a life stuff. Then a smooth transition into the news on Paypal and dangers of custodial services. Shout Out to Willy Woo for us . Our guest is Jameson Lopp CTO of Casa Node. Links: Jameson Lopp Website-Personal Twitter Bitcoin Information &#38; Resources Links:Casa HODL Website [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Bitcoin Podcast #313-Matthew Finestone Loopring</title>
+		<link>/the-bitcoin-podcast-313/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 06 Jul 2020 12:00:25 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[2nd layer]]></category>
+		<category><![CDATA[bond]]></category>
+		<category><![CDATA[Canada]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[fixed income]]></category>
+		<category><![CDATA[gitcoin]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[hedge]]></category>
+		<category><![CDATA[proofs]]></category>
+		<category><![CDATA[protocol]]></category>
+		<category><![CDATA[trade]]></category>
+		<category><![CDATA[validator]]></category>
+		<category><![CDATA[zcash]]></category>
+		<category><![CDATA[zero-knowledge]]></category>
+		<category><![CDATA[zk-rollups]]></category>
+		<guid isPermaLink="false">/?p=6655</guid>
+
+					<description><![CDATA[Dee and Guest Host Wayne(Yes2Crypto) on this roundtable have an in-depth discussion about decentralizing power structures and the failures of Governments. The Guest is Matthew Finestone of Loopring. Links:Loopring.org Website Twitter Twitter-Matthew Finestone Telegram The Bitcoin Podcast Network Social Media Slack Donate! Discuss]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hashing It Out #83-Panvala Niran Babalola</title>
+		<link>/hashing-it-out-83/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Fri, 15 May 2020 16:02:36 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[audio stalking]]></category>
+		<category><![CDATA[codified subsidies]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Donations]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[fee market]]></category>
+		<category><![CDATA[Fees]]></category>
+		<category><![CDATA[gitcoin]]></category>
+		<category><![CDATA[gitcoin grant]]></category>
+		<category><![CDATA[grants]]></category>
+		<category><![CDATA[inflation rate]]></category>
+		<category><![CDATA[lack of connections]]></category>
+		<category><![CDATA[model]]></category>
+		<category><![CDATA[money printer]]></category>
+		<category><![CDATA[staking]]></category>
+		<category><![CDATA[zcash]]></category>
+		<guid isPermaLink="false">/?p=6569</guid>
+
+					<description><![CDATA[Dr. Corey Petty is joined by John Mardlin as co-host to interview returning guest Niran Babalola of Panvala. This show dives deep into the building of a community and using the subsidies model of Bitcoin to fund communities within the Ethereum ecosystem. Links: Website-Panvala Twitter-Panvala Twitter-Niran Babalola Donate to Hashing It Out]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

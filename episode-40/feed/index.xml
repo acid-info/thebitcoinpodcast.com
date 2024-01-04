@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Episode #40: A Conservative Trillion	</title>
+	<atom:link href="/episode-40/feed/" rel="self" type="application/rss+xml" />
+	<link>/episode-40/</link>
+	<description></description>
+	<lastBuildDate>Sat, 20 Feb 2016 20:28:30 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: artstateofmind@gmail.com		</title>
+		<link>/episode-40/#comment-134</link>
+
+		<dc:creator><![CDATA[artstateofmind@gmail.com]]></dc:creator>
+		<pubDate>Sat, 20 Feb 2016 20:28:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=763#comment-134</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/episode-40/#comment-130&quot;&gt;Cosmin Coman&lt;/a&gt;.
+
+Hello Cosmin,
+
+So we sent your comment to Code Valley and thought that we would give them a chance to reply to you...and they did!
+
+Here it is:
+
+&quot;Hi Dee,
+
+Thanks for giving us the courtesy of responding to your listener&#039;s comments. You guys over there at The Bitcoin Podcast seem to be of that rare breed of person who won&#039;t immediately dismiss an idea without at first doing some &quot;due diligence.&quot;
+
+I&#039;ve addressed each of the listener&#039;s concerns below.
+
+(1) &quot;This guys not a programmer&quot; – Incorrect. Noel&#039;s first position in industry was &quot;Software design engineer&quot; (EE was the CS of the day). He also has a Masters in Computer Systems Engineering. In short, he has spent his whole life in software.
+(2) &quot;..he should have known that what he wants to realize is just a fantasy&quot; – Incorrect. What Noel “wants to realize” has already been realised (http://codevalley.com/documentation – see &#039;Technology status&#039;). The evidence of its reality is our corporate webserver and the entire supply-chain of more than 1000 vendors that were used to construct it. It was Noel&#039;s intention to only emerge from stealth-mode once we had achieved proof-of-concept.
+(3) &quot;Every software is different, it’s not like you have a factory where each product that is created is the same and it’s created on a conveyor.” – Incorrect. While every software (program) is indeed different, they share a large portion of design knowledge (otherwise your listener would have a very difficult time switching to a new project upon the completion of his current one).
+(4) &quot;A module cannot be used on any software product, but can be sold for a specific set of software in order to be incorporated, for that is codecanyon.” – This statement is irrelevant, as this technology does not rely on or use modules of any kind. Even a cursory glance by your listener at our website or white paper would have revealed the use of design-contributions (indirect code-contributions) rather than modules (direct code-contributions). Unlike code-contributions, design-contributions can be applied to any project in the design-domain and even *future* projects in the design-domain. Also, unlike code-contributions, design-contributions naturally protect the developer&#039;s intellectual property and scale beautifully. We consider design-contributions to be a vastly superior form of contribution over that which can be achieved by delivering a module of code.
+
+May I suggest you ease your listener&#039;s concerns by directing him to our white paper. If, as he asserts, this idea is &quot;really stupid&quot; he might be kind enough to point out the flaws in its thesis. I suggest he start with the last two sections of the paper which offer strong justifications (&quot;well defended&quot; in the words of a senior software industry figure) of the technology. These sections are based on Fred Brooks&#039; Silver Bullet criteria and the properties of industrialisation, respectively. This white paper was released in early September 2015 and we have yet to receive (or be made aware of) any flaws in its arguments (not to mention our implementation of the technology works rather well).
+
+Thank-you again for the giving us the opportunity to respond. Please don&#039;t hesitate to get back in touch if you require any further information.
+
+You&#039;re doing fantastic work with The Bitcoin Podcast.
+
+Cheers,
+Julie&quot;
+
+We hope you continue to enjoy the show, and we will try to do better about getting experts on to assess the guests we have on the show.
+
+Cheers, buddy!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/episode-40/#comment-130">Cosmin Coman</a>.</p>
+<p>Hello Cosmin,</p>
+<p>So we sent your comment to Code Valley and thought that we would give them a chance to reply to you&#8230;and they did!</p>
+<p>Here it is:</p>
+<p>&#8220;Hi Dee,</p>
+<p>Thanks for giving us the courtesy of responding to your listener&#8217;s comments. You guys over there at The Bitcoin Podcast seem to be of that rare breed of person who won&#8217;t immediately dismiss an idea without at first doing some &#8220;due diligence.&#8221;</p>
+<p>I&#8217;ve addressed each of the listener&#8217;s concerns below.</p>
+<p>(1) &#8220;This guys not a programmer&#8221; – Incorrect. Noel&#8217;s first position in industry was &#8220;Software design engineer&#8221; (EE was the CS of the day). He also has a Masters in Computer Systems Engineering. In short, he has spent his whole life in software.<br />
+(2) &#8220;..he should have known that what he wants to realize is just a fantasy&#8221; – Incorrect. What Noel “wants to realize” has already been realised (<a href="http://codevalley.com/documentation" rel="nofollow ugc">http://codevalley.com/documentation</a> – see &#8216;Technology status&#8217;). The evidence of its reality is our corporate webserver and the entire supply-chain of more than 1000 vendors that were used to construct it. It was Noel&#8217;s intention to only emerge from stealth-mode once we had achieved proof-of-concept.<br />
+(3) &#8220;Every software is different, it’s not like you have a factory where each product that is created is the same and it’s created on a conveyor.” – Incorrect. While every software (program) is indeed different, they share a large portion of design knowledge (otherwise your listener would have a very difficult time switching to a new project upon the completion of his current one).<br />
+(4) &#8220;A module cannot be used on any software product, but can be sold for a specific set of software in order to be incorporated, for that is codecanyon.” – This statement is irrelevant, as this technology does not rely on or use modules of any kind. Even a cursory glance by your listener at our website or white paper would have revealed the use of design-contributions (indirect code-contributions) rather than modules (direct code-contributions). Unlike code-contributions, design-contributions can be applied to any project in the design-domain and even *future* projects in the design-domain. Also, unlike code-contributions, design-contributions naturally protect the developer&#8217;s intellectual property and scale beautifully. We consider design-contributions to be a vastly superior form of contribution over that which can be achieved by delivering a module of code.</p>
+<p>May I suggest you ease your listener&#8217;s concerns by directing him to our white paper. If, as he asserts, this idea is &#8220;really stupid&#8221; he might be kind enough to point out the flaws in its thesis. I suggest he start with the last two sections of the paper which offer strong justifications (&#8220;well defended&#8221; in the words of a senior software industry figure) of the technology. These sections are based on Fred Brooks&#8217; Silver Bullet criteria and the properties of industrialisation, respectively. This white paper was released in early September 2015 and we have yet to receive (or be made aware of) any flaws in its arguments (not to mention our implementation of the technology works rather well).</p>
+<p>Thank-you again for the giving us the opportunity to respond. Please don&#8217;t hesitate to get back in touch if you require any further information.</p>
+<p>You&#8217;re doing fantastic work with The Bitcoin Podcast.</p>
+<p>Cheers,<br />
+Julie&#8221;</p>
+<p>We hope you continue to enjoy the show, and we will try to do better about getting experts on to assess the guests we have on the show.</p>
+<p>Cheers, buddy!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Cosmin Coman		</title>
+		<link>/episode-40/#comment-130</link>
+
+		<dc:creator><![CDATA[Cosmin Coman]]></dc:creator>
+		<pubDate>Wed, 17 Feb 2016 12:08:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=763#comment-130</guid>
+
+					<description><![CDATA[This guys is not a programmer, he should have known that what he wants to realize is just a fantasy. Every software is different, it&#039;s not like you have a factory where each product that is created is the same and it&#039;s created on a conveyor.
+This is like having a factory that creates software on conveyor and each product is customized, and this is not possible because then it would be no conveyor, it would be what it is now: companies/individuals working on thousand of software products.
+A module cannot be used on any software product, but can be sold for a specific set of software in order to be incorporated, for that is codecanyon.
+His idea is really stupid and you hype will die so fast after release.
+Before doing podcasts like this (technical subject) you could also invite an industry expert just to have a real view over the subject.
+Good luck!]]></description>
+			<content:encoded><![CDATA[<p>This guys is not a programmer, he should have known that what he wants to realize is just a fantasy. Every software is different, it&#8217;s not like you have a factory where each product that is created is the same and it&#8217;s created on a conveyor.<br />
+This is like having a factory that creates software on conveyor and each product is customized, and this is not possible because then it would be no conveyor, it would be what it is now: companies/individuals working on thousand of software products.<br />
+A module cannot be used on any software product, but can be sold for a specific set of software in order to be incorporated, for that is codecanyon.<br />
+His idea is really stupid and you hype will die so fast after release.<br />
+Before doing podcasts like this (technical subject) you could also invite an industry expert just to have a real view over the subject.<br />
+Good luck!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: artstateofmind@gmail.com		</title>
+		<link>/episode-40/#comment-127</link>
+
+		<dc:creator><![CDATA[artstateofmind@gmail.com]]></dc:creator>
+		<pubDate>Tue, 16 Feb 2016 03:02:45 +0000</pubDate>
+		<guid isPermaLink="false">/?p=763#comment-127</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/episode-40/#comment-123&quot;&gt;Maryann Kelly&lt;/a&gt;.
+
+We thought so too!  We are in for some amazing times if networks like Code Valley gain a lot of traction.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/episode-40/#comment-123">Maryann Kelly</a>.</p>
+<p>We thought so too!  We are in for some amazing times if networks like Code Valley gain a lot of traction.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Maryann Kelly		</title>
+		<link>/episode-40/#comment-123</link>
+
+		<dc:creator><![CDATA[Maryann Kelly]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2016 05:36:09 +0000</pubDate>
+		<guid isPermaLink="false">/?p=763#comment-123</guid>
+
+					<description><![CDATA[You guys got it right:  (Code Valley) is game changing and the dude IS amazing!]]></description>
+			<content:encoded><![CDATA[<p>You guys got it right:  (Code Valley) is game changing and the dude IS amazing!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

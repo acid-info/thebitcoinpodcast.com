@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Episode #57: Future of a Shared Economy	</title>
+	<atom:link href="/episode-57/feed/" rel="self" type="application/rss+xml" />
+	<link>/episode-57/</link>
+	<description></description>
+	<lastBuildDate>Fri, 18 Aug 2017 16:19:03 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Petty		</title>
+		<link>/episode-57/#comment-214</link>
+
+		<dc:creator><![CDATA[Petty]]></dc:creator>
+		<pubDate>Sun, 08 May 2016 17:08:41 +0000</pubDate>
+		<guid isPermaLink="false">/?p=955#comment-214</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/episode-57/#comment-213&quot;&gt;Robert&lt;/a&gt;.
+
+Yeah, thanks for that!  We actually discuss BTC relay a bit in the most recent episode.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/episode-57/#comment-213">Robert</a>.</p>
+<p>Yeah, thanks for that!  We actually discuss BTC relay a bit in the most recent episode.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Robert		</title>
+		<link>/episode-57/#comment-213</link>
+
+		<dc:creator><![CDATA[Robert]]></dc:creator>
+		<pubDate>Sat, 07 May 2016 14:19:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=955#comment-213</guid>
+
+					<description><![CDATA[Great show! You might want to look into BTC Relay if you haven&#039;t for a deployed example of a way in which BTC and Ethereum can interoperate.]]></description>
+			<content:encoded><![CDATA[<p>Great show! You might want to look into BTC Relay if you haven&#8217;t for a deployed example of a way in which BTC and Ethereum can interoperate.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Robert		</title>
+		<link>/episode-57/#comment-212</link>
+
+		<dc:creator><![CDATA[Robert]]></dc:creator>
+		<pubDate>Sat, 07 May 2016 14:10:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=955#comment-212</guid>
+
+					<description><![CDATA[Great episode, good explanations. Really liked the music at the end.]]></description>
+			<content:encoded><![CDATA[<p>Great episode, good explanations. Really liked the music at the end.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Eric		</title>
+		<link>/episode-57/#comment-209</link>
+
+		<dc:creator><![CDATA[Eric]]></dc:creator>
+		<pubDate>Wed, 04 May 2016 00:46:50 +0000</pubDate>
+		<guid isPermaLink="false">/?p=955#comment-209</guid>
+
+					<description><![CDATA[I had no idea the crowd sale started. Thanks for the episode.]]></description>
+			<content:encoded><![CDATA[<p>I had no idea the crowd sale started. Thanks for the episode.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

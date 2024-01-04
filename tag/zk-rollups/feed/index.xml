@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>zk-rollups &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/zk-rollups/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 06 Jul 2020 04:33:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>zk-rollups &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #313-Matthew Finestone Loopring</title>
+		<link>/the-bitcoin-podcast-313/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 06 Jul 2020 12:00:25 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[2nd layer]]></category>
+		<category><![CDATA[bond]]></category>
+		<category><![CDATA[Canada]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[fixed income]]></category>
+		<category><![CDATA[gitcoin]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[hedge]]></category>
+		<category><![CDATA[proofs]]></category>
+		<category><![CDATA[protocol]]></category>
+		<category><![CDATA[trade]]></category>
+		<category><![CDATA[validator]]></category>
+		<category><![CDATA[zcash]]></category>
+		<category><![CDATA[zero-knowledge]]></category>
+		<category><![CDATA[zk-rollups]]></category>
+		<guid isPermaLink="false">/?p=6655</guid>
+
+					<description><![CDATA[Dee and Guest Host Wayne(Yes2Crypto) on this roundtable have an in-depth discussion about decentralizing power structures and the failures of Governments. The Guest is Matthew Finestone of Loopring. Links:Loopring.org Website Twitter Twitter-Matthew Finestone Telegram The Bitcoin Podcast Network Social Media Slack Donate! Discuss]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

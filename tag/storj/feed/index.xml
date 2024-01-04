@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>storj &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/storj/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 09 Nov 2020 01:44:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>storj &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #328-Evan Kuo Ampleforth</title>
+		<link>/the-bitcoin-podcast-328/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 09 Nov 2020 12:00:28 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[deflation money]]></category>
+		<category><![CDATA[digital scarcity]]></category>
+		<category><![CDATA[economic shock]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[fix money supply]]></category>
+		<category><![CDATA[generational knowledge]]></category>
+		<category><![CDATA[hoarder]]></category>
+		<category><![CDATA[new monies]]></category>
+		<category><![CDATA[petrol-dollar]]></category>
+		<category><![CDATA[price wage stickiness]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[Sovereign monetary system]]></category>
+		<category><![CDATA[storj]]></category>
+		<category><![CDATA[uber]]></category>
+		<category><![CDATA[web browser]]></category>
+		<guid isPermaLink="false">/?p=6866</guid>
+
+					<description><![CDATA[Dee and Jessie on this roundtable(Corey is on Sabbatical for two weeks) talk about what the next big thing in Bitcoin will be: lighting pools, Wrap Bitcoin, or something completely different. Our Guest is Evan Kuo of Ampleforth. Links: Ampleforth Website Twitter Discord Whitepaper Sponsor Links Avalanche The Bitcoin Podcast Social Media Join-Slack Bitcoin Store [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hashing It Out #95-Cartesi Augusto Texeria Erick De Moura</title>
+		<link>/hashing-it-out-95/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2020 22:01:41 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[bash server]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[bugs]]></category>
+		<category><![CDATA[Cartesi]]></category>
+		<category><![CDATA[Dapps]]></category>
+		<category><![CDATA[ddos]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[gas]]></category>
+		<category><![CDATA[GUI]]></category>
+		<category><![CDATA[IFPS]]></category>
+		<category><![CDATA[java]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[npm]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[OS]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[root]]></category>
+		<category><![CDATA[sidechains]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[storj]]></category>
+		<category><![CDATA[swarm]]></category>
+		<category><![CDATA[VM]]></category>
+		<guid isPermaLink="false">/?p=6826</guid>
+
+					<description><![CDATA[Build scalable DApps using a fully-fledged Linux operating system and mainstream software stacks. Run complex computations off-chain, free from blockchain limitations and fees, while retaining decentralization and security. DApps with Cartesi are easier to build, scalable and more powerful.. Links: Cartesi Website Twitter Telegram Github Whitepaper Sponsor Links: Avalanche and Panvala GitCoin Grant Avalanche Panvala [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hashing It Out #94- Marco Rodrigues Web 3.0</title>
+		<link>/hashing-it-out-94/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2020 20:27:37 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[bandwidth]]></category>
+		<category><![CDATA[BitTorrent]]></category>
+		<category><![CDATA[cable boxes]]></category>
+		<category><![CDATA[comcast]]></category>
+		<category><![CDATA[difinty]]></category>
+		<category><![CDATA[downstream]]></category>
+		<category><![CDATA[FCC]]></category>
+		<category><![CDATA[filecoin]]></category>
+		<category><![CDATA[Handshake]]></category>
+		<category><![CDATA[hardware]]></category>
+		<category><![CDATA[IPFS]]></category>
+		<category><![CDATA[Napster]]></category>
+		<category><![CDATA[Netflix]]></category>
+		<category><![CDATA[P2P]]></category>
+		<category><![CDATA[slack]]></category>
+		<category><![CDATA[Space X]]></category>
+		<category><![CDATA[spotify]]></category>
+		<category><![CDATA[storj]]></category>
+		<category><![CDATA[stream]]></category>
+		<category><![CDATA[streaming]]></category>
+		<category><![CDATA[upstream]]></category>
+		<category><![CDATA[Verizon]]></category>
+		<category><![CDATA[web 3.0]]></category>
+		<category><![CDATA[zoom]]></category>
+		<guid isPermaLink="false">/?p=6809</guid>
+
+					<description><![CDATA[Marco from The Slack(You Should Join)talks with John and Corey about the fundamental underline infrastructures of the internet and how Web 3.0 should look like in the future now. Links:Marco Website Twitter Sponsor Links Avalanche HIO Panvala Tweet HIO Panvala Community Grant The Hashing It Out Social Media Slack Donate to Hashing It Out Discuss]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

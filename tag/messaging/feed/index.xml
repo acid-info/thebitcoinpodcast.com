@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Messaging &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/messaging/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 14 Apr 2017 00:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Messaging &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>BlockChannel Episode 18: Where You At? What’s Your Status.im?</title>
+		<link>/bc18/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Fri, 14 Apr 2017 00:43:53 +0000</pubDate>
+				<category><![CDATA[Sponsored Posts]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[Dee]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[McKie]]></category>
+		<category><![CDATA[Messaging]]></category>
+		<category><![CDATA[Petty]]></category>
+		<guid isPermaLink="false">/?p=1992</guid>
+
+					<description><![CDATA[On this episode of BlockChannel, McKie, Dee and Dr. Petty finally get a chance to have a chat with Jarrad Hope and Carl Bennetts of Status. After many reschedules due to their non-stop hustling the past few months since the announcement of their project — we got the scoop. We get an inside look into how Jarrad [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

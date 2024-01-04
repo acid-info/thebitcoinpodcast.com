@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Anatoly Yokovenko &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/anatoly-yokovenko/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 26 Sep 2019 13:37:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Anatoly Yokovenko &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #61 &#8211; Solana &#8211; Anatoly Yakovenko</title>
+		<link>/hashing-it-out-61/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Thu, 26 Sep 2019 13:37:41 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[Anatoly Yokovenko]]></category>
+		<category><![CDATA[scaling]]></category>
+		<category><![CDATA[sharding]]></category>
+		<category><![CDATA[Solana]]></category>
+		<guid isPermaLink="false">/?p=5840</guid>
+
+					<description><![CDATA[In today&#8217;s episode, Corey and Collin talk with Anatoly Yakovenko, the Co-Founder and CEO of Solana. Solana is a blockchain platform attempting to scale transactions without the need of sharding and we want to know how they plan to do it. Join us as we dive into their strategy, their current progress, and where they [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

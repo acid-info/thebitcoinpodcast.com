@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>data &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/data/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 14 Dec 2022 08:27:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>data &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out-Application Infrastructure Pt. 2</title>
+		<link>/hashing-it-out-app-infra-pt-2/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Tue, 10 Jan 2023 16:00:20 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[data-analyst]]></category>
+		<category><![CDATA[Decentralize]]></category>
+		<category><![CDATA[decentralized organizations]]></category>
+		<category><![CDATA[peer to peer]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[tech news]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">/?p=7828</guid>
+
+					<description><![CDATA[Hashing It Out is continuing its series on the blockchain infrastructure with episode two of the Application layer. In this episode, Corey and Jessie talk to Patrick O&#8217;Grady at Ava Labs. You Can Find Hashing It Out Podcast Here: Website: https://hashingitout.sounder.fm/ RSSFeed:https://feeds.sounder.fm/6234/rss.xml &#160;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Bitcoin Podcast #329- Andrew Reistad BTCParser</title>
+		<link>/the-bitcoin-podcast-329/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2020 12:00:26 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[AML]]></category>
+		<category><![CDATA[big blocks]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[bots]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[data mining]]></category>
+		<category><![CDATA[early adoption]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[exchanges]]></category>
+		<category><![CDATA[finical systems]]></category>
+		<category><![CDATA[HODL]]></category>
+		<category><![CDATA[KYC]]></category>
+		<category><![CDATA[miners]]></category>
+		<category><![CDATA[mining bitcoin]]></category>
+		<category><![CDATA[OFT]]></category>
+		<category><![CDATA[origins]]></category>
+		<category><![CDATA[pure bitcoin]]></category>
+		<category><![CDATA[Satoshi]]></category>
+		<category><![CDATA[super cars]]></category>
+		<category><![CDATA[UVA]]></category>
+		<category><![CDATA[virgin bitcoin]]></category>
+		<category><![CDATA[wealth]]></category>
+		<guid isPermaLink="false">/?p=6873</guid>
+
+					<description><![CDATA[Jessie and Dee on this roundtable discussion talk about who in the Corporate world owns Bitcoin and does it matter to you if they own Bitcoin. Our Guest is Andrew Reistad of BTCParser. Links:BTCParser Website-BotSite Website-Company Telegram Sponsor Links Avalanche The Bitcoin Podcast Social Media Join-Slack Bitcoin Store Patreon Donate! Discuss]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hashing It Out #90- Core Scientific Ian Ferreira</title>
+		<link>/hashing-it-out-90/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 06 Aug 2020 12:00:38 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[ASCI]]></category>
+		<category><![CDATA[chipset]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[data mining]]></category>
+		<category><![CDATA[Energy]]></category>
+		<category><![CDATA[GPU]]></category>
+		<category><![CDATA[IOT]]></category>
+		<category><![CDATA[mining]]></category>
+		<category><![CDATA[models]]></category>
+		<guid isPermaLink="false">/?p=6703</guid>
+
+					<description><![CDATA[On this episode Dean and Corey have Guest Ian Ferreira of Core Scientific cover the usage of AI in the blockchain spaces and building efficient mining architecture. Links: Core Scientific Website Website-AI The Bitcoin Podcast Network Slack Donate to Hashing It Out Discuss]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Bitcoin Podcast #316-Robert Materazzi &#038; Roger Brown of Lukka</title>
+		<link>/the-bitcoin-podcast-316/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2020 22:37:05 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[barter]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[compliance burden]]></category>
+		<category><![CDATA[corporate]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[data asset]]></category>
+		<category><![CDATA[exchanges]]></category>
+		<category><![CDATA[finical services]]></category>
+		<category><![CDATA[ICO]]></category>
+		<category><![CDATA[long term capital]]></category>
+		<category><![CDATA[loop holes]]></category>
+		<category><![CDATA[Money]]></category>
+		<category><![CDATA[property]]></category>
+		<category><![CDATA[social contract]]></category>
+		<category><![CDATA[tax]]></category>
+		<category><![CDATA[traditional services]]></category>
+		<guid isPermaLink="false">/?p=6698</guid>
+
+					<description><![CDATA[A Very Special Roundtable discussion as Dee and Corey meet in person to talk about the printing of 6 Trillion US Dollars. Our Guest are Co-CEO Robert Materazzi and Roger Brown of Lukka a Data Company in the Cryptocurrency Space. Disclaimer: This is not financial advice, always do your own due diligence before investing or [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hashing It Out #88- Foursquare Max Sklar</title>
+		<link>/hashing-it-out-88/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 23 Jul 2020 20:03:47 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[fee market]]></category>
+		<category><![CDATA[location data]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[miners]]></category>
+		<category><![CDATA[mining]]></category>
+		<category><![CDATA[mining reword]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[swarm]]></category>
+		<guid isPermaLink="false">/?p=6685</guid>
+
+					<description><![CDATA[Max Sklar is an engineer at Foursquare and is the head of a project called Swarm. John and Jaye speak with Max about this project,  machine learning, how to build an app in 2020, and can tokens/NTFS on blockchain be incorporated into Foursquare. Links: Max Sklar Website Twitter Podcast The Bitcoin Podcast Network Slack Donate [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hashing It Out #85- Gauntlet.Network Tarun Chitra</title>
+		<link>/hashing-it-out-85/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2020 19:47:00 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[ASIC]]></category>
+		<category><![CDATA[audits]]></category>
+		<category><![CDATA[Black Hat]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[data mining]]></category>
+		<category><![CDATA[defi]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[IP]]></category>
+		<category><![CDATA[Proof of Work]]></category>
+		<category><![CDATA[Proof-Of-Stake]]></category>
+		<category><![CDATA[risk assessments]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[virtual machines]]></category>
+		<category><![CDATA[wall street]]></category>
+		<category><![CDATA[white hat]]></category>
+		<guid isPermaLink="false">/?p=6637</guid>
+
+					<description><![CDATA[In this episode, we explore the incentives of both consensus systems and defi with Tarun Chitra the Founder &#38; CEO of Gauntlet. Tarun is applying his experience of AI and financial simulation to blockchains. Using ‘agent-based simulation’ he helps protocol designers to discover unexpected strategies to extract more than their share of value. Links:Gauntlet.Network Website [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FirstBlood &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/firstblood/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 12 Feb 2017 19:06:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>FirstBlood &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>BlockChannel Episode 9: Getting Gamers on Ethereum with FirstBlood</title>
+		<link>/bc9/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Wed, 08 Feb 2017 03:22:11 +0000</pubDate>
+				<category><![CDATA[Sponsored Posts]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[Dee]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[FirstBlood]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[McKie]]></category>
+		<category><![CDATA[P2P]]></category>
+		<category><![CDATA[Petty]]></category>
+		<guid isPermaLink="false">/?p=1744</guid>
+
+					<description><![CDATA[On this episode of BlockChannel, McKie, Dee and Dr. Petty hangout and chat with Marco Cuesta of FirstBlood.io. FirstBlood is a P2P betting platform for e-sports that is built on Ethereum smart contracts. Marco and his team are looking to bring e-sports straight to the 22nd century, and make it easy to bet (legally) with [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

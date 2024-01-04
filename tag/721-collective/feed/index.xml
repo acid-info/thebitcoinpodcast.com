@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>721 collective &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/721-collective/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 13 May 2021 19:37:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>721 collective &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #352- Aram Barnett Will Nichols 721 Collective</title>
+		<link>/the-bitcoin-podcast-352/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 17 May 2021 12:00:05 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[721 collective]]></category>
+		<category><![CDATA[ART]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Decentralize]]></category>
+		<category><![CDATA[dogecoin]]></category>
+		<category><![CDATA[dumping]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[gas]]></category>
+		<category><![CDATA[goverment]]></category>
+		<category><![CDATA[meme]]></category>
+		<category><![CDATA[mining]]></category>
+		<category><![CDATA[Money]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[palm trees]]></category>
+		<category><![CDATA[peer to peer]]></category>
+		<category><![CDATA[price]]></category>
+		<category><![CDATA[SEC]]></category>
+		<category><![CDATA[shiba inu coin]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[tech news]]></category>
+		<category><![CDATA[tokens]]></category>
+		<category><![CDATA[user-centered design]]></category>
+		<guid isPermaLink="false">/?p=7050</guid>
+
+					<description><![CDATA[In this roundtable Corey, Jessie, and Dee cover Vitalik Dumping on the community and other cryptocurrency news..Joe Blau CEO/Co-founder of Tokenlaunch  comes to the Roundtable as a Special Guest to discuss his project. The interview is with Aram Barnett and Will Nichols about taking NFTs to the next level with their project 721 Collective. On [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

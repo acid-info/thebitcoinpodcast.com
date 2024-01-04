@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Episode #63: Change Jar 4.0	</title>
+	<atom:link href="/episode-63/feed/" rel="self" type="application/rss+xml" />
+	<link>/episode-63/</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 Jun 2016 00:57:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: lynn felice		</title>
+		<link>/episode-63/#comment-240</link>
+
+		<dc:creator><![CDATA[lynn felice]]></dc:creator>
+		<pubDate>Tue, 07 Jun 2016 00:57:09 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1025#comment-240</guid>
+
+					<description><![CDATA[i adore you lawnmower guys!]]></description>
+			<content:encoded><![CDATA[<p>i adore you lawnmower guys!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

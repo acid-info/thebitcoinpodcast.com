@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Episode #98: Ubitquity Part Duex	</title>
+	<atom:link href="/episode-98/feed/" rel="self" type="application/rss+xml" />
+	<link>/episode-98/</link>
+	<description></description>
+	<lastBuildDate>Thu, 04 May 2017 23:27:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Nathan Wosnack		</title>
+		<link>/episode-98/#comment-332</link>
+
+		<dc:creator><![CDATA[Nathan Wosnack]]></dc:creator>
+		<pubDate>Sun, 27 Nov 2016 00:16:40 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1429#comment-332</guid>
+
+					<description><![CDATA[Thanks again, guys. Truly an honor every time we can be guests on your show.]]></description>
+			<content:encoded><![CDATA[<p>Thanks again, guys. Truly an honor every time we can be guests on your show.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Marina Reznik		</title>
+		<link>/episode-98/#comment-331</link>
+
+		<dc:creator><![CDATA[Marina Reznik]]></dc:creator>
+		<pubDate>Fri, 11 Nov 2016 23:23:13 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1429#comment-331</guid>
+
+					<description><![CDATA[Thanks for having us on the show again guys!  This was fun.  :-)]]></description>
+			<content:encoded><![CDATA[<p>Thanks for having us on the show again guys!  This was fun.  🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

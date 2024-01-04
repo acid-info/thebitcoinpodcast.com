@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Episode #94: Reputation Tokens	</title>
+	<atom:link href="/episode-94/feed/" rel="self" type="application/rss+xml" />
+	<link>/episode-94/</link>
+	<description></description>
+	<lastBuildDate>Sun, 23 Oct 2016 15:41:52 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Brian Dunbar		</title>
+		<link>/episode-94/#comment-328</link>
+
+		<dc:creator><![CDATA[Brian Dunbar]]></dc:creator>
+		<pubDate>Sun, 23 Oct 2016 15:41:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1397#comment-328</guid>
+
+					<description><![CDATA[Hey there.  
+
+Beyond Deploy - which is really cool - what makes OpenBazaar so great is that it is an ecommerce protocol - anyone can play and extend, or use, the protocol.
+
+Personally, I see ob: is now where http: was in 1993.
+
+Nice podcast.
+
+B. Dunbar
+Space for eCommerce
+spacefore.com]]></description>
+			<content:encoded><![CDATA[<p>Hey there.  </p>
+<p>Beyond Deploy &#8211; which is really cool &#8211; what makes OpenBazaar so great is that it is an ecommerce protocol &#8211; anyone can play and extend, or use, the protocol.</p>
+<p>Personally, I see ob: is now where http: was in 1993.</p>
+<p>Nice podcast.</p>
+<p>B. Dunbar<br />
+Space for eCommerce<br />
+spacefore.com</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

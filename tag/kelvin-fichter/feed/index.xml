@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kelvin Fichter &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/kelvin-fichter/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 17 Oct 2019 21:35:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Kelvin Fichter &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #64 &#8211; Plasma &#8211; Kelvin Fichter</title>
+		<link>/hashing-it-out-64/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Thu, 17 Oct 2019 21:35:53 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Kelvin Fichter]]></category>
+		<category><![CDATA[Layer 2]]></category>
+		<category><![CDATA[Plasma]]></category>
+		<guid isPermaLink="false">/?p=5898</guid>
+
+					<description><![CDATA[If you know the show, you know we are very keen to see Plasma implemented as a technology. To discuss the progress in the past year, we have the great pleasure of bringing on Kelvin Fichter, former Plasma researcher with OmiseGo and the Plasma Group. We talk about the advancements made, and how the specification [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

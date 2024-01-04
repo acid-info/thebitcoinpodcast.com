@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Handshake &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/handshake/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 16 Oct 2020 20:27:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Handshake &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #94- Marco Rodrigues Web 3.0</title>
+		<link>/hashing-it-out-94/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2020 20:27:37 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[bandwidth]]></category>
+		<category><![CDATA[BitTorrent]]></category>
+		<category><![CDATA[cable boxes]]></category>
+		<category><![CDATA[comcast]]></category>
+		<category><![CDATA[difinty]]></category>
+		<category><![CDATA[downstream]]></category>
+		<category><![CDATA[FCC]]></category>
+		<category><![CDATA[filecoin]]></category>
+		<category><![CDATA[Handshake]]></category>
+		<category><![CDATA[hardware]]></category>
+		<category><![CDATA[IPFS]]></category>
+		<category><![CDATA[Napster]]></category>
+		<category><![CDATA[Netflix]]></category>
+		<category><![CDATA[P2P]]></category>
+		<category><![CDATA[slack]]></category>
+		<category><![CDATA[Space X]]></category>
+		<category><![CDATA[spotify]]></category>
+		<category><![CDATA[storj]]></category>
+		<category><![CDATA[stream]]></category>
+		<category><![CDATA[streaming]]></category>
+		<category><![CDATA[upstream]]></category>
+		<category><![CDATA[Verizon]]></category>
+		<category><![CDATA[web 3.0]]></category>
+		<category><![CDATA[zoom]]></category>
+		<guid isPermaLink="false">/?p=6809</guid>
+
+					<description><![CDATA[Marco from The Slack(You Should Join)talks with John and Corey about the fundamental underline infrastructures of the internet and how Web 3.0 should look like in the future now. Links:Marco Website Twitter Sponsor Links Avalanche HIO Panvala Tweet HIO Panvala Community Grant The Hashing It Out Social Media Slack Donate to Hashing It Out Discuss]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hashing It Out #81- Unstoppable Domains Brad Kam</title>
+		<link>/hashing-it-out-81/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 30 Apr 2020 12:00:24 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchains]]></category>
+		<category><![CDATA[Browser]]></category>
+		<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[ENS]]></category>
+		<category><![CDATA[ERC-20]]></category>
+		<category><![CDATA[ERC-721]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[hack house]]></category>
+		<category><![CDATA[Handshake]]></category>
+		<category><![CDATA[human readable]]></category>
+		<category><![CDATA[IPFS]]></category>
+		<category><![CDATA[name system]]></category>
+		<category><![CDATA[Opera]]></category>
+		<category><![CDATA[Ownership]]></category>
+		<category><![CDATA[parity bug]]></category>
+		<category><![CDATA[pin]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[unstoppable domains]]></category>
+		<category><![CDATA[web 3 browser]]></category>
+		<guid isPermaLink="false">/?p=6519</guid>
+
+					<description><![CDATA[Unstoppable Domains is a crypto blockchain domain company and browser maker that connects users to .crypto domain names on the Ethereum blockchain. These human-readable domain names allow users to be able to connect any cryptocurrency address to receive payments or to establish a censorship-resistant website. Links: UNSTOPPABLE DOMAINS Website Twitter Github  Telegram Sponsor Status Website [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hashing It Out #76- Namebase.io Tieshun Roquerre</title>
+		<link>/hashing-it-out-76/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2020 12:00:05 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[51%]]></category>
+		<category><![CDATA[air drops]]></category>
+		<category><![CDATA[ASIC]]></category>
+		<category><![CDATA[Bcoin]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Boston]]></category>
+		<category><![CDATA[Browser]]></category>
+		<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[cloud flare]]></category>
+		<category><![CDATA[convenience system]]></category>
+		<category><![CDATA[Developer]]></category>
+		<category><![CDATA[DNS]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[GPU]]></category>
+		<category><![CDATA[Handshake]]></category>
+		<category><![CDATA[IPFS]]></category>
+		<category><![CDATA[java]]></category>
+		<category><![CDATA[name server]]></category>
+		<category><![CDATA[Namebase]]></category>
+		<category><![CDATA[naming conflict]]></category>
+		<category><![CDATA[Node]]></category>
+		<category><![CDATA[pihole]]></category>
+		<category><![CDATA[rent seeking]]></category>
+		<category><![CDATA[revolvers]]></category>
+		<category><![CDATA[root-name]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[TLD]]></category>
+		<guid isPermaLink="false">/?p=6425</guid>
+
+					<description><![CDATA[Handshake is a decentralized, permissionless naming protocol where every peer is validating and in charge of managing the root DNS naming zone with the goal of creating an alternative to existing Certificate Authorities and naming systems. Names on the internet (top level domains, social networking handles, etc.) ultimately rely upon centralized actors with full control [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Bitcoin Podcast #296-Cedric Dahl-1000XGroup</title>
+		<link>/the-bitcoin-podcast-296/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 17 Feb 2020 12:00:20 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[browser extensions]]></category>
+		<category><![CDATA[Coinjoin]]></category>
+		<category><![CDATA[Crypto Adoption]]></category>
+		<category><![CDATA[Darknet]]></category>
+		<category><![CDATA[darknet markets]]></category>
+		<category><![CDATA[data-analyst]]></category>
+		<category><![CDATA[defi]]></category>
+		<category><![CDATA[echanges]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[filecoin]]></category>
+		<category><![CDATA[first movers]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Grin]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[Handshake]]></category>
+		<category><![CDATA[hoarding]]></category>
+		<category><![CDATA[IPFS]]></category>
+		<category><![CDATA[mimble wimble]]></category>
+		<category><![CDATA[Monero]]></category>
+		<category><![CDATA[nation state actors]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Ron Conway]]></category>
+		<category><![CDATA[simulation]]></category>
+		<category><![CDATA[Space X]]></category>
+		<category><![CDATA[TCP/IP]]></category>
+		<category><![CDATA[tech investment]]></category>
+		<category><![CDATA[TOR]]></category>
+		<guid isPermaLink="false">/?p=6248</guid>
+
+					<description><![CDATA[Dee and Corey go straight into the Interview with Cedric Dahl, an OG of the Bitcoin space, to talk about Bitcoin&#8217;s dominant (and growing) use on the darknet markets. Cedric runs a think tank called &#8216;The 1000x Group&#8217;, which monitors crypto adoption to look for early signals of long term value creation. The group studies [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Bitcoin Podcast #286- Morgen Rochard Financial Advisor</title>
+		<link>/the-bitcoin-podcast-286/</link>
+					<comments>/the-bitcoin-podcast-286/#comments</comments>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 09 Dec 2019 12:00:22 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[30 Year Bull Run]]></category>
+		<category><![CDATA[401k]]></category>
+		<category><![CDATA[BitBlock Boom]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Boomers]]></category>
+		<category><![CDATA[Bull Run]]></category>
+		<category><![CDATA[Decentralize]]></category>
+		<category><![CDATA[decentralized organizations]]></category>
+		<category><![CDATA[financial planner]]></category>
+		<category><![CDATA[Generation X]]></category>
+		<category><![CDATA[Generational Wealth]]></category>
+		<category><![CDATA[Gold]]></category>
+		<category><![CDATA[Handshake]]></category>
+		<category><![CDATA[keynesian economics]]></category>
+		<category><![CDATA[Millennial]]></category>
+		<category><![CDATA[QE]]></category>
+		<category><![CDATA[retirement]]></category>
+		<category><![CDATA[retirement plans]]></category>
+		<category><![CDATA[Stocks]]></category>
+		<category><![CDATA[Student Loans]]></category>
+		<guid isPermaLink="false">/?p=6036</guid>
+
+					<description><![CDATA[Dee and Dr. Corey Petty cover the reason why you should buy whiskey, networking within the construction industry, Christmas enable ethereum tree, and the egalitarian principals of different blockchains. Our interview is with Morgen Rochard, a financial planner who does not shy away from working within the cryptocurrency space. LINKS Website Origin Wealth Advisers LLC [&#8230;]]]></description>
+		
+					<wfw:commentRss>/the-bitcoin-podcast-286/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Grin &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/grin/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 28 Oct 2020 04:08:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Grin &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #326-Jameson Lopp Casa</title>
+		<link>/the-bitcoin-podcast-326/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2020 12:00:16 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[blog post]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[casa hodl]]></category>
+		<category><![CDATA[casa node]]></category>
+		<category><![CDATA[Grin]]></category>
+		<category><![CDATA[HODL]]></category>
+		<category><![CDATA[IMAX Exchanges]]></category>
+		<category><![CDATA[Mimblewimble]]></category>
+		<category><![CDATA[Monero]]></category>
+		<category><![CDATA[multisig]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[self-custody]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[taproot]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[zcash]]></category>
+		<guid isPermaLink="false">/?p=6831</guid>
+
+					<description><![CDATA[Jesse and Dee start this roundtable discussion getting into a life stuff. Then a smooth transition into the news on Paypal and dangers of custodial services. Shout Out to Willy Woo for us . Our guest is Jameson Lopp CTO of Casa Node. Links: Jameson Lopp Website-Personal Twitter Bitcoin Information &#38; Resources Links:Casa HODL Website [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Bitcoin Podcast #296-Cedric Dahl-1000XGroup</title>
+		<link>/the-bitcoin-podcast-296/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 17 Feb 2020 12:00:20 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[browser extensions]]></category>
+		<category><![CDATA[Coinjoin]]></category>
+		<category><![CDATA[Crypto Adoption]]></category>
+		<category><![CDATA[Darknet]]></category>
+		<category><![CDATA[darknet markets]]></category>
+		<category><![CDATA[data-analyst]]></category>
+		<category><![CDATA[defi]]></category>
+		<category><![CDATA[echanges]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[filecoin]]></category>
+		<category><![CDATA[first movers]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Grin]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[Handshake]]></category>
+		<category><![CDATA[hoarding]]></category>
+		<category><![CDATA[IPFS]]></category>
+		<category><![CDATA[mimble wimble]]></category>
+		<category><![CDATA[Monero]]></category>
+		<category><![CDATA[nation state actors]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Ron Conway]]></category>
+		<category><![CDATA[simulation]]></category>
+		<category><![CDATA[Space X]]></category>
+		<category><![CDATA[TCP/IP]]></category>
+		<category><![CDATA[tech investment]]></category>
+		<category><![CDATA[TOR]]></category>
+		<guid isPermaLink="false">/?p=6248</guid>
+
+					<description><![CDATA[Dee and Corey go straight into the Interview with Cedric Dahl, an OG of the Bitcoin space, to talk about Bitcoin&#8217;s dominant (and growing) use on the darknet markets. Cedric runs a think tank called &#8216;The 1000x Group&#8217;, which monitors crypto adoption to look for early signals of long term value creation. The group studies [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hashing It Out #EP 71-Grin-Michael Cordner and David Burkett</title>
+		<link>/hashing-it-out-71/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2020 22:43:32 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[Adam Back]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Chain Analysis]]></category>
+		<category><![CDATA[Coinjoin]]></category>
+		<category><![CDATA[Confidential Transactions]]></category>
+		<category><![CDATA[Dev Tax]]></category>
+		<category><![CDATA[Fairness]]></category>
+		<category><![CDATA[GPU Mining]]></category>
+		<category><![CDATA[Greg Maxwell]]></category>
+		<category><![CDATA[Grin]]></category>
+		<category><![CDATA[Grincoin]]></category>
+		<category><![CDATA[Ignotus Peverell]]></category>
+		<category><![CDATA[Investors]]></category>
+		<category><![CDATA[Litecoin]]></category>
+		<category><![CDATA[Mimblewimble]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[Scalability]]></category>
+		<category><![CDATA[Tom Elvis Judisor]]></category>
+		<category><![CDATA[TOR]]></category>
+		<guid isPermaLink="false">/?p=6178</guid>
+
+					<description><![CDATA[Michael Cordner / Yeastplume, long time Grin contributor and part of the core team, and David Burkett, long time member of the Grin community, creator of the C++ standalone implementation of Grin, proposer of the soon to be released TOR transaction building method, and lead on Litecoin&#8217;s Mimblewimble Extension block project. They&#8217;ve both agreed to [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

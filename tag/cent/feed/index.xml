@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cent &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/cent/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 01 Sep 2017 14:04:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Cent &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>BlockChannel Episode 29: Making Sense of Cent.co</title>
+		<link>/bc29/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Fri, 01 Sep 2017 14:04:46 +0000</pubDate>
+				<category><![CDATA[Sponsored Posts]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[Cent]]></category>
+		<category><![CDATA[McKie]]></category>
+		<category><![CDATA[Petty]]></category>
+		<guid isPermaLink="false">/?p=2643</guid>
+
+					<description><![CDATA[On this episode of BlockChannel, McKie and Petty sit down with the founders of Cent.co, Max Brody and Cameron Hejazi. Cent, presently, is a Quora-like Q&#38;A platform built on the Ethereum blockchain. Their service allows you to post questions with monetary bounties via Ethereum smart-contracts. By being a member of Cent, you can then answer [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

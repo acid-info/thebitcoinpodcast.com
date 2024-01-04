@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Not Another Bitcoin Podcast #10: Benjamin Semchee	</title>
+	<atom:link href="/nabp10/feed/" rel="self" type="application/rss+xml" />
+	<link>/nabp10/</link>
+	<description></description>
+	<lastBuildDate>Fri, 01 Sep 2017 17:47:54 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Kenn bosak		</title>
+		<link>/nabp10/#comment-376</link>
+
+		<dc:creator><![CDATA[Kenn bosak]]></dc:creator>
+		<pubDate>Fri, 01 Sep 2017 17:47:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2639#comment-376</guid>
+
+					<description><![CDATA[What do you think about this episode guys?!]]></description>
+			<content:encoded><![CDATA[<p>What do you think about this episode guys?!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hyperledger &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/hyperledger/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 19 Mar 2020 22:14:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>hyperledger &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #75-Truman Esmond- VP of AAIS</title>
+		<link>/hashing-it-out-75/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2020 22:14:33 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[hyperledger]]></category>
+		<category><![CDATA[insurance]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[non profit]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<guid isPermaLink="false">/?p=6402</guid>
+
+					<description><![CDATA[On today&#8217;s episode, Corey and Collin talk with Truman Esmond, VP of Solutions and Partnerships at the American Association of Insurance Services (AAIS). Why are we talking to insurance folks, you ask? Because they&#8217;ve partnered with IBM to launch the openIDL platform to help aggregate company data while maintaining privacy and compliance. We ask how [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

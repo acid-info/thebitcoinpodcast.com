@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Computer Science &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/computer-science/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 14 Jan 2020 23:28:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Computer Science &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The BlockChannel #67-Leigh Cuen</title>
+		<link>/the-blockchannel-67/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2020 22:00:34 +0000</pubDate>
+				<category><![CDATA[BlockChannel]]></category>
+		<category><![CDATA[2017]]></category>
+		<category><![CDATA[Academic]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[CoinDesk]]></category>
+		<category><![CDATA[Computer Science]]></category>
+		<category><![CDATA[Content Creators]]></category>
+		<category><![CDATA[CryptoTwitter]]></category>
+		<category><![CDATA[darknet markets]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Gender]]></category>
+		<category><![CDATA[journalism]]></category>
+		<category><![CDATA[journalist]]></category>
+		<category><![CDATA[Lightning Network]]></category>
+		<category><![CDATA[Middle-East]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Porn]]></category>
+		<category><![CDATA[Satoshi Nakamoto Entrepreneurship]]></category>
+		<category><![CDATA[Sex Industry]]></category>
+		<category><![CDATA[Sex Workers]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[Writers]]></category>
+		<category><![CDATA[Writing]]></category>
+		<guid isPermaLink="false">/?p=6142</guid>
+
+					<description><![CDATA[﻿ Descriptions On this episode of BlockChannel, McKie and Dr. Petty become journalists, for just this one time, as we interview a journalist from the industry who’s quickly made a name for herself, Leigh Cuen. Leigh is a reporter from Coindesk and with a colorful past as a journalist with a broad range of focuses. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

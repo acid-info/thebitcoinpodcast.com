@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fee market &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/fee-market/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 23 Jul 2020 20:03:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>fee market &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #88- Foursquare Max Sklar</title>
+		<link>/hashing-it-out-88/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 23 Jul 2020 20:03:47 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[fee market]]></category>
+		<category><![CDATA[location data]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[miners]]></category>
+		<category><![CDATA[mining]]></category>
+		<category><![CDATA[mining reword]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[swarm]]></category>
+		<guid isPermaLink="false">/?p=6685</guid>
+
+					<description><![CDATA[Max Sklar is an engineer at Foursquare and is the head of a project called Swarm. John and Jaye speak with Max about this project,  machine learning, how to build an app in 2020, and can tokens/NTFS on blockchain be incorporated into Foursquare. Links: Max Sklar Website Twitter Podcast The Bitcoin Podcast Network Slack Donate [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Bitcoin Podcast #312-Emin Gün Sirer CEO of AVA LABS</title>
+		<link>/the-bitcoin-podcast-312/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2020 12:00:30 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[2 layer solutions]]></category>
+		<category><![CDATA[ava]]></category>
+		<category><![CDATA[Ava Lab]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[blocks]]></category>
+		<category><![CDATA[DAO]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[fee market]]></category>
+		<category><![CDATA[ISP]]></category>
+		<category><![CDATA[Lightning Network]]></category>
+		<category><![CDATA[peer 2 peer]]></category>
+		<category><![CDATA[scaling]]></category>
+		<category><![CDATA[tech news]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[Visa]]></category>
+		<guid isPermaLink="false">/?p=6630</guid>
+
+					<description><![CDATA[In this roundtable discussion, our Guest Host is Wayne(Yes2Crypto)from the Slack(Please Join), who goes over price predictions with Dee. Our Guest making his sixth appearance on the show the one and only Emin Gün Sirer. Links To AVA LABS: Website Twitter Telegram Github The Bitcoin Network Social Media Slack Donate!]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hashing It Out #83-Panvala Niran Babalola</title>
+		<link>/hashing-it-out-83/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Fri, 15 May 2020 16:02:36 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[audio stalking]]></category>
+		<category><![CDATA[codified subsidies]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Donations]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[fee market]]></category>
+		<category><![CDATA[Fees]]></category>
+		<category><![CDATA[gitcoin]]></category>
+		<category><![CDATA[gitcoin grant]]></category>
+		<category><![CDATA[grants]]></category>
+		<category><![CDATA[inflation rate]]></category>
+		<category><![CDATA[lack of connections]]></category>
+		<category><![CDATA[model]]></category>
+		<category><![CDATA[money printer]]></category>
+		<category><![CDATA[staking]]></category>
+		<category><![CDATA[zcash]]></category>
+		<guid isPermaLink="false">/?p=6569</guid>
+
+					<description><![CDATA[Dr. Corey Petty is joined by John Mardlin as co-host to interview returning guest Niran Babalola of Panvala. This show dives deep into the building of a community and using the subsidies model of Bitcoin to fund communities within the Ethereum ecosystem. Links: Website-Panvala Twitter-Panvala Twitter-Niran Babalola Donate to Hashing It Out]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

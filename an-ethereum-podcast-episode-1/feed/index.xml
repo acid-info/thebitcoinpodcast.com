@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: An Ethereum Podcast: Episode #1	</title>
+	<atom:link href="/an-ethereum-podcast-episode-1/feed/" rel="self" type="application/rss+xml" />
+	<link>/an-ethereum-podcast-episode-1/</link>
+	<description></description>
+	<lastBuildDate>Sat, 09 Sep 2017 03:28:52 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Chunkzer		</title>
+		<link>/an-ethereum-podcast-episode-1/#comment-386</link>
+
+		<dc:creator><![CDATA[Chunkzer]]></dc:creator>
+		<pubDate>Sat, 09 Sep 2017 03:28:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2706#comment-386</guid>
+
+					<description><![CDATA[Good stuff, would love to have some time / topic annotations though.]]></description>
+			<content:encoded><![CDATA[<p>Good stuff, would love to have some time / topic annotations though.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Chunkzer		</title>
+		<link>/an-ethereum-podcast-episode-1/#comment-385</link>
+
+		<dc:creator><![CDATA[Chunkzer]]></dc:creator>
+		<pubDate>Sat, 09 Sep 2017 03:28:08 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2706#comment-385</guid>
+
+					<description><![CDATA[Good stuff. Would love some marked time skips to jump to conversations of interest though.]]></description>
+			<content:encoded><![CDATA[<p>Good stuff. Would love some marked time skips to jump to conversations of interest though.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: yougetmyattention		</title>
+		<link>/an-ethereum-podcast-episode-1/#comment-384</link>
+
+		<dc:creator><![CDATA[yougetmyattention]]></dc:creator>
+		<pubDate>Fri, 08 Sep 2017 22:59:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2706#comment-384</guid>
+
+					<description><![CDATA[Awesome! Dunning seems like a knowledgeable guy, good selection Evan]]></description>
+			<content:encoded><![CDATA[<p>Awesome! Dunning seems like a knowledgeable guy, good selection Evan</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: jtnichol		</title>
+		<link>/an-ethereum-podcast-episode-1/#comment-383</link>
+
+		<dc:creator><![CDATA[jtnichol]]></dc:creator>
+		<pubDate>Fri, 08 Sep 2017 19:36:25 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2706#comment-383</guid>
+
+					<description><![CDATA[Dunning and Evan. Big hugs from KC.  Spot on guys.]]></description>
+			<content:encoded><![CDATA[<p>Dunning and Evan. Big hugs from KC.  Spot on guys.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

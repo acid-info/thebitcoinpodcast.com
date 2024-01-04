@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>open world &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/open-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 28 Nov 2020 04:56:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>open world &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #331- Sebastien Borget The Sandbox Games</title>
+		<link>/the-bitcoin-podcast-331/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 30 Nov 2020 12:00:13 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[Compound]]></category>
+		<category><![CDATA[DAI]]></category>
+		<category><![CDATA[defi]]></category>
+		<category><![CDATA[Demos]]></category>
+		<category><![CDATA[FEDS]]></category>
+		<category><![CDATA[gamers]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Heatmap]]></category>
+		<category><![CDATA[kids]]></category>
+		<category><![CDATA[LANDS]]></category>
+		<category><![CDATA[loot boxes]]></category>
+		<category><![CDATA[NFTS]]></category>
+		<category><![CDATA[open world]]></category>
+		<category><![CDATA[pixel]]></category>
+		<category><![CDATA[Roblox]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<category><![CDATA[SMURFS]]></category>
+		<category><![CDATA[virtual lands]]></category>
+		<guid isPermaLink="false">/?p=6888</guid>
+
+					<description><![CDATA[Dee and Corey on this roundtable discussion get into the details of what Beacon means for the Ethereum community. Then Dee introduces a new segment called Does of Eth and cover more Ethereum news of the week. Our Guest is Sebastien Borget of The Sandbox Games. Links:The Sandbox Games Website Twitter Discord Telegram Sponsor Links [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

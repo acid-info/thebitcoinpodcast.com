@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>trust less &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/trust-less/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 17 Apr 2020 05:37:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>trust less &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #79-  Alex Masmejean Rocket NFT/MetaCartel</title>
+		<link>/hashing-it-out-79/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2020 12:00:29 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[AML]]></category>
+		<category><![CDATA[application layer]]></category>
+		<category><![CDATA[Asset Control]]></category>
+		<category><![CDATA[AVA Labs]]></category>
+		<category><![CDATA[DAI]]></category>
+		<category><![CDATA[DAO]]></category>
+		<category><![CDATA[decentralize land]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[distributing power]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[gas]]></category>
+		<category><![CDATA[KYC]]></category>
+		<category><![CDATA[Lending]]></category>
+		<category><![CDATA[Maker Transaction]]></category>
+		<category><![CDATA[Met Transaction]]></category>
+		<category><![CDATA[Metamask]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[openseas]]></category>
+		<category><![CDATA[pawn shop]]></category>
+		<category><![CDATA[Smart Contract]]></category>
+		<category><![CDATA[Status]]></category>
+		<category><![CDATA[trust less]]></category>
+		<category><![CDATA[Wallet Maker]]></category>
+		<guid isPermaLink="false">/?p=6481</guid>
+
+					<description><![CDATA[Alex is part of MetaCartel, a group of developers seeking to make Dapps decentralize as possible, beginning with their developers. Alex is also part of Rocket NFT, a company that aims to create Defi loans using NTFs as collateral. Links: Website- Metacartel Twitter- Metacartel Hackathon- Metacartel Twitter- Rocket NFT Twitter- Alexmasmej Sponsor Status Website Status [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2.0 &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/web-2-0/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 05 Oct 2020 08:22:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Web 2.0 &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #323- Patrick Stanley Freehold</title>
+		<link>/the-bitcoin-podcast-323/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2020 12:00:20 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[blockstock]]></category>
+		<category><![CDATA[coinlist]]></category>
+		<category><![CDATA[educatin]]></category>
+		<category><![CDATA[founders]]></category>
+		<category><![CDATA[freehold]]></category>
+		<category><![CDATA[HODL]]></category>
+		<category><![CDATA[holder]]></category>
+		<category><![CDATA[holders]]></category>
+		<category><![CDATA[stake holder]]></category>
+		<category><![CDATA[Token]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[unidirectional friction]]></category>
+		<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[web 3.0]]></category>
+		<guid isPermaLink="false">/?p=6796</guid>
+
+					<description><![CDATA[&#160; Corey, Dee, and Jesse have a discussion and Breakdown on Dee&#8217;s rant in the Slack (Join Here). Plus, an announcement during the roundtable about how you can be a part of The Bitcoin Podcast. Our Guest Patrick Stanley of Freehold. Links:Freehold Website Twitter Sponsor Links Avalanche The Bitcoin Podcast Social Media Join-Slack Donate! Discuss]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

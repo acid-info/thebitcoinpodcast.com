@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Space X &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/space-x/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 16 Oct 2020 20:27:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Space X &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #94- Marco Rodrigues Web 3.0</title>
+		<link>/hashing-it-out-94/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2020 20:27:37 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[bandwidth]]></category>
+		<category><![CDATA[BitTorrent]]></category>
+		<category><![CDATA[cable boxes]]></category>
+		<category><![CDATA[comcast]]></category>
+		<category><![CDATA[difinty]]></category>
+		<category><![CDATA[downstream]]></category>
+		<category><![CDATA[FCC]]></category>
+		<category><![CDATA[filecoin]]></category>
+		<category><![CDATA[Handshake]]></category>
+		<category><![CDATA[hardware]]></category>
+		<category><![CDATA[IPFS]]></category>
+		<category><![CDATA[Napster]]></category>
+		<category><![CDATA[Netflix]]></category>
+		<category><![CDATA[P2P]]></category>
+		<category><![CDATA[slack]]></category>
+		<category><![CDATA[Space X]]></category>
+		<category><![CDATA[spotify]]></category>
+		<category><![CDATA[storj]]></category>
+		<category><![CDATA[stream]]></category>
+		<category><![CDATA[streaming]]></category>
+		<category><![CDATA[upstream]]></category>
+		<category><![CDATA[Verizon]]></category>
+		<category><![CDATA[web 3.0]]></category>
+		<category><![CDATA[zoom]]></category>
+		<guid isPermaLink="false">/?p=6809</guid>
+
+					<description><![CDATA[Marco from The Slack(You Should Join)talks with John and Corey about the fundamental underline infrastructures of the internet and how Web 3.0 should look like in the future now. Links:Marco Website Twitter Sponsor Links Avalanche HIO Panvala Tweet HIO Panvala Community Grant The Hashing It Out Social Media Slack Donate to Hashing It Out Discuss]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Bitcoin Podcast #296-Cedric Dahl-1000XGroup</title>
+		<link>/the-bitcoin-podcast-296/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 17 Feb 2020 12:00:20 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[browser extensions]]></category>
+		<category><![CDATA[Coinjoin]]></category>
+		<category><![CDATA[Crypto Adoption]]></category>
+		<category><![CDATA[Darknet]]></category>
+		<category><![CDATA[darknet markets]]></category>
+		<category><![CDATA[data-analyst]]></category>
+		<category><![CDATA[defi]]></category>
+		<category><![CDATA[echanges]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[filecoin]]></category>
+		<category><![CDATA[first movers]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Grin]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[Handshake]]></category>
+		<category><![CDATA[hoarding]]></category>
+		<category><![CDATA[IPFS]]></category>
+		<category><![CDATA[mimble wimble]]></category>
+		<category><![CDATA[Monero]]></category>
+		<category><![CDATA[nation state actors]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Ron Conway]]></category>
+		<category><![CDATA[simulation]]></category>
+		<category><![CDATA[Space X]]></category>
+		<category><![CDATA[TCP/IP]]></category>
+		<category><![CDATA[tech investment]]></category>
+		<category><![CDATA[TOR]]></category>
+		<guid isPermaLink="false">/?p=6248</guid>
+
+					<description><![CDATA[Dee and Corey go straight into the Interview with Cedric Dahl, an OG of the Bitcoin space, to talk about Bitcoin&#8217;s dominant (and growing) use on the darknet markets. Cedric runs a think tank called &#8216;The 1000x Group&#8217;, which monitors crypto adoption to look for early signals of long term value creation. The group studies [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

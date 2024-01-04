@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BlockChannel &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/category/blockchannel/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Apr 2020 01:54:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>BlockChannel &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>BlockChannel #63-Layer 2 Privacy and ZCash with Ayo Akinyele</title>
+		<link>/blockchannel-63-2/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2020 12:00:07 +0000</pubDate>
+				<category><![CDATA[BlockChannel]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[McKie]]></category>
+		<category><![CDATA[Petty]]></category>
+		<guid isPermaLink="false">/?p=6348</guid>
+
+					<description><![CDATA[On this episode of BlockChannel, McKie, Dee, and Dr. Petty have a well-rounded chat with Ayo Akinyele of Bolt Labs. His firm is pioneering greater privacy for layer 2 technology (think Lightning) but with a support for multiple different public chains. He imagines an interoperable future of interconnectivity, with a privacy first mindset. We go [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>BlockChannel #70-Chris Maurice Bitcoin, Handshake, and Africa with YellowCard.io</title>
+		<link>/blockchannel-70/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 02 Apr 2020 12:00:03 +0000</pubDate>
+				<category><![CDATA[BlockChannel]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[McKie]]></category>
+		<category><![CDATA[Petty]]></category>
+		<guid isPermaLink="false">/?p=6445</guid>
+
+					<description><![CDATA[On this episode of BlockChannel, McKie and Dee have a conversation on the history of creating a P2P bitcoin merchant exchange with Chris Maurice. He’s been boots on the group helping to establish bitcoin dominance in Africa with his firm YellowCard. He breaks down what it takes to build a crypto business in Africa as [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>BlockChannel #62-Tightening Society&#8217;s Bolts with Vinay Gupta</title>
+		<link>/blockchannel-62-2/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2020 12:00:52 +0000</pubDate>
+				<category><![CDATA[BlockChannel]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[McKie]]></category>
+		<category><![CDATA[Petty]]></category>
+		<category><![CDATA[sustainability]]></category>
+		<guid isPermaLink="false">/?p=6346</guid>
+
+					<description><![CDATA[On this episode of BlockChannel, McKie and Dr. Petty have a nice long discussion on the future of humanity with Vinay Gupta, CEO and Co-Founder of Mattereum. His firm (after having successfully assisting in launching Ethereum) is building a way to merge legal, real-world contracts, with on-chain smart contracts on Ethereum. His belief is that [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Blockchannel #61-Inside the Mind of a Thot Leader with Dean Eigenmann</title>
+		<link>/blockchannel-61-2/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2020 12:00:20 +0000</pubDate>
+				<category><![CDATA[BlockChannel]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[McKie]]></category>
+		<category><![CDATA[Petty]]></category>
+		<guid isPermaLink="false">/?p=6344</guid>
+
+					<description><![CDATA[On this episode of BlockChannel, McKie and Petty sit down with Petty’s fellow co-worker, Dean Eigenmann, from Status. He’s working on building an improved messaging protocol for Status, and is also working on the side on a Swift implementation of the ETH 2.0 Beacon chain. We learn more about Dean, as we go in deep [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Blockchannel #60-Bridging Ethereum Wallets with Pedro Gomes</title>
+		<link>/blockchannel-60-2/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2020 12:00:07 +0000</pubDate>
+				<category><![CDATA[BlockChannel]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[McKie]]></category>
+		<category><![CDATA[Petty]]></category>
+		<guid isPermaLink="false">/?p=6330</guid>
+
+					<description><![CDATA[On this episode of BlockChannel, McKie and Dee have a chat with Pedro Gomez, the Founder and developer behind WalletConnect. As Ethereum based accounts and wallets proliferate, standards surrounding how they’re accessed, and extended interoperably becomes ever more important. Pedro’s effort are to simplify this process for developers of Ethereum wallet’s and services, in order [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>BlockChannel #69-Roneil Rumburg The Evolution of the Mixtape, with Audius</title>
+		<link>/blockchannel-69/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 12 Mar 2020 12:00:56 +0000</pubDate>
+				<category><![CDATA[BlockChannel]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[McKie]]></category>
+		<category><![CDATA[Petty]]></category>
+		<guid isPermaLink="false">/?p=6379</guid>
+
+					<description><![CDATA[On this episode of BlockChannel, McKie, Dr. Petty and Dee finally may have found someone who can bring crypto + music &#38; audio to the masses. We’re joined by Roneil Rumburg, CEO of Audius, and an all around incredibly nice guy. He’s sharp: he understands Ethereum; he built on Bitcoin back in the day; and [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>BlockChannel #59- Insight on Crypto Investing with Ari Paul</title>
+		<link>/blockchannel-59-2/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2020 12:00:43 +0000</pubDate>
+				<category><![CDATA[BlockChannel]]></category>
+		<category><![CDATA[ari paul]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[investing]]></category>
+		<category><![CDATA[McKie]]></category>
+		<category><![CDATA[Petty]]></category>
+		<guid isPermaLink="false">/?p=6325</guid>
+
+					<description><![CDATA[On this episode of BlockChannel, McKie and Dr. Petty sit down with the crypto twitter famous, Ari Paul. Ari is the head honcho at BlockTower capital, and comes from a background of endowment management at the University of Chicago; Ari is a traditional finance nerd turned crypto nerds. We have a solid discussion on some [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>BlockChannel #68-Paul Berg (Sablier)</title>
+		<link>/blockchannel-68/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2020 12:00:59 +0000</pubDate>
+				<category><![CDATA[BlockChannel]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[McKie]]></category>
+		<category><![CDATA[Petty]]></category>
+		<guid isPermaLink="false">/?p=6286</guid>
+
+					<description><![CDATA[&#38;nbsp; On this episode of BlockChannel, McKie, Dr. Petty and Dee are back with a new season, with fresh new faces and guests. To start off this season, we spoke to Paul Berg, CEO and Co-Founder of Sablier Finance. Many have sought to scale Ethereum transactions off-chain, with the use of Roll-ups/Plasma/State Channels, but Paul&#8217;s [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The BlockChannel #67-Leigh Cuen</title>
+		<link>/the-blockchannel-67/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2020 22:00:34 +0000</pubDate>
+				<category><![CDATA[BlockChannel]]></category>
+		<category><![CDATA[2017]]></category>
+		<category><![CDATA[Academic]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[CoinDesk]]></category>
+		<category><![CDATA[Computer Science]]></category>
+		<category><![CDATA[Content Creators]]></category>
+		<category><![CDATA[CryptoTwitter]]></category>
+		<category><![CDATA[darknet markets]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Gender]]></category>
+		<category><![CDATA[journalism]]></category>
+		<category><![CDATA[journalist]]></category>
+		<category><![CDATA[Lightning Network]]></category>
+		<category><![CDATA[Middle-East]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Porn]]></category>
+		<category><![CDATA[Satoshi Nakamoto Entrepreneurship]]></category>
+		<category><![CDATA[Sex Industry]]></category>
+		<category><![CDATA[Sex Workers]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[Writers]]></category>
+		<category><![CDATA[Writing]]></category>
+		<guid isPermaLink="false">/?p=6142</guid>
+
+					<description><![CDATA[﻿ Descriptions On this episode of BlockChannel, McKie and Dr. Petty become journalists, for just this one time, as we interview a journalist from the industry who’s quickly made a name for herself, Leigh Cuen. Leigh is a reporter from Coindesk and with a colorful past as a journalist with a broad range of focuses. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>BlockChannel #66 &#8211; Cameron Robertson &#038; Paul Gerhardt &#8211; Kong Cash</title>
+		<link>/blockchannel-66/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Mon, 30 Dec 2019 17:42:03 +0000</pubDate>
+				<category><![CDATA[BlockChannel]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[kong cash]]></category>
+		<category><![CDATA[McKie]]></category>
+		<category><![CDATA[Petty]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[product engineering]]></category>
+		<guid isPermaLink="false">/?p=6100</guid>
+
+					<description><![CDATA[On this episode of BlockChannel, McKie, Dee and Dr. Petty join the founders Cameron Robertson (CEO) and Paul Gerhardt (CTO) to discuss what we believe is an innovation in bridging digital money with physical, secure digital hardware. They present us Kong, their digital cash equivalent: possessing the ability to act as a fungible representation of [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

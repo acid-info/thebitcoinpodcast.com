@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dose of Ether &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/category/dose-of-ether/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 22 May 2020 00:40:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Dose of Ether &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>DoE #43 &#8211; Break Free</title>
+		<link>/doe-43/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Fri, 22 May 2020 05:00:30 +0000</pubDate>
+				<category><![CDATA[Dose of Ether]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[decentralized organizations]]></category>
+		<category><![CDATA[defi]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">/?p=6592</guid>
+
+					<description><![CDATA[Lucian and Evan are back to talk about this week&#8217;s Ethereum news. Evan&#8217;s Week in Ethereum is now his full time gig! Brave has over 5 Million daily active users, so we share our tips on how we use it. Reddit launched an Ethereum wallet for /r/fortnightBR and /r/cryptocurrency. Watch this and show a friend [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DoE #42 &#8211; Major Incremental Improvements</title>
+		<link>/doe-42/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 05:00:15 +0000</pubDate>
+				<category><![CDATA[Dose of Ether]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[web3]]></category>
+		<category><![CDATA[web3 design]]></category>
+		<guid isPermaLink="false">/?p=6440</guid>
+
+					<description><![CDATA[Support Evan&#8217;s Week in Ethereum News on GitCoin: https://gitcoin.co/grants/237/week-in-ethereum-news Lucian and Evan Van Ness discuss the new round of GitCoin Grants, their incentive structure and how they deal with sybil attacks. We admire the development effort that has allowed Geth to reduce bandwidth consumption by 75%. Aztec implemented a rollup. Eth 2 phase 0 spec [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DoE #41 &#8211; Maker is Just Fine</title>
+		<link>/doe-41/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2020 05:00:10 +0000</pubDate>
+				<category><![CDATA[Dose of Ether]]></category>
+		<category><![CDATA[Bitcoin Maximalist]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[decentralized organizations]]></category>
+		<category><![CDATA[defi]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<guid isPermaLink="false">/?p=6422</guid>
+
+					<description><![CDATA[Lucian and Evan breath a collective sign of relief as Maker auctions happen uneventfully to re-estabilish the collateralization ratio. Dai is back and hopefully more resilient. Nexus Mutual decides, almost unanimously, that the Maker smart contract functioned as designed, therefore they are not paying out any claims. And Vitalik gives us his version of a [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DoE #40 &#8211; Maker Flop</title>
+		<link>/doe-40/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2020 19:30:32 +0000</pubDate>
+				<category><![CDATA[Dose of Ether]]></category>
+		<category><![CDATA[Decentralized]]></category>
+		<category><![CDATA[decentralized design]]></category>
+		<category><![CDATA[defi]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<guid isPermaLink="false">/?p=6407</guid>
+
+					<description><![CDATA[Lucian and Evan join you from their respective isolated locations to discuss the current most pressing matter (in Ethereum), Maker DAO&#8217;s recent near $0 ETH liquidation auctions which reduced collateral by $8 million. We discuss what happened, what has changed since then, and why we are hopeful that things are going to play out well [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DoE #39 &#8211; Ether en Francais</title>
+		<link>/doe-39/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Thu, 12 Mar 2020 05:00:32 +0000</pubDate>
+				<category><![CDATA[Dose of Ether]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Developer]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[mass adoption]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">/?p=6385</guid>
+
+					<description><![CDATA[Lucian and Evan Van Ness catch up after Evan has traveled to Denver, London and Paris for Ethereum conferences. We discuss the trends among some of the submissions to the hackathon as well as some updates including two new zk-rollup projects that have landed on test nets already. https://www.youtube.com/channel/UC_kOxlaYNOTtNwtwySZ0B8w/videos https://iden3.io/identity-wallet https://medium.com/@weijiek/release-announcement-semaphore-a-zero-knowledge-gadget-for-ethereum-5b671cd360d4]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DoE #38 &#8211; Toasting Mate</title>
+		<link>/doe-38/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Tue, 04 Feb 2020 06:00:58 +0000</pubDate>
+				<category><![CDATA[Dose of Ether]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">/?p=6216</guid>
+
+					<description><![CDATA[Lucian and Evan Van Ness start off by justifying their caffeine addiction and shilling Yerba Mate. Evan and Josh Stark wrote a detailed update on developments that spanned the Ethereum ecosystem, we pick out some datapoint highlights for our listeners. For example they demonstrated, with data, how multiple individual DApps on Ethereum have produced more [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DoE # 37 &#8211; Trading on Optimism</title>
+		<link>/doe-37/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2020 05:00:14 +0000</pubDate>
+				<category><![CDATA[Dose of Ether]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Developer]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Lightning Network]]></category>
+		<category><![CDATA[privacy]]></category>
+		<guid isPermaLink="false">/?p=6192</guid>
+
+					<description><![CDATA[Evan put out a new Year in Ethereum, which is a comprehensive update on how much can get done in this space in just 365 days. Gavin Andresen layout the next logical step for tornado cash, wallet integration. Coffee futures tokenized. Plasma group + VC $$ = Optimism. Starkware provides data showing that cutting gas [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DoE # 36 &#8211; Dunking on Competition</title>
+		<link>/doe-36-dunking-on-competition/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Fri, 17 Jan 2020 05:00:08 +0000</pubDate>
+				<category><![CDATA[Dose of Ether]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Energy]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[weekinethereum]]></category>
+		<guid isPermaLink="false">/?p=6154</guid>
+
+					<description><![CDATA[&#160; Lucian and Evan talk about the tokenization of NBA guard Spencer Dinwiddie&#8217;s contract that would have been a lot cooler if it wasn&#8217;t stripped of potential upside like performance bonuses and extra payouts due to a 3rd season trade. StarkWare boasts of hitting 9000 tps. Viper has a new compiler implementation. And Slock.it has [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DoE # 35 &#8211; 2019&#8217;s Greatest Hits in Ethereum</title>
+		<link>/doe-35/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2020 05:00:32 +0000</pubDate>
+				<category><![CDATA[Dose of Ether]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[decentralized organizations]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[privacy]]></category>
+		<guid isPermaLink="false">/?p=6114</guid>
+
+					<description><![CDATA[Lucian and Evan cover highlights from Ethereum related news and inadvertently created a list of the top projects of 2019. We cover GitCoin Matching Grants program, Tornado Cash, and MolochDAO. Then we talk about the recent FileCoin testnet launch and we dwell on the system requirements, which are unreasonably high, and how that will impact [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DoE # 34 &#8211; Parity&#8217;s Pivot</title>
+		<link>/doe-34/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2019 08:00:12 +0000</pubDate>
+				<category><![CDATA[Dose of Ether]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Parity]]></category>
+		<category><![CDATA[Stable Coins]]></category>
+		<category><![CDATA[weekinethereum]]></category>
+		<guid isPermaLink="false">/?p=6063</guid>
+
+					<description><![CDATA[Lucian and Evan discuss Parity&#8217;s pivot away from maintaining their Ethereum client. While saddened to see a great team of developers change focus to work on Polkadot, we also are optimistic that the wider blockchain community won&#8217;t respond to Parity founder&#8217;s &#8216;call to arms&#8217; to initiate &#8216;blockchain wars.&#8217; After the 40 min mark we also [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

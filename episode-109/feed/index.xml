@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Episode #109: The Human Influence	</title>
+	<atom:link href="/episode-109/feed/" rel="self" type="application/rss+xml" />
+	<link>/episode-109/</link>
+	<description></description>
+	<lastBuildDate>Thu, 12 Jan 2017 05:11:34 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Eugene Omenihu		</title>
+		<link>/episode-109/#comment-338</link>
+
+		<dc:creator><![CDATA[Eugene Omenihu]]></dc:creator>
+		<pubDate>Thu, 12 Jan 2017 05:11:34 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1587#comment-338</guid>
+
+					<description><![CDATA[This is good stuff. Shoutout to the homies for giving my brother a voice.]]></description>
+			<content:encoded><![CDATA[<p>This is good stuff. Shoutout to the homies for giving my brother a voice.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>private blockchain &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/private-blockchain/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 24 Feb 2020 01:13:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>private blockchain &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #297-Tushar Aggarwal  CEO of Persistence</title>
+		<link>/the-bitcoin-podcast-297/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 24 Feb 2020 12:00:28 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[auditors]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[commodity trades]]></category>
+		<category><![CDATA[Consensus]]></category>
+		<category><![CDATA[Cosmos Network]]></category>
+		<category><![CDATA[Cryptokitties]]></category>
+		<category><![CDATA[defi]]></category>
+		<category><![CDATA[enterprise]]></category>
+		<category><![CDATA[family owned business]]></category>
+		<category><![CDATA[Gamer]]></category>
+		<category><![CDATA[Games]]></category>
+		<category><![CDATA[Hyper ledger]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[layer interoperability]]></category>
+		<category><![CDATA[Middle-East]]></category>
+		<category><![CDATA[NBA]]></category>
+		<category><![CDATA[New York]]></category>
+		<category><![CDATA[NFL]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[Polkadot]]></category>
+		<category><![CDATA[private blockchain]]></category>
+		<category><![CDATA[secure networks]]></category>
+		<category><![CDATA[Singapore]]></category>
+		<category><![CDATA[south Asia]]></category>
+		<guid isPermaLink="false">/?p=6294</guid>
+
+					<description><![CDATA[﻿ Dee and Corey talk about Corey&#8217;s time at the NFT.NYC at what he learned from the different talks and events at the conference. Corey and Dee then have a long discussion on what the future of the NFT markets is going to look like in the cryptospace. Links: Persistence Website Persistence Twitter Medium Telegram [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

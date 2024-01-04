@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Hashing It Out #34: Storj &#8211; Shawn Wilkinson &#038; JT Olio	</title>
+	<atom:link href="/hashing-it-out-34/feed/" rel="self" type="application/rss+xml" />
+	<link>/hashing-it-out-34/</link>
+	<description></description>
+	<lastBuildDate>Wed, 16 Jan 2019 16:27:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Matt Tarca		</title>
+		<link>/hashing-it-out-34/#comment-498</link>
+
+		<dc:creator><![CDATA[Matt Tarca]]></dc:creator>
+		<pubDate>Fri, 21 Dec 2018 04:32:47 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5126#comment-498</guid>
+
+					<description><![CDATA[I am pro Storj. Constructive feedback as a fan: stop saying you are just S3 compatible. One rule of startups is that if you are not 10x better than your competitor on some dimension then it is not worth doing. I think Storj is attempting be equivalent to S3 but to win on cost. If so, double down on that and stop being shy about it. Good luck. -a storj supporter]]></description>
+			<content:encoded><![CDATA[<p>I am pro Storj. Constructive feedback as a fan: stop saying you are just S3 compatible. One rule of startups is that if you are not 10x better than your competitor on some dimension then it is not worth doing. I think Storj is attempting be equivalent to S3 but to win on cost. If so, double down on that and stop being shy about it. Good luck. -a storj supporter</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: BlockChannel Episode 31: Settling the Score, with CoinScore	</title>
+	<atom:link href="/bc31/feed/" rel="self" type="application/rss+xml" />
+	<link>/bc31/</link>
+	<description></description>
+	<lastBuildDate>Fri, 20 Oct 2017 16:08:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: j		</title>
+		<link>/bc31/#comment-391</link>
+
+		<dc:creator><![CDATA[j]]></dc:creator>
+		<pubDate>Fri, 20 Oct 2017 16:08:56 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2904#comment-391</guid>
+
+					<description><![CDATA[Fast talker, You guys couldn&#039;t keep up with the questions.]]></description>
+			<content:encoded><![CDATA[<p>Fast talker, You guys couldn&#8217;t keep up with the questions.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: robert gutierrez		</title>
+		<link>/bc31/#comment-390</link>
+
+		<dc:creator><![CDATA[robert gutierrez]]></dc:creator>
+		<pubDate>Sat, 14 Oct 2017 03:18:37 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2904#comment-390</guid>
+
+					<description><![CDATA[Lol what&#039;s up with all the damn noise in the background!]]></description>
+			<content:encoded><![CDATA[<p>Lol what&#8217;s up with all the damn noise in the background!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

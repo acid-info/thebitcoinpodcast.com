@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kik &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/kik/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 05 Oct 2017 00:25:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Kik &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Ether Review #73 — Kik, Establishing a Micro-economy</title>
+		<link>/ter73%e2%80%8a/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Thu, 05 Oct 2017 00:25:20 +0000</pubDate>
+				<category><![CDATA[Sponsored Posts]]></category>
+		<category><![CDATA[Arthur Falls]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Kik]]></category>
+		<guid isPermaLink="false">/?p=2868</guid>
+
+					<description><![CDATA[Today we hear from Ted Livingston, who founded Kik interactive in 2009 to address the problem of chat between blackberry, android and iPhone. Since then their chat app, Kik, has exploded in popularity, experiencing use by up to 40% of US teenagers. In 2015 Tencent, the builder of Chinese chat giant Wechat, purchased a 5% [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

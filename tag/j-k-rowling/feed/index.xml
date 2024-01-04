@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>J.K. Rowling &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/j-k-rowling/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 22 May 2020 07:30:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>J.K. Rowling &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What The Header #4- Hello, J.K. Rowling</title>
+		<link>/what-the-header-4/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Fri, 22 May 2020 01:00:25 +0000</pubDate>
+				<category><![CDATA[JustHeaders]]></category>
+		<category><![CDATA[address]]></category>
+		<category><![CDATA[bash]]></category>
+		<category><![CDATA[batching]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[bitcoin education]]></category>
+		<category><![CDATA[bitcoin mining]]></category>
+		<category><![CDATA[bitcoin news]]></category>
+		<category><![CDATA[bitcoin wallets]]></category>
+		<category><![CDATA[blocks]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[computers]]></category>
+		<category><![CDATA[crypto education]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[CryptoTwitter]]></category>
+		<category><![CDATA[Currency]]></category>
+		<category><![CDATA[decimal points]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[floating point]]></category>
+		<category><![CDATA[headers]]></category>
+		<category><![CDATA[J.K. Rowling]]></category>
+		<category><![CDATA[learn bitcoin]]></category>
+		<category><![CDATA[learn me a bitcoin]]></category>
+		<category><![CDATA[mining]]></category>
+		<category><![CDATA[Money]]></category>
+		<category><![CDATA[slack]]></category>
+		<category><![CDATA[tech news]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[transactions]]></category>
+		<category><![CDATA[twitch]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[UTXO]]></category>
+		<category><![CDATA[Value]]></category>
+		<category><![CDATA[wallet]]></category>
+		<guid isPermaLink="false">/?p=6581</guid>
+
+					<description><![CDATA[If you are into CryptoTwitter, it was an extra messy this week. If you are not into CryptoTwitter, this is what happen J.K. Rowling asked Twitter- I don’t understand bitcoin. Please explain it to me. Well, that did not go very well. Please share this series with anyone who may ask this question of you. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

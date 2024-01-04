@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>models &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/models/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 06 Aug 2020 01:50:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>models &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #90- Core Scientific Ian Ferreira</title>
+		<link>/hashing-it-out-90/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Thu, 06 Aug 2020 12:00:38 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[ASCI]]></category>
+		<category><![CDATA[chipset]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[data mining]]></category>
+		<category><![CDATA[Energy]]></category>
+		<category><![CDATA[GPU]]></category>
+		<category><![CDATA[IOT]]></category>
+		<category><![CDATA[mining]]></category>
+		<category><![CDATA[models]]></category>
+		<guid isPermaLink="false">/?p=6703</guid>
+
+					<description><![CDATA[On this episode Dean and Corey have Guest Ian Ferreira of Core Scientific cover the usage of AI in the blockchain spaces and building efficient mining architecture. Links: Core Scientific Website Website-AI The Bitcoin Podcast Network Slack Donate to Hashing It Out Discuss]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

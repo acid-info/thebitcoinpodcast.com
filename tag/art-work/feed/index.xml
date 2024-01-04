@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>art work &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/art-work/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 15 Sep 2020 11:49:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>art work &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #320- Devin Finzer OpenSea</title>
+		<link>/the-bitcoin-podcast-320/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2020 15:00:07 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[art work]]></category>
+		<category><![CDATA[baseball cards]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Cryptokitties]]></category>
+		<category><![CDATA[Decentralize]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Games]]></category>
+		<category><![CDATA[marketplace]]></category>
+		<category><![CDATA[minecraft]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[niffty]]></category>
+		<category><![CDATA[rarepeppe]]></category>
+		<category><![CDATA[virtual world]]></category>
+		<category><![CDATA[wearable]]></category>
+		<guid isPermaLink="false">/?p=6743</guid>
+
+					<description><![CDATA[Dee and Jesse Broke talk about what is going on in the Defi and what yEARN is doing for the people. Then Jesse and Dee breakdown how ETH2.0 may not be as safe as people would like to think it will be for them. Our Guest is Devin Finzer of OpenSea. Links:OpenSea Website Twitter Instagram [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

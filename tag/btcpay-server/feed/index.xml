@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>btcpay server &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/btcpay-server/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 10 Oct 2019 15:00:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>btcpay server &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #277 &#8211; Nicolas Dorier &#8211; BTCPay Server</title>
+		<link>/the-bitcoin-podcast-277/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Thu, 10 Oct 2019 14:59:49 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[bitpay]]></category>
+		<category><![CDATA[btcpay]]></category>
+		<category><![CDATA[btcpay server]]></category>
+		<category><![CDATA[nicolas dorier]]></category>
+		<category><![CDATA[payment network]]></category>
+		<category><![CDATA[Tim Cook]]></category>
+		<guid isPermaLink="false">/?p=5881</guid>
+
+					<description><![CDATA[﻿ In this episode Dee and Dr. Petty discuss the merits of using cryptocurrency as a payment system. This naturally leads to a discussion about scaling the Bitcoin Blockchain. Can crypto scale? That is the question. Also, Tim Cook doesn&#8217;t like blockchains too much, let alone cryptocurrency. Well, Dee has some news for Mr. Cook [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

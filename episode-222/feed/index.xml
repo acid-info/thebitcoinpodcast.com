@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Bitcoin Podcast #222: Imran Khan	</title>
+	<atom:link href="/episode-222/feed/" rel="self" type="application/rss+xml" />
+	<link>/episode-222/</link>
+	<description></description>
+	<lastBuildDate>Thu, 20 Sep 2018 19:54:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Alexander		</title>
+		<link>/episode-222/#comment-478</link>
+
+		<dc:creator><![CDATA[Alexander]]></dc:creator>
+		<pubDate>Thu, 20 Sep 2018 19:54:22 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4538#comment-478</guid>
+
+					<description><![CDATA[Very good program, fantastic]]></description>
+			<content:encoded><![CDATA[<p>Very good program, fantastic</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jacky		</title>
+		<link>/episode-222/#comment-476</link>
+
+		<dc:creator><![CDATA[Jacky]]></dc:creator>
+		<pubDate>Mon, 10 Sep 2018 09:02:57 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4538#comment-476</guid>
+
+					<description><![CDATA[Very good podcast, thanks!]]></description>
+			<content:encoded><![CDATA[<p>Very good podcast, thanks!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

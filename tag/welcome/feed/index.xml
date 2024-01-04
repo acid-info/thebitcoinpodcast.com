@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Welcome &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/welcome/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 30 Oct 2019 14:22:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Welcome &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #280: Norm &#8212; Lightning in a Box</title>
+		<link>/the-bitcoin-podcast-280/</link>
+		
+		<dc:creator><![CDATA[Fergulati]]></dc:creator>
+		<pubDate>Wed, 30 Oct 2019 14:22:58 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Avalanche]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[TBPN]]></category>
+		<category><![CDATA[Welcome]]></category>
+		<guid isPermaLink="false">/?p=5915</guid>
+
+					<description><![CDATA[A free-for-all that enter roundtable session between the patrons of The Bitcoin Podcast Network and Lord of the GPPs, Dee. It became a little controversial this episode as the roundtable attendees were stirring the conversation toward other issues in crypto, but for some reason Dee was centered on the conversation staying in the lane of [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

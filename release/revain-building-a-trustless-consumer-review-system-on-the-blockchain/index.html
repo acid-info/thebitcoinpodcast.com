@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta name="google-site-verification" content="zrNirCs-WdpTz9pD3Y0AHezTER1l8l2HhFCn6pzr9wY">
+	<meta name="google-site-verification" content="l5lMOw8vIvEWxZjdDp0rEnzYPu93rkNepVq0-fH3GHI">
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Revain: Building a Trustless, Consumer Review System on the Blockchain | The Bitcoin Podcast Network</title>	
+	
+	<!-- Global JS Vars -->
+	<script type="text/javascript">var template_directory = '/wp-content/themes/replay/';
+		var ajaxurl = '/wp-admin/admin-ajax.php';</script>
+	
+	<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="//www.youtube.com">
+<link rel="alternate" type="application/rss+xml" title="The Bitcoin Podcast Network &raquo; Feed" href="/feed/">
+<link rel="alternate" type="application/rss+xml" title="The Bitcoin Podcast Network &raquo; Comments Feed" href="/comments/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"🏳️‍⚧️","🏳️​⚧️")?!1:!n(e,"🇺🇳","🇺​🇳")&&!n(e,"🏴󠁧󠁢󠁥󠁮󠁧󠁿","🏴​󠁧​󠁢​󠁥​󠁮​󠁧​󠁿");case"emoji":return!n(e,"🫱🏻‍🫲🏿","🫱🏻​🫲🏿")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}</style>
+<link rel="stylesheet" id="wpda_youtube_gutenberg_css-css" href="/wp-content/plugins/youtube-video-player/admin/gutenberg/style.css?ver=6.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="nfd-wonder-blocks-utilities-css" href="/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-patterns/assets/styles/utilities.css?ver=0.1.4" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8" type="text/css" media="all">
+<link rel="stylesheet" id="display-medium-posts-css" href="/wp-content/plugins/display-medium-posts/public/css/display-medium-posts-public.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="ace-owl-carousel-css" href="/wp-content/plugins/display-medium-posts/public/vendors/owl-carousel/owl.carousel.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="ace-owl-theme-css" href="/wp-content/plugins/display-medium-posts/public/vendors/owl-carousel/owl.theme.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="unlock-protocol-css" href="/wp-content/plugins/unlock-protocol/assets/build/css/main.css?ver=6.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="newsletter-css" href="/wp-content/plugins/newsletter/style.css?ver=7.9.3" type="text/css" media="all">
+<link rel="stylesheet" id="general-css" href="/wp-content/themes/replay/style.css?ver=6.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="/wp-includes/css/dashicons.min.css?ver=6.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="thickbox-css" href="/wp-includes/js/thickbox/thickbox.css?ver=6.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="front_end_youtube_style-css" href="/wp-content/plugins/youtube-video-player/front_end/styles/baze_styles_youtube.css?ver=6.4.2" type="text/css" media="all">
+<script type="text/javascript" src="/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="/wp-content/plugins/display-medium-posts/public/vendors/owl-carousel/owl.carousel.js?ver=1.0.0" id="ace-owl-carousel-js-js"></script>
+<script type="text/javascript" src="/wp-content/themes/replay/js/jquery.hoverIntent.min.js?ver=6.4.2" id="hover-intent-js"></script>
+<script type="text/javascript" src="/wp-content/themes/replay/js/jquery.easySlider.js?ver=6.4.2" id="easy-slider-js"></script>
+<script type="text/javascript" src="/wp-content/themes/replay/js/jquery.fadeSlider.js?ver=6.4.2" id="fade-slider-js"></script>
+<script type="text/javascript" src="/wp-content/themes/replay/js/audiojs/audio.min.js?ver=6.4.2" id="audiojs-js"></script>
+<script type="text/javascript" src="/wp-content/themes/replay/js/jquery.twitterFetcher.js?ver=6.4.2" id="twitter-fetcher-js"></script>
+<script type="text/javascript" id="general-js-extra">
+/* <![CDATA[ */
+var options = {"templateDirectory":"\/wp-content\/themes\/replay\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/themes/replay/js/general.js?ver=6.4.2" id="general-js"></script>
+<script type="text/javascript" src="/wp-content/plugins/youtube-video-player/front_end/scripts/youtube_embed_front_end.js?ver=6.4.2" id="youtube_front_end_api_js-js"></script>
+<script type="text/javascript" src="https://www.youtube.com/iframe_api?ver=6.4.2" id="youtube_api_js-js"></script>
+<link rel="https://api.w.org/" href="/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.4.2">
+<link rel="canonical" href="/release/revain-building-a-trustless-consumer-review-system-on-the-blockchain/">
+<link rel="shortlink" href="/?p=2988">
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Frelease%2Frevain-building-a-trustless-consumer-review-system-on-the-blockchain%2F">
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Frelease%2Frevain-building-a-trustless-consumer-review-system-on-the-blockchain%2F#038;format=xml">
+<link rel="shortcut icon" href="/wp-content/uploads/2015/06/favicon.jpg">
+<style type="text/css">body{}h1, h2, h3, h4, h5, h6, th, .supheader .logo, .subheader .menu a, .page-title .container > span, .content-block .block-title, .ribbon-caption-title, .featured-event .event-date, .events-list .event-date, .events-list .event-option > span, .gallery-thumbnail .caption, .video-thumbnail .caption, input[type="submit"], input[type="button"], .button{font-family:Oswald, Arial, Helvetica, sans-serif;}body, input, select, textarea{font-family:Open Sans, Arial, Helvetica, sans-serif;}.ribbon-slider-container,.main-fade-slider{background-image:url(http://orig08.deviantart.net/a6c1/f/2014/008/d/b/bbt_bitcoin__litecoin__feathercoin_background_by_bitsbetrippin-d71gduq.jpg);}a, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, .release-thumbnail  .tip-content a:hover, .featured-event .event-date-number, .releases-filter li.current a{color:#ef9534;}.ribbon-caption-title .ribbon-caption-background, .jp-progress .jp-play-bar, .button, input[type="submit"], input[type="button"]{background-color:#ef9534;}::-moz-selection{background-color:#ef9534;}::selection{background-color:#ef9534;}</style>
+<script type="text/javascript">WebFontConfig = {google: { families: [ "Oswald","Open Sans:400,400italic,600" ] } };
+			(function() {
+				var wf = document.createElement("script");
+				wf.src = ("https:" == document.location.protocol ? "https" : "http") + "://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js";
+				wf.type = "text/javascript";
+				wf.async = "true";
+				var s = document.getElementsByTagName("script")[0];
+				s.parentNode.insertBefore(wf, s);
+			})();</script><link rel="icon" href="/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg" sizes="32x32">
+<link rel="icon" href="/wp-content/uploads/2017/07/cropped-e-QUqNxo-192x192.jpg" sizes="192x192">
+<link rel="apple-touch-icon" href="/wp-content/uploads/2017/07/cropped-e-QUqNxo-180x180.jpg">
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2017/07/cropped-e-QUqNxo-270x270.jpg">
+		<style type="text/css" id="wp-custom-css">/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+/* Dillon's Shop CSS Elements */
+#shop-container {  
+	margin: 0;  
+	auto 20px;
+  	width: 100%;
+}
+#product-container {  
+	text-align: center;  
+	width: 50%;  
+	margin: 0 auto;  
+	float: left; 
+}
+
+@media only screen and (max-device-width: 736px) {
+	#product-container {
+		width: 100%;    
+		float: none;  
+	}
+}
+
+img.tbp-product { 
+	width: 300px;  
+	height: 250px;
+}
+
+@media only screen and (max-device-width: 736px) {  
+	img.tbp-product {
+		width: 100%;    
+		height: auto;  
+	}
+}
+
+a.btn.btn-primary.btn-	large.coinbase-button2 {
+	width: 100% !important;
+}
+
+#product-title {  
+	font-size: 18px;  
+	font-weight: bold;
+	text-align: center;
+}
+#coinbase_button_iframe_00cd28001c98cd8164301b6ed563476d {
+	text-align: center;
+	margin: 0 auto;
+}
+
+#coinbase_button_iframe_2b6c4055894f2bf67a0489976e6f4987 {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.coinbase-button {
+	width: 100% !important;
+}
+
+.product-description {
+	padding: 0 10px 20px 10px;
+}</style>
+		</head>
+<body class="release-template-default single single-release postid-2988">
+	<div class="wrapper site-wrapper">
+		<div class="wrapper header">
+			<div class="supheader wrapper">
+				<div class="container">
+					<div class="logo">
+						<a href="/" rel="home">
+							<img src="/wp-content/uploads/2017/06/june2017logo.png" alt="The Bitcoin Podcast Network">
+						</a>
+					</div>
+<!--/ logo-->
+										<div class="social-links">
+						<a class="rss" href="https://feeds.simplecast.com/xCQr3ykc" target="_blank" title="RSS"></a>	
+													
+																		<a target="_blank" href="https://www.youtube.com/channel/UCZY97wqlKHsx2qFibsMLLtg" class="youtube" title="YouTube"></a>					
+						<a target="_blank" href="https://www.facebook.com/thebtcpodcast" class="facebook" title="Facebook"></a>						<a target="_blank" href="https://www.linkedin.com/company/the-bitcoin-podcast" class="linkedin" title="LinkedIn"></a>																				
+							
+						<a target="_blank" href="https://twitter.com/thebtcpodcast" class="twitter" title="Twitter"></a>					
+					</div>
+<!--/ social links-->				
+					<div class="clear"></div>
+				</div>			
+			</div>
+<!--/ supheader-->
+			<div class="subheader wrapper">
+				<div class="container">
+					<div class="menu"><ul id="menu-guest" class="menu">
+<li id="menu-item-95" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-95"><a href="/">Home</a></li>
+<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="/about/">About</a></li>
+<li id="menu-item-117" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-117">
+<a href="/category/podcast/">Podcasts</a>
+<ul class="sub-menu">
+	<li id="menu-item-1697" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1697"><a href="/category/podcast/">The Bitcoin Podcast</a></li>
+	<li id="menu-item-3876" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3876"><a href="/category/hashitout/">Hashing It Out</a></li>
+</ul>
+</li>
+<li id="menu-item-7108" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7108">
+<a href="/category/podcast/archived-podcasts/">Archive</a>
+<ul class="sub-menu">
+	<li id="menu-item-7104" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7104"><a href="/category/announcements/">Announcements</a></li>
+	<li id="menu-item-7109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7109"><a href="/category/blocked-by-design/">Blocked by Design</a></li>
+	<li id="menu-item-7110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7110"><a href="/category/the-bull-pen-podcast/">The Bull Pen Podcast</a></li>
+	<li id="menu-item-7105" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7105"><a href="/category/dose-of-ether/">Dose of Ether</a></li>
+	<li id="menu-item-7106" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7106"><a href="/category/onramp/">OnRamp</a></li>
+	<li id="menu-item-7107" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7107"><a href="/category/nftqt/">NFTQT</a></li>
+</ul>
+</li>
+<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="/contact/">Contact</a></li>
+</ul></div>					<div class="select-menu">
+						<select><option value="http://thebitcoinpodcast.com">Home</option>
+<option value="https://thebitcoinpodcast.com/about/">About</option>
+<option value="https://thebitcoinpodcast.com/category/podcast/">Podcasts</option>
+<option value="https://thebitcoinpodcast.com/category/podcast/">&nbsp;&nbsp;&nbsp;The Bitcoin Podcast</option>
+<option value="https://thebitcoinpodcast.com/category/hashitout/">&nbsp;&nbsp;&nbsp;Hashing It Out</option>
+<option value="https://thebitcoinpodcast.com/category/podcast/archived-podcasts/">Archive</option>
+<option value="https://thebitcoinpodcast.com/category/announcements/">&nbsp;&nbsp;&nbsp;Announcements</option>
+<option value="https://thebitcoinpodcast.com/category/blocked-by-design/">&nbsp;&nbsp;&nbsp;Blocked by Design</option>
+<option value="https://thebitcoinpodcast.com/category/the-bull-pen-podcast/">&nbsp;&nbsp;&nbsp;The Bull Pen Podcast</option>
+<option value="https://thebitcoinpodcast.com/category/dose-of-ether/">&nbsp;&nbsp;&nbsp;Dose of Ether</option>
+<option value="https://thebitcoinpodcast.com/category/onramp/">&nbsp;&nbsp;&nbsp;OnRamp</option>
+<option value="https://thebitcoinpodcast.com/category/nftqt/">&nbsp;&nbsp;&nbsp;NFTQT</option>
+<option value="https://thebitcoinpodcast.com/contact/">Contact</option></select>						<span>&nbsp;</span>
+					</div>
+<!--/ select menu-->		
+					<div class="search-form">
+						<form action="https://thebitcoinpodcast.com/" method="get">
+    <fieldset>
+        <input type="text" name="s" id="search" value="Search">
+    </fieldset>
+</form>					</div>
+<!--/ search form-->
+					<div class="clear"></div>
+				</div>			
+			</div>
+<!--/ subheader-->
+		</div>
+<!--/ header-->
+				<div class="page-title wrapper">
+			<div class="container">
+				<h1>Releases</h1>
+								<div class="button-container tip-container">
+					<a href="#" class="button dark share-button">
+						<span>Share</span>
+						<span class="share-icon"></span>					
+					</a>
+					<div class="tip-cloud">
+						<div class="tip-corner"></div>
+						<div class="tip-content">
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="thebtcpodcast" data-count="none">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div>						
+					</div>
+				</div>
+								<div class="clear"></div>
+			</div>
+		</div>
+<!--/ page title-->
+				<div class="content wrapper">
+			<div class="container">
+<div class="one-fourth column">
+	<div class="release-thumbnail">
+		<div class="release-cover"><img width="450" height="450" src="/wp-content/uploads/2017/10/20431246_657359571127653_6461625047569118089_n-450x450.jpg" class="fullwidth wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="/wp-content/uploads/2017/10/20431246_657359571127653_6461625047569118089_n-450x450.jpg 450w, /wp-content/uploads/2017/10/20431246_657359571127653_6461625047569118089_n-150x150.jpg 150w, /wp-content/uploads/2017/10/20431246_657359571127653_6461625047569118089_n-300x300.jpg 300w, /wp-content/uploads/2017/10/20431246_657359571127653_6461625047569118089_n-180x180.jpg 180w, /wp-content/uploads/2017/10/20431246_657359571127653_6461625047569118089_n-600x600.jpg 600w, /wp-content/uploads/2017/10/20431246_657359571127653_6461625047569118089_n-610x610.jpg 610w, /wp-content/uploads/2017/10/20431246_657359571127653_6461625047569118089_n.jpg 704w" sizes="(max-width: 450px) 100vw, 450px"></div>
+		<h4 class="release-title">Revain: Building a Trustless, Consumer Review System on the Blockchain</h4>
+		<h6 class="release-artist"></h6>
+		<div class="release-meta">
+						<div class="release-info"></div>
+			<div class="clear"></div>								
+		</div>
+	</div>	
+</div>
+<div class="five-twelfth column">
+	<div class="content-block">
+		<div class="block-title">
+			<span>Review</span>
+		</div>
+		<div class="block-content post-content">
+			<p>Trustless.</p>
+<p>This is kind of a weird word that is often used to describe one of the main benefits of cryptocurrencies. What it means is that the system is built so that trust is simply not a factor. You don&#146;t have to trust it since there is no way to game it. There is no central bank, not governmental institution, no regulator, or anyone else who can step in a tweak the system for their or anyone else&#146;s benefit. The system simply works, you can know it works, and you can know exactly how it works.</p>
+<p>Trustless is also the wave of the future. So much of what we do is dependent on our needing to trust a third party &#150; and often enough we have no way to know if that person is trustworthy. With the advent of cryptocurrencies and blockchains, it is now becoming possible to simply remove that element. And the extreme frontier for trustless systems would seem something we all rely on, and something we all know can be manipulated, hacked, or just downright unstrustable: online reviews.
+</p>
+<h5>A Short History of Online Reviews</h5>
+<p>In 1999, three companies saw an unfilled niche on the fast-developing internet: online first-hand reviews of businesses, products, and services. These companies, RateItAll.com, Deja.com, and Epinions.com, were the first to bring the voice of the consumer to the internet and make it viewable and searchable to anyone who wanted to know how trustworthy a business was. It was an idea whose time had come, and it was a win-win. Consumers could find out about the best quality, price, and service, and businesses could get valuable, real-time feedback from their customer base to make the right choices in which direction to take their companies.</p>
+<h5>The Dark Underbelly of Online Reviews</h5>
+<p>It wasn&#146;t long before it was realized how powerfully customer reviews can impact a business. Some surveys suggest that a half a star on a standard five start rating can increase a business&#146; revenues by as much as 9%. Negative review can have an even bigger impact in the other direction! With so much at stake, it&#146;s not surprising that the online reviews became a target for abuse.</p>
+<blockquote>
+<p><em>Vote Manipulation</em>: This is simply when a business owner or their friends post positive, fake reviews. Most reputable review sites will have some systems in place to spot and weed out these types of abuses.</p>
+<p><em>Vote Buying:</em> This is when businesses, or competitors, hire people to post fake reviews. Often the reviewers are from other countries and will have assembly line-like systems in place to process large numbers of reviews from many different email addresses and use names. Individual reviews can cost as little as 25 cents each. And although there are ways to spot some of these, reputable sites are engaged in a constant battle as new ways of checking veracity of reviews are circumvented by cunning fake reviewers.</p>
+<p><em>Voting in Anger:</em> This category is not really a problem of fake reviews, but has to do with the incentive for people to review. People are always more motivated to post about negative experiences than they are positive, and when they post about negative experiences they are much more likely to be hyperbolic &#150; to run on and criticize as much as they can to vent their anger. This phenomenon is strong enough that some expert reviewers recommend that people largely ignore both 5 and 1 star reviews as being unhelpful. 2- 4 star reviews are often written by people who are being more thoughtful and accurate in what they write &#150; but even this is not totally helpful as businesses will buy 4 star reviews knowing that many consumers instinctively know this.</p>
+<p><em>Voting on the Wrong Thing:</em> This is like voting in anger, but has to do with people reviewing about their experience and not on the actual product or service. For example, one customer who didn&#146;t like a beach near a hotel left the hotel a one-start review (it was too sandy). Why should the hotel&#146;s reputation take a hit for this? Not clear. And, aren&#146;t beaches supposed to be sandy? Many businesses that have multiple services or are connected to area attractions may suffer from this type of review.</p>
+</blockquote>
+<p>In one way or another, it&#146;s estimated that between 30 and 60 percent of all online reviews are fake or misleading (some estimate that 30 percent of Amazon&#146;s reviews are phony). Despite this, fully 88 percent of online consumers have their opinions swayed why making purchases online.</p>
+<h5>Specific Cases:</h5>
+<blockquote>
+<p><em>Yelp</em>: An early powerhouse of the online review space, Yelp has often been embroiled in controversies about the veracity of their reviews. There are many claims that positive or negative reviews are made invisible or promoted. The deciding factor, according to some accounts, might be whether the business <a href="https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/jimhandy/2012/08/16/think-yelp-is-unbiased-think-again/&amp;refURL=&amp;referrer=#5eb3d2ab11d1">advertises with Yelp</a>. That might be a good business model for Yelp, but cannot be seen as an unbiased review system for the benefit of the consumer.</p>
+<p><em>TripAdvisor</em>: In 2014 TripAdvisor was fined <a href="https://www.cnbc.com/2014/12/23/tripadvisor-fined-600000-for-fake-reviews.html">600,000</a> for allowing fake reviews on its site. Restaurant owners, hotels, and even car rental places have all lodged complaints about fake reviews targeting them. And then, there is nothing to stop massive vote buying as well.</p>
+<p><em>Uber and AirBnB</em>: These two services have something in common. It&#146;s tough to find a bad review on either. For Uber, the reason is clear: they simply don&#146;t allow drivers who get a rating of less than <a href="https://www.uber.com/drive/atlanta/resources/ratings/">4.6 stars</a>. This problem has become big enough that Uber finally in July of this year started requiring riders to explain why they were giving a driver a poor rating. AirBnB has a similar system that has <a href="https://www.airbnbhell.com/airbnb-rating-system-deceives-guests-hosts/">played hell</a> with people trying to use their system.</p>
+<p><em>Angie&#146;s List</em>: This long-time favorite says that it makes a big point about being consumer driven, but like Yelp, it&#146;s revenue stream is not the consumers, but the <a href="https://www.forbes.com/sites/maggiemcgrath/2013/09/18/why-consumer-reports-says-you-cant-trust-angies-list/#7fb411301bfa">advertisers</a>. And one of the things that Angie&#146;s List knows that when people are shopping for something they will frequently not go beyond the first page or two of results. Therefore, just getting on that first page or two can make a big difference in what people see and choose.</p>
+</blockquote>
+<h5>Enter Revain &#150; Building a Trustless Review System</h5>
+<p><a href="http://revain.org/">Revain</a> is a new blockchain-based review system that is seeking to solve some of the problems with firsthand reviews. Their system combines an internal token built on Ethereum that will be used to incentivize quality to reviews and penalize bad actors (on both the consumer and provider sides), an IBM AI system utilizing a neural network to vet all reviews for quality and veracity, and an immutable blockchain to record all reviews so that they can never be promoted, demoted, manipulated, removed or edited. Once a review has been authenticated, it will become part of the permanent record.</p>
+<p>As far as I can tell, Revain is the first foray into creating a trustless review system. If successful, they will allow online reviews to become what they have always been promised to be, but have never achieved: a truly market-based communication system between businesses and consumers, allowing businesses to learn exactly how they need to improve to meet the needs of their customers, and customers can find out the best business to meet their wants and needs.</p>
+<p>Even more than that, Revain is creating a system that will be perfect for use by an Internet of Things. As we are getting to the stage where refrigerators will auto order your milk when it starts to get low, machines will start reviewing each other. This will allow for the creating of an automatic economy of near perfect information. It will allow for an absolute minimization of waste as products and services will only be created to the degree thy are needed and go to where they are needed. And, only the most efficient routs for transmitting those products and services will be used.</p>
+<p>Currently Revan is just gearing up their systems &#150; but by the looks of things, they are creating a system that will start to remove the need to trust those online reviews and allow us to just know that they are honest.</p>
+		</div>
+	</div>
+</div>
+<div class="one-third column last">
+	<div class="content-block">
+		<div class="block-title">
+			<span>Tracklist</span>
+		</div>
+		<div class="block-content">
+			<div class="track-list">
+								<table>
+										<tr>
+						<td class="track-number">1</td>
+						<td></td>
+						<td class="track-duration">
+<span></span>
+												</td>
+					</tr>
+									
+				</table>
+			</div>						
+		</div>
+	</div>
+</div>
+<div class="clear"></div>
+<div class="content-block carousel-slider-container">
+	<div class="block-title">
+		<span>Latest Releases</span>
+				<div class="arrow carousel-slider-arrow arrow-right"></div>
+		<div class="arrow carousel-slider-arrow arrow-left"></div>
+			</div>
+	<div class="block-content">
+		<div class="carousel-slider">
+			<ul>
+				<li>				<div class="one-fourth-inner column ">
+					<div class="release-thumbnail">
+	<div class="release-cover">
+		<a href="/release/blockchain-money-transfer-companies-on-the-rise-meet-veem/"><img width="380" height="380" src="/wp-content/uploads/2019/02/dropship.jpg" class="fullwidth wp-post-image" alt="" decoding="async" srcset="/wp-content/uploads/2019/02/dropship.jpg 380w, /wp-content/uploads/2019/02/dropship-150x150.jpg 150w, /wp-content/uploads/2019/02/dropship-300x300.jpg 300w" sizes="(max-width: 380px) 100vw, 380px"></a>
+	</div>
+	<h4 class="release-title"><a href="/release/blockchain-money-transfer-companies-on-the-rise-meet-veem/">Blockchain Money Transfer Companies on the Rise: Meet Veem</a></h4>
+	<h6 class="release-artist"></h6>
+	<div class="release-meta">
+				<div class="release-info"></div>
+		<div class="clear"></div>						
+	</div>
+</div>				</div>
+								<div class="one-fourth-inner column ">
+					<div class="release-thumbnail">
+	<div class="release-cover">
+		<a href="/release/crypto-millions-lotto-win-big-with-the-worlds-biggest-cryptocurrency-lottery/"><img width="380" height="380" src="/wp-content/uploads/2019/02/dropship.jpg" class="fullwidth wp-post-image" alt="" decoding="async" srcset="/wp-content/uploads/2019/02/dropship.jpg 380w, /wp-content/uploads/2019/02/dropship-150x150.jpg 150w, /wp-content/uploads/2019/02/dropship-300x300.jpg 300w" sizes="(max-width: 380px) 100vw, 380px"></a>
+	</div>
+	<h4 class="release-title"><a href="/release/crypto-millions-lotto-win-big-with-the-worlds-biggest-cryptocurrency-lottery/">Crypto Millions Lotto | Win Big with the World's Biggest Cryptocurrency Lottery</a></h4>
+	<h6 class="release-artist"></h6>
+	<div class="release-meta">
+				<div class="release-info"></div>
+		<div class="clear"></div>						
+	</div>
+</div>				</div>
+								<div class="one-fourth-inner column ">
+					<div class="release-thumbnail">
+	<div class="release-cover">
+		<a href="/release/podminers-targeting-billion-dollars-radio-industry-with-its-blockchain-platform/"><img width="380" height="380" src="/wp-content/uploads/2019/02/dropship.jpg" class="fullwidth wp-post-image" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2019/02/dropship.jpg 380w, /wp-content/uploads/2019/02/dropship-150x150.jpg 150w, /wp-content/uploads/2019/02/dropship-300x300.jpg 300w" sizes="(max-width: 380px) 100vw, 380px"></a>
+	</div>
+	<h4 class="release-title"><a href="/release/podminers-targeting-billion-dollars-radio-industry-with-its-blockchain-platform/">PodMiners - Targeting Billion Dollars Radio Industry With its Blockchain Platform</a></h4>
+	<h6 class="release-artist"></h6>
+	<div class="release-meta">
+				<div class="release-info"></div>
+		<div class="clear"></div>						
+	</div>
+</div>				</div>
+								<div class="one-fourth-inner column last">
+					<div class="release-thumbnail">
+	<div class="release-cover">
+		<a href="/release/redeeming-icos-understanding-the-new-dapp-system-as-explained-by-adns-einstein/"><img width="380" height="380" src="/wp-content/uploads/2019/02/dropship.jpg" class="fullwidth wp-post-image" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2019/02/dropship.jpg 380w, /wp-content/uploads/2019/02/dropship-150x150.jpg 150w, /wp-content/uploads/2019/02/dropship-300x300.jpg 300w" sizes="(max-width: 380px) 100vw, 380px"></a>
+	</div>
+	<h4 class="release-title"><a href="/release/redeeming-icos-understanding-the-new-dapp-system-as-explained-by-adns-einstein/">Redeeming ICOs: Understanding the New DApp System as Explained by ADN’s Einstein</a></h4>
+	<h6 class="release-artist"></h6>
+	<div class="release-meta">
+				<div class="release-info"></div>
+		<div class="clear"></div>						
+	</div>
+</div>				</div>
+				</li>
+<li>				<div class="one-fourth-inner column ">
+					<div class="release-thumbnail">
+	<div class="release-cover">
+		<a href="/release/karatgold-coin-kbc-disrupts-the-market-of-blockchain-centered-devices-with-a-new-phone/"><img width="450" height="450" src="/wp-content/uploads/2019/06/IMpulse-K1-Phone-2-450x450.jpg" class="fullwidth wp-post-image" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2019/06/IMpulse-K1-Phone-2-450x450.jpg 450w, /wp-content/uploads/2019/06/IMpulse-K1-Phone-2-150x150.jpg 150w, /wp-content/uploads/2019/06/IMpulse-K1-Phone-2-300x300.jpg 300w, /wp-content/uploads/2019/06/IMpulse-K1-Phone-2-768x768.jpg 768w, /wp-content/uploads/2019/06/IMpulse-K1-Phone-2-1024x1024.jpg 1024w, /wp-content/uploads/2019/06/IMpulse-K1-Phone-2-610x610.jpg 610w" sizes="(max-width: 450px) 100vw, 450px"></a>
+	</div>
+	<h4 class="release-title"><a href="/release/karatgold-coin-kbc-disrupts-the-market-of-blockchain-centered-devices-with-a-new-phone/">KaratGold Coin (KBC) Disrupts the Market of Blockchain-Centered Devices with a New Phone</a></h4>
+	<h6 class="release-artist"></h6>
+	<div class="release-meta">
+				<div class="release-info"></div>
+		<div class="clear"></div>						
+	</div>
+</div>				</div>
+								<div class="one-fourth-inner column ">
+					<div class="release-thumbnail">
+	<div class="release-cover">
+		<a href="/release/smart-technology-being-destiny-k-merchants-bright-prospects-of-digitalized-future/"><img width="380" height="380" src="/wp-content/uploads/2019/02/dropship.jpg" class="fullwidth wp-post-image" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2019/02/dropship.jpg 380w, /wp-content/uploads/2019/02/dropship-150x150.jpg 150w, /wp-content/uploads/2019/02/dropship-300x300.jpg 300w" sizes="(max-width: 380px) 100vw, 380px"></a>
+	</div>
+	<h4 class="release-title"><a href="/release/smart-technology-being-destiny-k-merchants-bright-prospects-of-digitalized-future/">Smart Technology Being Destiny: K-Merchant’s Bright Prospects of Digitalized Future</a></h4>
+	<h6 class="release-artist"></h6>
+	<div class="release-meta">
+				<div class="release-info"></div>
+		<div class="clear"></div>						
+	</div>
+</div>				</div>
+								<div class="one-fourth-inner column ">
+					<div class="release-thumbnail">
+	<div class="release-cover">
+		<a href="/release/karatgold-coin-kbc-is-linking-your-crypto-holdings-to-gold/"><img width="450" height="450" src="/wp-content/uploads/2019/06/Screen-Shot-2019-06-09-at-8.28.15-AM-450x450.png" class="fullwidth wp-post-image" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2019/06/Screen-Shot-2019-06-09-at-8.28.15-AM-450x450.png 450w, /wp-content/uploads/2019/06/Screen-Shot-2019-06-09-at-8.28.15-AM-150x150.png 150w" sizes="(max-width: 450px) 100vw, 450px"></a>
+	</div>
+	<h4 class="release-title"><a href="/release/karatgold-coin-kbc-is-linking-your-crypto-holdings-to-gold/">KaratGold Coin (KBC) Is Linking Your Crypto Holdings to Gold</a></h4>
+	<h6 class="release-artist"></h6>
+	<div class="release-meta">
+				<div class="release-info"></div>
+		<div class="clear"></div>						
+	</div>
+</div>				</div>
+								<div class="one-fourth-inner column last">
+					<div class="release-thumbnail">
+	<div class="release-cover">
+		<a href="/release/how-to-guarantee-anonymity-on-blockchain/"><img width="380" height="380" src="/wp-content/uploads/2019/02/dropship.jpg" class="fullwidth wp-post-image" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2019/02/dropship.jpg 380w, /wp-content/uploads/2019/02/dropship-150x150.jpg 150w, /wp-content/uploads/2019/02/dropship-300x300.jpg 300w" sizes="(max-width: 380px) 100vw, 380px"></a>
+	</div>
+	<h4 class="release-title"><a href="/release/how-to-guarantee-anonymity-on-blockchain/">How To Guarantee Anonymity on Blockchain</a></h4>
+	<h6 class="release-artist"></h6>
+	<div class="release-meta">
+				<div class="release-info"></div>
+		<div class="clear"></div>						
+	</div>
+</div>				</div>
+				</li>			</ul>
+		</div>
+	</div>
+</div>
+			<div class="clear"></div>
+			<div class="footer-widgets">
+							</div>			
+			<div class="clear"></div>
+		</div>
+	</div>
+<!--/ content-->
+	<div class="footer wrapper">
+		<div class="background">
+			<div class="container">				
+				<div class="menu"><ul>
+<li class="page_item page-item-6"><a href="/about/">About</a></li>
+<li class="page_item page-item-5002"><a href="/account/">Account</a></li>
+<li class="page_item page-item-5001"><a href="/dashboard/">Dashboard</a></li>
+<li class="page_item page-item-5003"><a href="/edit/">Edit</a></li>
+<li class="page_item page-item-4845"><a href="/livestream/">Livestream</a></li>
+<li class="page_item page-item-5004"><a href="/login/">Login</a></li>
+<li class="page_item page-item-251"><a href="/newsletter/">Newsletter</a></li>
+<li class="page_item page-item-416"><a href="/qa/">Q&#038;A</a></li>
+<li class="page_item page-item-200 page_item_has_children">
+<a href="/resource-info/">Resources &#038; Info</a>
+<ul class="children">
+	<li class="page_item page-item-1110"><a href="/resource-info/statistics/">Statistics</a></li>
+</ul>
+</li>
+<li class="page_item page-item-37"><a href="/guest-bios/">Guest Bio&#8217;s</a></li>
+<li class="page_item page-item-197"><a href="/news/">News</a></li>
+<li class="page_item page-item-2"><a href="/contact/">Contact</a></li>
+</ul></div>
+				<div class="copyright">
+					The Bitcoin Podcast © 2019				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+<!--/ footer-->
+</div>
+<!--/ site-->
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-63485649-1', 'auto');
+  ga('send', 'pageview');</script><script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8" id="contact-form-7-js"></script>
+<script type="text/javascript" src="/wp-content/plugins/display-medium-posts/public/js/display-medium-posts-public.js?ver=1.0.0" id="display-medium-posts-js"></script>
+<script type="text/javascript" src="/wp-includes/js/comment-reply.min.js?ver=6.4.2" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" id="thickbox-js-extra">
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105" id="thickbox-js"></script>
+</body>
+</html>

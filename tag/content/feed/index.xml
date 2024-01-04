@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Content &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/content/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 27 Oct 2017 02:17:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Content &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>BlockChannel Episode 33: Incentivizing Creators Online, with Props</title>
+		<link>/bc33/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Fri, 27 Oct 2017 02:17:34 +0000</pubDate>
+				<category><![CDATA[Sponsored Posts]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Blockchannel]]></category>
+		<category><![CDATA[Content]]></category>
+		<category><![CDATA[Dee]]></category>
+		<category><![CDATA[McKie]]></category>
+		<category><![CDATA[Props]]></category>
+		<guid isPermaLink="false">/?p=2997</guid>
+
+					<description><![CDATA[On this episode of BlockChannel, Mckie and Dee sit down with tech veteran Adi Sideman, as we discuss his latest project “Props” by the existing company “YouNow”. Props plans to be a live streaming video platform/social network with built in rewards and incentives powered by their ERC20 “Props” token. Listen as we dig in and [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

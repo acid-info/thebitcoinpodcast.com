@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kenneth Bosak &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/kenneth-bosak/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 15 Mar 2022 15:12:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>Kenneth Bosak &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Flashback: The Bitcoin Podcast  #112: The Broader Economy II</title>
+		<link>/flashback-the-bitcoin-podcast-112/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Tue, 15 Mar 2022 15:52:24 +0000</pubDate>
+				<category><![CDATA[Sponsored Posts]]></category>
+		<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[bitcoin 101]]></category>
+		<category><![CDATA[bitcoin crashing]]></category>
+		<category><![CDATA[bitcoin explained]]></category>
+		<category><![CDATA[bitcoin for beginners]]></category>
+		<category><![CDATA[bitcoin future]]></category>
+		<category><![CDATA[bitcoin halving how to mine bitcoin]]></category>
+		<category><![CDATA[bitcoin millionaire]]></category>
+		<category><![CDATA[bitcoin mine]]></category>
+		<category><![CDATA[bitcoin miner]]></category>
+		<category><![CDATA[bitcoin mining]]></category>
+		<category><![CDATA[bitcoin news]]></category>
+		<category><![CDATA[bitcoin news today]]></category>
+		<category><![CDATA[bitcoin price]]></category>
+		<category><![CDATA[bitcoin wallet]]></category>
+		<category><![CDATA[cnbc bitcoin]]></category>
+		<category><![CDATA[how to buy bitcoin]]></category>
+		<category><![CDATA[how to use bitcoin]]></category>
+		<category><![CDATA[Kenneth Bosak]]></category>
+		<category><![CDATA[today in bitcoin]]></category>
+		<category><![CDATA[what is bitcoin]]></category>
+		<category><![CDATA[what is bitcoin and how does it work]]></category>
+		<guid isPermaLink="false">/?p=7579</guid>
+
+					<description><![CDATA[This is a Flashback Episode, we are going back to Jan 2017 in which Andreas Antonopoulosgreets us at the beginning of the bull run of 2017 on his second appearance on  The Bitcoin Podcast Network.  When I dove down the rabbit hole of Bitcoin in late 2013, Andreas’ YouTube talks and podcasts pulled me further [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

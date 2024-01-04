@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>John Adler &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/john-adler/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 21 Nov 2019 19:34:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>John Adler &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hashing It Out #67 &#8211; Optimistic Rollups &#8211; John Adler</title>
+		<link>/hashing-it-out-67/</link>
+		
+		<dc:creator><![CDATA[Corey Petty]]></dc:creator>
+		<pubDate>Thu, 21 Nov 2019 19:34:49 +0000</pubDate>
+				<category><![CDATA[HashItOut]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Consensys]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[John Adler]]></category>
+		<category><![CDATA[Layer 2]]></category>
+		<category><![CDATA[Optimistic Rollup]]></category>
+		<category><![CDATA[scaling]]></category>
+		<guid isPermaLink="false">/?p=6006</guid>
+
+					<description><![CDATA[Layer 2 scaling solutions have gone through a lot of iterations and disappointing conclusions in the past few years. There is a newer solution, which is boasting some positive (and safe) results: Optimistic Rollups. John Adler, Blockchain Researcher at Consensys, speaks on the history of Layer 2 solutions and describes Optimistic Rollups and how they [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

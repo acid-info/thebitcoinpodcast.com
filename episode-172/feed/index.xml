@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Episode #172: Life After Silicon Valley	</title>
+	<atom:link href="/episode-172/feed/" rel="self" type="application/rss+xml" />
+	<link>/episode-172/</link>
+	<description></description>
+	<lastBuildDate>Tue, 19 Dec 2017 22:25:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: PositiveEV		</title>
+		<link>/episode-172/#comment-409</link>
+
+		<dc:creator><![CDATA[PositiveEV]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2017 22:25:08 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3155#comment-409</guid>
+
+					<description><![CDATA[i think as organizations build platforms that take advantage of the blockchain it will become clear that they should invest in hardware to assist in keeping costs of accessing the ledger. I.e. they put their money where their mouth is and assist in making transactions cheap.]]></description>
+			<content:encoded><![CDATA[<p>i think as organizations build platforms that take advantage of the blockchain it will become clear that they should invest in hardware to assist in keeping costs of accessing the ledger. I.e. they put their money where their mouth is and assist in making transactions cheap.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

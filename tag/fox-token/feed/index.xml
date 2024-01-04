@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FOX Token &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/fox-token/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 26 Jul 2021 06:45:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>FOX Token &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Bitcoin Podcast #361-Erik Voorhees Founder of Shapeshift</title>
+		<link>/the-bitcoin-podcast-361/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2021 12:00:29 +0000</pubDate>
+				<category><![CDATA[The Bitcoin Podcast]]></category>
+		<category><![CDATA[Banks]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[china]]></category>
+		<category><![CDATA[DAO]]></category>
+		<category><![CDATA[decentralization]]></category>
+		<category><![CDATA[dogecoin]]></category>
+		<category><![CDATA[Energy]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[FOX Token]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[Green Energy]]></category>
+		<category><![CDATA[mass adoption]]></category>
+		<category><![CDATA[mining]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Proof of Work]]></category>
+		<category><![CDATA[SEC]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Shapeshift]]></category>
+		<category><![CDATA[tech news]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[tokens]]></category>
+		<guid isPermaLink="false">/?p=7126</guid>
+
+					<description><![CDATA[Jessie, Corey, and Dee in our Roundtable gets into the weeds of building systems that actually help people seek financial freedom. The interview is with Erik Voorhees on the decentralzation of Shape Shift and the complexity of making a company into a DAO. ******THIS EPISODE IS SPONSOR BY MANSCAPE****** Get 20% OFF @manscaped + Free [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

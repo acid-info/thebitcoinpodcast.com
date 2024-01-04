@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hot hand fallacy &#8211; The Bitcoin Podcast Network</title>
+	<atom:link href="/tag/hot-hand-fallacy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 05 Feb 2020 22:15:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/07/cropped-e-QUqNxo-32x32.jpg</url>
+	<title>hot hand fallacy &#8211; The Bitcoin Podcast Network</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Blocked By Design- #Ep 6 &#8211; User Research Pt. 3</title>
+		<link>/blocked-by-design-6/</link>
+		
+		<dc:creator><![CDATA[Alycia Snow]]></dc:creator>
+		<pubDate>Wed, 05 Feb 2020 22:15:55 +0000</pubDate>
+				<category><![CDATA[Blocked by Design]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[blockchain analytics]]></category>
+		<category><![CDATA[blocked by design]]></category>
+		<category><![CDATA[cognitive bias]]></category>
+		<category><![CDATA[cognitive biases]]></category>
+		<category><![CDATA[confirmation bias]]></category>
+		<category><![CDATA[Consensys]]></category>
+		<category><![CDATA[content strategy]]></category>
+		<category><![CDATA[content testing]]></category>
+		<category><![CDATA[crypto design]]></category>
+		<category><![CDATA[crypto users]]></category>
+		<category><![CDATA[curse of knowledge effect]]></category>
+		<category><![CDATA[customer insights]]></category>
+		<category><![CDATA[decentralized design]]></category>
+		<category><![CDATA[decentralized organizations]]></category>
+		<category><![CDATA[design nerds]]></category>
+		<category><![CDATA[design research]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[evaluative research]]></category>
+		<category><![CDATA[generative research]]></category>
+		<category><![CDATA[hot hand fallacy]]></category>
+		<category><![CDATA[idea generation]]></category>
+		<category><![CDATA[open-source design]]></category>
+		<category><![CDATA[product design]]></category>
+		<category><![CDATA[product development]]></category>
+		<category><![CDATA[qualitative research]]></category>
+		<category><![CDATA[quantitative research]]></category>
+		<category><![CDATA[research processes]]></category>
+		<category><![CDATA[user analytics. user research context]]></category>
+		<category><![CDATA[user experience research]]></category>
+		<category><![CDATA[user feedback]]></category>
+		<category><![CDATA[user interviews]]></category>
+		<category><![CDATA[user research]]></category>
+		<category><![CDATA[user segmentation]]></category>
+		<category><![CDATA[user-centered design]]></category>
+		<category><![CDATA[UX research]]></category>
+		<category><![CDATA[web3]]></category>
+		<category><![CDATA[web3 analytics]]></category>
+		<category><![CDATA[web3 design]]></category>
+		<guid isPermaLink="false">/?p=6222</guid>
+
+					<description><![CDATA[For part 3 of the 4 part User Research series Reem and Aqeel had the great pleasure of speaking with Georgia Rakusen about the skills and expertise required to create a high impact User Research strategy. We dive deep into the role of cognitive biases at the intersection of psychology and technology. Examining the process [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

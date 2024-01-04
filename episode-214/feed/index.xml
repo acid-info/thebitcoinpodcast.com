@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Bitcoin Podcast #214: Dan Boneh	</title>
+	<atom:link href="/episode-214/feed/" rel="self" type="application/rss+xml" />
+	<link>/episode-214/</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Aug 2018 13:58:25 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Soof		</title>
+		<link>/episode-214/#comment-472</link>
+
+		<dc:creator><![CDATA[Soof]]></dc:creator>
+		<pubDate>Mon, 23 Jul 2018 17:51:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4329#comment-472</guid>
+
+					<description><![CDATA[what&#039;s the ethereum good source of news that you were talking about?
+Can you eleborate one day on Komodo platform? And if their transactions per second exceeded those of Visa at one point this year? I feel like it&#039;s  a forgotten about Cryptocurrency and platform, especially when it comes to their atomic swaps, implementation of Z-snarks technology and so forth?]]></description>
+			<content:encoded><![CDATA[<p>what&#8217;s the ethereum good source of news that you were talking about?<br />
+Can you eleborate one day on Komodo platform? And if their transactions per second exceeded those of Visa at one point this year? I feel like it&#8217;s  a forgotten about Cryptocurrency and platform, especially when it comes to their atomic swaps, implementation of Z-snarks technology and so forth?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
